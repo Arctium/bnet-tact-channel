@@ -1,0 +1,1 @@
+{"hosts":[{"host":"http://level3.blizzard.com?maxhosts=5"},{"host":"https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"},{"host":"http://kr.cdn.blizzard.com?maxhosts=4"},{"host":"https://kr.cdn.blizzard.com?maxhosts=4&fallback=1"},{"host":"http://blizzard.gcdn.cloudn.co.kr?maxhosts=5"},{"host":"https://blizzard.gcdn.cloudn.co.kr?maxhosts=4&fallback=1"}]}

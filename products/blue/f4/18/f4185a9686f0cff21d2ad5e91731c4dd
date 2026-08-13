@@ -1,0 +1,1 @@
+{"hosts":[{"host":"http://level3.blizzard.com?maxhosts=5"},{"host":"http://eu.cdn.blizzard.com?maxhosts=5"},{"host":"https://eu.cdn.blizzard.com?maxhosts=3&fallback=1"},{"host":"https://level3.ssl.blizzard.com?maxhosts=3&fallback=1"}]}
