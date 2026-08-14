@@ -5499,6 +5499,30 @@
       "builds": [
         {
           "branches": [
+            "eu",
+            "kr",
+            "us"
+          ],
+          "definition": "61aa493dbdd383af14c1d3b5604cc9d0"
+        }
+      ],
+      "infrastructure": false,
+      "product": "auks",
+      "regions": [
+        {
+          "branches": [
+            "eu",
+            "us"
+          ],
+          "cdns": "9111a3ba49fa32ba6f8af8c1642d49ca"
+        }
+      ],
+      "variant": "randgridaukslivedev"
+    },
+    {
+      "builds": [
+        {
+          "branches": [
             "us"
           ],
           "definition": "faa7fd49060e599c79921dd4cdc43a24"
@@ -9463,7 +9487,7 @@
             "kr",
             "us"
           ],
-          "definition": "fe69e7fe7993ef9067c1593dd537867b"
+          "definition": "6eb46713d670619a7bb5e142137a8f81"
         }
       ],
       "infrastructure": false,
