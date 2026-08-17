@@ -16260,12 +16260,7 @@
       "builds": [
         {
           "branches": [
-            "cn"
-          ],
-          "definition": "a02156922bef56f647018c2758ecf486"
-        },
-        {
-          "branches": [
+            "cn",
             "eu",
             "kr",
             "sg",
@@ -16273,7 +16268,7 @@
             "us",
             "xx"
           ],
-          "definition": "cf3322aa361d08efdf7764837adf91e7"
+          "definition": "23502a8639c0b23959f044354f09b220"
         }
       ],
       "infrastructure": false,
