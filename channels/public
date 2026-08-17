@@ -8972,10 +8972,15 @@
         },
         {
           "branches": [
-            "kr",
-            "us"
+            "kr"
           ],
           "definition": "be6a3dfa43e3e9b86b2ac1e88146bbb7"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "definition": "188bac11b7bf712734363cd2f5994759"
         }
       ],
       "infrastructure": false,
