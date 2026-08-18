@@ -12289,40 +12289,6 @@
       "builds": [
         {
           "branches": [
-            "cn",
-            "us"
-          ],
-          "definition": "425966a96b06bb9eacdc5a185f29d183"
-        }
-      ],
-      "infrastructure": false,
-      "product": "hs",
-      "regions": [
-        {
-          "branches": [
-            "us"
-          ],
-          "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"
-        },
-        {
-          "branches": [
-            "eu"
-          ],
-          "cdns": "87a06f78212104fe1a98f84f0157ff50"
-        },
-        {
-          "branches": [
-            "kr"
-          ],
-          "cdns": "4165a2d10276a6dd6bd4942484280b02"
-        }
-      ],
-      "variant": "hse1"
-    },
-    {
-      "builds": [
-        {
-          "branches": [
             "android_amazon",
             "android_google",
             "android_onestore",
