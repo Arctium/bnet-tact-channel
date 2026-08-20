@@ -16950,15 +16950,10 @@
       "builds": [
         {
           "branches": [
-            "cn"
-          ],
-          "definition": "db08685dff0da447a3700322f55fd96e"
-        },
-        {
-          "branches": [
+            "cn",
             "us"
           ],
-          "definition": "434d78f9de86993b08c9778452f4d4a9"
+          "definition": "db08685dff0da447a3700322f55fd96e"
         }
       ],
       "infrastructure": false,
@@ -16997,7 +16992,7 @@
           "branches": [
             "cn"
           ],
-          "definition": "a9bbe811b0712b3a425aa5aadf67de0b"
+          "definition": "ff0e66b838e21c30b986c995ab4458bd"
         }
       ],
       "infrastructure": false,
