@@ -1266,9 +1266,34 @@
             "kr",
             "us"
           ],
-          "definition": "0b67f437b3df2e9484b8917f139c6b2e"
+          "definition": "97f9fdadd0fffd29e9e75007d67188cf"
         }
       ],
+      "infrastructure": false,
+      "product": "auks",
+      "regions": [
+        {
+          "branches": [
+            "kr"
+          ],
+          "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "8ba8fd31ff5c56864770fe5fe5f42d01"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "287b8918c145665428c6f714cdc6e3bd"
+        }
+      ],
+      "variant": "auks"
+    },
+    {
       "infrastructure": false,
       "preloads": [
         {
@@ -1277,7 +1302,7 @@
             "kr",
             "us"
           ],
-          "definition": "786e4c9760cfe95f07ebfce077b0489f"
+          "definition": "b2dbb86f13f7476cb532bb0d28238e5b"
         }
       ],
       "product": "auks",
@@ -1301,7 +1326,7 @@
           "cdns": "287b8918c145665428c6f714cdc6e3bd"
         }
       ],
-      "variant": "auks"
+      "variant": "auksb"
     },
     {
       "builds": [
@@ -9278,6 +9303,41 @@
         }
       ],
       "variant": "sigrunpinta"
+    },
+    {
+      "builds": [
+        {
+          "branches": [
+            "eu",
+            "kr",
+            "us"
+          ],
+          "definition": "1467c9274bbe30f26908802b9265fbfc"
+        }
+      ],
+      "infrastructure": false,
+      "product": "auks",
+      "regions": [
+        {
+          "branches": [
+            "kr"
+          ],
+          "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "8ba8fd31ff5c56864770fe5fe5f42d01"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "287b8918c145665428c6f714cdc6e3bd"
+        }
+      ],
+      "variant": "skuld_auks"
     },
     {
       "builds": [
