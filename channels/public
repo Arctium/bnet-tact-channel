@@ -16885,7 +16885,12 @@
       "builds": [
         {
           "branches": [
-            "cn",
+            "cn"
+          ],
+          "definition": "0459986e2f505ad2e3a5ea1d8ef47f7f"
+        },
+        {
+          "branches": [
             "us"
           ],
           "definition": "8e5519a3ca4db3c08657e3d8adce0902"
