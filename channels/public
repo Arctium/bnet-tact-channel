@@ -6997,19 +6997,19 @@
           "branches": [
             "eu"
           ],
-          "definition": "681f52b1edae8aff0b7ec2bdd2b85eda"
+          "definition": "deb52cfe9c78cd32f0e02452cf588b37"
         },
         {
           "branches": [
             "kr"
           ],
-          "definition": "e4cfade9e5e8e7285ede18cd1ee385f6"
+          "definition": "681f52b1edae8aff0b7ec2bdd2b85eda"
         },
         {
           "branches": [
             "us"
           ],
-          "definition": "deb52cfe9c78cd32f0e02452cf588b37"
+          "definition": "fc21a951ca2fd698fe695f0c04ec98ec"
         }
       ],
       "infrastructure": false,
@@ -8684,7 +8684,7 @@
           "branches": [
             "us"
           ],
-          "definition": "5697fb19571101d3a7140fcfc4f97a3b"
+          "definition": "3cf247aa85589ba5b7633e2f523182b9"
         }
       ],
       "infrastructure": false,
@@ -9970,7 +9970,7 @@
           "branches": [
             "PUB-30"
           ],
-          "definition": "13572577fd5150e6fe882ed735913d9c"
+          "definition": "12e3b148fc87c165648730c2fc1a6c43"
         }
       ],
       "infrastructure": false,
@@ -12339,6 +12339,39 @@
         }
       ],
       "variant": "hsdev"
+    },
+    {
+      "builds": [
+        {
+          "branches": [
+            "us"
+          ],
+          "definition": "056ba27d93fd900ffce6f516d1e020a2"
+        }
+      ],
+      "infrastructure": false,
+      "product": "hs",
+      "regions": [
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "87a06f78212104fe1a98f84f0157ff50"
+        },
+        {
+          "branches": [
+            "kr"
+          ],
+          "cdns": "4165a2d10276a6dd6bd4942484280b02"
+        }
+      ],
+      "variant": "hse1"
     },
     {
       "builds": [
@@ -15235,7 +15268,7 @@
           "branches": [
             "beta"
           ],
-          "definition": "5927905e3fce21c8b7fee0067aa6b792"
+          "definition": "d360c0dd79e5964231a787c561cc319e"
         },
         {
           "branches": [
@@ -15246,7 +15279,7 @@
             "tw",
             "us"
           ],
-          "definition": "f15d909ce03956df1cade8a2f6abee35"
+          "definition": "f4e83eec75df29be9bb11aa6df4ff47b"
         },
         {
           "branches": [
