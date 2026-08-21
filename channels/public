@@ -9041,12 +9041,7 @@
         },
         {
           "branches": [
-            "kr"
-          ],
-          "definition": "4bec58f11542857d2c1d462279223d7e"
-        },
-        {
-          "branches": [
+            "kr",
             "us"
           ],
           "definition": "5244106c7a40c4a98b2d3ba9078ebe12"
