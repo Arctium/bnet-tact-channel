@@ -1294,17 +1294,17 @@
       "variant": "auks"
     },
     {
-      "infrastructure": false,
-      "preloads": [
+      "builds": [
         {
           "branches": [
             "eu",
             "kr",
             "us"
           ],
-          "definition": "9d807c83a44fe74faa68bba0d50eae61"
+          "definition": "337fff23c61762c914bfba3552bd3927"
         }
       ],
+      "infrastructure": false,
       "product": "auks",
       "regions": [
         {
@@ -8876,7 +8876,7 @@
           "branches": [
             "us"
           ],
-          "definition": "8f5ca80de2236ad96ae6011e44c5a3e0"
+          "definition": "08c1cd09fe1bb7d12fa5b6170b950014"
         }
       ],
       "infrastructure": false,
@@ -9965,7 +9965,7 @@
           "branches": [
             "PUB-30"
           ],
-          "definition": "e66ad9285769e8a8fa66bc76ba1e1ea7"
+          "definition": "808c1f86327b61a7567305b0e56323dc"
         }
       ],
       "infrastructure": false,
