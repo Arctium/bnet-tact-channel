@@ -17064,45 +17064,6 @@
           "branches": [
             "cn"
           ],
-          "definition": "3236a626f85ebd432ad8248334b9c102"
-        }
-      ],
-      "infrastructure": false,
-      "product": "wow",
-      "regions": [
-        {
-          "branches": [
-            "us"
-          ],
-          "cdns": "919646d723f2fff72418101b1223ddb0"
-        },
-        {
-          "branches": [
-            "kr"
-          ],
-          "cdns": "0e52e616adbad7a6a5fa0a41741bb101"
-        },
-        {
-          "branches": [
-            "eu"
-          ],
-          "cdns": "287b8918c145665428c6f714cdc6e3bd"
-        },
-        {
-          "branches": [
-            "cn"
-          ],
-          "cdns": "3cc07b8abb8ad2f7349e2613d7fdad94"
-        }
-      ],
-      "variant": "wownev12"
-    },
-    {
-      "builds": [
-        {
-          "branches": [
-            "cn"
-          ],
           "definition": "c2e3d1cdd87ff97afbd3ebc75b055547"
         }
       ],
