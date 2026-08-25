@@ -12261,15 +12261,10 @@
             "android_cn_huawei",
             "android_google",
             "android_onestore",
-            "ios",
-            "ios_cn"
-          ],
-          "definition": "2455db54fd6c75287f3afaa6f7728f4b"
-        },
-        {
-          "branches": [
             "cn",
             "eu",
+            "ios",
+            "ios_cn",
             "kr",
             "us"
           ],
