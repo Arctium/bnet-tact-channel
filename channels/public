@@ -9007,12 +9007,7 @@
         },
         {
           "branches": [
-            "kr"
-          ],
-          "definition": "71c928fa76cc576307e2480fa9e0e5aa"
-        },
-        {
-          "branches": [
+            "kr",
             "us"
           ],
           "definition": "55394011c7af73c510f6896e9b3f994e"
