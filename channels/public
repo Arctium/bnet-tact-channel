@@ -16315,7 +16315,6 @@
         {
           "branches": [
             "cn",
-            "eu",
             "kr",
             "sg",
             "tw",
@@ -16325,6 +16324,7 @@
         },
         {
           "branches": [
+            "eu",
             "us"
           ],
           "definition": "62750c99c3c34d9cc569992c7d12e5ff"
