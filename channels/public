@@ -1336,7 +1336,7 @@
             "kr",
             "us"
           ],
-          "definition": "4410b90f7a166c4de961dd1823b88c7a"
+          "definition": "3c0a6ffd57a38fb862496751f6cbb0b0"
         }
       ],
       "infrastructure": false,
@@ -9007,12 +9007,7 @@
         },
         {
           "branches": [
-            "kr"
-          ],
-          "definition": "55394011c7af73c510f6896e9b3f994e"
-        },
-        {
-          "branches": [
+            "kr",
             "us"
           ],
           "definition": "98ad39ba5240d6d98ab26a66a37e0431"
