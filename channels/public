@@ -16320,17 +16320,12 @@
         {
           "branches": [
             "cn",
-            "sg",
-            "xx"
-          ],
-          "definition": "b31771789ed6f1a64b7fe21421a0ba2a"
-        },
-        {
-          "branches": [
             "eu",
             "kr",
+            "sg",
             "tw",
-            "us"
+            "us",
+            "xx"
           ],
           "definition": "62750c99c3c34d9cc569992c7d12e5ff"
         }
