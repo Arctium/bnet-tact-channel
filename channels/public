@@ -15653,6 +15653,41 @@
       "builds": [
         {
           "branches": [
+            "eu",
+            "kr",
+            "us"
+          ],
+          "definition": "2c8ba40e73359410ea9749d72dac01e9"
+        }
+      ],
+      "infrastructure": false,
+      "product": "spot",
+      "regions": [
+        {
+          "branches": [
+            "kr"
+          ],
+          "cdns": "aaa0e588f2a53291e1e59496940494da"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "a82da8e8cbff09cee2eb46d7bc99cacb"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "e2d688bd00eb8127b051f02b31244e76"
+        }
+      ],
+      "variant": "spotv1"
+    },
+    {
+      "builds": [
+        {
+          "branches": [
             "cn",
             "eu",
             "kr",
