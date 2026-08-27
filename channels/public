@@ -1336,30 +1336,6 @@
             "kr",
             "us"
           ],
-          "definition": "3c0a6ffd57a38fb862496751f6cbb0b0"
-        }
-      ],
-      "infrastructure": false,
-      "product": "auks",
-      "regions": [
-        {
-          "branches": [
-            "us",
-            "eu"
-          ],
-          "cdns": "9111a3ba49fa32ba6f8af8c1642d49ca"
-        }
-      ],
-      "variant": "auksdev"
-    },
-    {
-      "builds": [
-        {
-          "branches": [
-            "eu",
-            "kr",
-            "us"
-          ],
           "definition": "f01e4e1b94111d5c53d0637158558359"
         }
       ],
