@@ -8981,10 +8981,15 @@
         },
         {
           "branches": [
-            "kr",
+            "kr"
+          ],
+          "definition": "57e3b8e862fc44bc18816070f09b2abf"
+        },
+        {
+          "branches": [
             "us"
           ],
-          "definition": "a710f9c30271f60c048c73d3c718af97"
+          "definition": "9306bdc7926bd8ff259d75bca6e17e6d"
         }
       ],
       "infrastructure": false,
@@ -9045,7 +9050,7 @@
           "branches": [
             "eu"
           ],
-          "definition": "cbff61d019b8f77b9646ee0f9f0d5c8c"
+          "definition": "b81baae53619735627dd17d9bfe6824e"
         },
         {
           "branches": [
