@@ -8329,7 +8329,7 @@
           "branches": [
             "eu"
           ],
-          "definition": "540e7fafb03df69431f923d867752cd7"
+          "definition": "27495e3c857f651137e40c3996510b88"
         },
         {
           "branches": [
@@ -8341,7 +8341,7 @@
           "branches": [
             "us"
           ],
-          "definition": "b696b01c9136ba19cfb67577b433c6b9"
+          "definition": "768995461b0baeb155ae4a36152284af"
         }
       ],
       "infrastructure": false,
@@ -9015,10 +9015,15 @@
         },
         {
           "branches": [
-            "kr",
-            "us"
+            "kr"
           ],
           "definition": "f20e873941f93fac2a976155ab80c525"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "definition": "78b4f0dc7ba85cf1ddd6ba0235fdd65c"
         }
       ],
       "infrastructure": false,
