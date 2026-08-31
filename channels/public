@@ -3514,21 +3514,16 @@
       "builds": [
         {
           "branches": [
-            "eu"
+            "eu",
+            "us"
           ],
-          "definition": "386a6fc0dd9af046ead42e182b3dc937"
+          "definition": "13578f33f0d76c0500a0cc028892c39c"
         },
         {
           "branches": [
             "kr"
           ],
           "definition": "3a61121642970448b91b60941419f80e"
-        },
-        {
-          "branches": [
-            "us"
-          ],
-          "definition": "13578f33f0d76c0500a0cc028892c39c"
         }
       ],
       "infrastructure": false,
