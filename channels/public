@@ -3514,16 +3514,21 @@
       "builds": [
         {
           "branches": [
-            "eu",
-            "us"
+            "eu"
           ],
-          "definition": "13578f33f0d76c0500a0cc028892c39c"
+          "definition": "bbe8c2cca9a88cb06daa3e62364785eb"
         },
         {
           "branches": [
             "kr"
           ],
           "definition": "3a61121642970448b91b60941419f80e"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "definition": "13578f33f0d76c0500a0cc028892c39c"
         }
       ],
       "infrastructure": false,
@@ -3562,7 +3567,7 @@
           "branches": [
             "us"
           ],
-          "definition": "d0e1fc77123b6de974b5e1ac93e1c834"
+          "definition": "5b27949b4b861c30edbe5d1e2c5f52da"
         }
       ],
       "infrastructure": false,
