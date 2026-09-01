@@ -12677,34 +12677,6 @@
         {
           "branches": [
             "eu",
-            "us"
-          ],
-          "definition": "06f6069be7c80a6c3121db92eda27443"
-        }
-      ],
-      "infrastructure": false,
-      "product": "lyra",
-      "regions": [
-        {
-          "branches": [
-            "us"
-          ],
-          "cdns": "919646d723f2fff72418101b1223ddb0"
-        },
-        {
-          "branches": [
-            "eu"
-          ],
-          "cdns": "287b8918c145665428c6f714cdc6e3bd"
-        }
-      ],
-      "variant": "lyra-retail-dev-1"
-    },
-    {
-      "builds": [
-        {
-          "branches": [
-            "eu",
             "kr",
             "us"
           ],
