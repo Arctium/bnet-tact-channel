@@ -8983,13 +8983,13 @@
           "branches": [
             "kr"
           ],
-          "definition": "dd5cf2e7bb9e28d409ae674d1d29901d"
+          "definition": "75458e3be0b312b225a000befe793e78"
         },
         {
           "branches": [
             "us"
           ],
-          "definition": "75458e3be0b312b225a000befe793e78"
+          "definition": "d6aec10484ec85a3b2ffe7d09e48c3c4"
         }
       ],
       "infrastructure": false,
@@ -9056,7 +9056,7 @@
           "branches": [
             "kr"
           ],
-          "definition": "0022b775ef14987fd56354f799927118"
+          "definition": "8fde482412ae0bee87db5adbfaba7887"
         },
         {
           "branches": [
