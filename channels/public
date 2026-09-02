@@ -9020,12 +9020,7 @@
         },
         {
           "branches": [
-            "kr"
-          ],
-          "definition": "15b138dc22983ab06839ec0c194c816d"
-        },
-        {
-          "branches": [
+            "kr",
             "us"
           ],
           "definition": "f01bd6c7b12c73f277fafdd716fcdec3"
@@ -16334,17 +16329,12 @@
         {
           "branches": [
             "cn",
-            "sg",
-            "xx"
-          ],
-          "definition": "62750c99c3c34d9cc569992c7d12e5ff"
-        },
-        {
-          "branches": [
             "eu",
             "kr",
+            "sg",
             "tw",
-            "us"
+            "us",
+            "xx"
           ],
           "definition": "25af1bb680bdf0bfeca83a4a075808ea"
         }
