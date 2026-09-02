@@ -8981,12 +8981,7 @@
         },
         {
           "branches": [
-            "kr"
-          ],
-          "definition": "75458e3be0b312b225a000befe793e78"
-        },
-        {
-          "branches": [
+            "kr",
             "us"
           ],
           "definition": "d6aec10484ec85a3b2ffe7d09e48c3c4"
