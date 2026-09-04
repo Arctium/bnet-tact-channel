@@ -7727,7 +7727,7 @@
           "branches": [
             "eu"
           ],
-          "definition": "cd44f43f9870c9e3d5dbaf6010cb6d8a"
+          "definition": "8a778d576165733018a618094dde5f53"
         },
         {
           "branches": [
@@ -7739,7 +7739,7 @@
           "branches": [
             "us"
           ],
-          "definition": "3a6cbe50dcca6261c545db2ce5d791d1"
+          "definition": "5de0e4227aba8f22eff7b3f85575ec97"
         }
       ],
       "infrastructure": false,
@@ -13502,6 +13502,18 @@
         }
       ],
       "infrastructure": false,
+      "preloads": [
+        {
+          "branches": [
+            "cn",
+            "eu",
+            "kr",
+            "nexon",
+            "us"
+          ],
+          "definition": "ae01b21a9d9c13a344ad527289509b61"
+        }
+      ],
       "product": "ovw",
       "regions": [
         {
