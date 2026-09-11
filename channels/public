@@ -9020,12 +9020,7 @@
         },
         {
           "branches": [
-            "kr"
-          ],
-          "definition": "d824faa0ed98fa9480a79e582411ba69"
-        },
-        {
-          "branches": [
+            "kr",
             "us"
           ],
           "definition": "f254f40804b72e1d122c26806a7e2bdb"
