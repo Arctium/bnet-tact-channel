@@ -80,7 +80,7 @@
             "kr",
             "us"
           ],
-          "definition": "37f536964b16ac3ed8cac32d1923da72"
+          "definition": "b986819dc2d1cc57e48a9c5280a5df9c"
         }
       ],
       "infrastructure": false,
@@ -115,7 +115,7 @@
             "kr",
             "us"
           ],
-          "definition": "293e044027040e0ac1a48807f28f1a16"
+          "definition": "954110a9e7785789a6233f44b7a1c653"
         }
       ],
       "infrastructure": false,
@@ -629,7 +629,7 @@
             "eu",
             "us"
           ],
-          "definition": "fa7a1080b4c038df4be9bea8115086da"
+          "definition": "2abdbc77a71c115e873c82c725865481"
         }
       ],
       "infrastructure": false,
@@ -1023,7 +1023,7 @@
             "kr",
             "us"
           ],
-          "definition": "8a0fa424366046724be649bf86bcfcbd"
+          "definition": "e73e789f2e860453d730715df48988de"
         }
       ],
       "infrastructure": false,
@@ -1052,7 +1052,7 @@
             "kr",
             "us"
           ],
-          "definition": "7b9315fea55a2ec2ee017cabf7f8a03c"
+          "definition": "21856cdfac4d019905b32670c5eb11e2"
         }
       ],
       "infrastructure": false,
@@ -1358,7 +1358,7 @@
             "kr",
             "us"
           ],
-          "definition": "f01e4e1b94111d5c53d0637158558359"
+          "definition": "117c452ba64e8c9ce1b9250f0d4804ea"
         }
       ],
       "infrastructure": false,
@@ -1404,7 +1404,7 @@
             "kr",
             "us"
           ],
-          "definition": "374d754c8bd22f2ad5a9f5874a6fafeb"
+          "definition": "fb48eb43a91456cf853eaab867c0ed80"
         }
       ],
       "infrastructure": false,
@@ -3516,19 +3516,19 @@
           "branches": [
             "eu"
           ],
-          "definition": "310b089b724ba3c2c9244ca6624b876b"
+          "definition": "1be76f756872c25644c6c82c82c031dd"
         },
         {
           "branches": [
             "kr"
           ],
-          "definition": "8f1f9befc26e26f875dda100b5e80bc1"
+          "definition": "9af862b41fd7a20a285dc71594891e22"
         },
         {
           "branches": [
             "us"
           ],
-          "definition": "8c3ce967ce580edd0b2c536a95eb3875"
+          "definition": "f1f911dae419a77c8dd04d7148e35706"
         }
       ],
       "infrastructure": false,
@@ -3959,7 +3959,7 @@
           "branches": [
             "us"
           ],
-          "definition": "58d585bed1029d513decf89941b793bd"
+          "definition": "ab111ca11c88421bdb18abc756b000fe"
         }
       ],
       "infrastructure": false,
@@ -4469,7 +4469,7 @@
           "branches": [
             "eu"
           ],
-          "definition": "65d393b8bfb952809653a8bfc0b96ca2"
+          "definition": "c6d504632be665e4029fe80f53986d3b"
         },
         {
           "branches": [
@@ -4481,7 +4481,7 @@
           "branches": [
             "us"
           ],
-          "definition": "2c1936223ee3655fe11065f4dc2d4463"
+          "definition": "0dc5e7f251991361a64279de9dc2c028"
         }
       ],
       "infrastructure": false,
@@ -5519,7 +5519,7 @@
             "kr",
             "us"
           ],
-          "definition": "1875d97be7ccbd3029d534889f7e96e1"
+          "definition": "b12328b95acb5d3278e61ae5f8efac39"
         }
       ],
       "infrastructure": false,
@@ -6971,19 +6971,19 @@
           "branches": [
             "eu"
           ],
-          "definition": "92fc6f8cb01c8e723b298e59ba041bd5"
+          "definition": "b678d77449b7637bbdb96bf0ab97c4af"
         },
         {
           "branches": [
             "kr"
           ],
-          "definition": "6d69291c3f8110689469f0380e9c4081"
+          "definition": "e704c56966385d8d1636f23356466986"
         },
         {
           "branches": [
             "us"
           ],
-          "definition": "5a2182ae8285968f611b7e33eb0fb5b0"
+          "definition": "9f30a4f1a36b236c41b123f310bb620e"
         }
       ],
       "infrastructure": false,
@@ -7094,7 +7094,7 @@
           "branches": [
             "kr"
           ],
-          "definition": "43873f0125cad2f1e816f13d7611c9fd"
+          "definition": "a6b1bd12f54da72060a655451b775200"
         },
         {
           "branches": [
@@ -7246,7 +7246,7 @@
           "branches": [
             "us"
           ],
-          "definition": "46d8a97f9f2812b227dbf09dd130e126"
+          "definition": "089d5af836ba8fbf27fa60a291eb0b47"
         }
       ],
       "infrastructure": false,
@@ -7273,19 +7273,19 @@
           "branches": [
             "eu"
           ],
-          "definition": "d4d4d9cbf1f7c0ed6f3bace2c4d2b44e"
+          "definition": "d8580c0b1c2427793461766ec178577e"
         },
         {
           "branches": [
             "kr"
           ],
-          "definition": "a2abcf9a4bea69cdaef08853b12ab430"
+          "definition": "92d2dd2b13d68874f11416f7c34b7ebc"
         },
         {
           "branches": [
             "us"
           ],
-          "definition": "8da74a9c974288fa3f93e3b9b08dcf4f"
+          "definition": "d1af58225bf958084d7ba632ed501ac1"
         }
       ],
       "infrastructure": false,
@@ -7318,7 +7318,7 @@
           "branches": [
             "kr"
           ],
-          "definition": "97216ff84d890dc1574be9e39b5c322d"
+          "definition": "a34efcad36a27adf3aa928c589339608"
         },
         {
           "branches": [
@@ -7351,7 +7351,7 @@
           "branches": [
             "eu"
           ],
-          "definition": "6bf53f86a23384254631372708ae6c5a"
+          "definition": "7f5152f5b985fcccdc4b617e1df550aa"
         },
         {
           "branches": [
@@ -7457,7 +7457,7 @@
           "branches": [
             "eu"
           ],
-          "definition": "758090b6d7b9bbdf81df0cd0281a0e49"
+          "definition": "3e08495961d3c69645601d8b712f0a9c"
         },
         {
           "branches": [
@@ -7469,7 +7469,7 @@
           "branches": [
             "us"
           ],
-          "definition": "81999e07a08eb502bd60a19085478fd9"
+          "definition": "df1fdee7b7150d30401d373a742fa8e8"
         }
       ],
       "infrastructure": false,
@@ -7508,7 +7508,7 @@
           "branches": [
             "us"
           ],
-          "definition": "6e5a5dd3e020199a45aca2d0c4d225c0"
+          "definition": "05d0086f9162d81af359d748b5595408"
         }
       ],
       "infrastructure": false,
@@ -7615,7 +7615,7 @@
             "kr",
             "us"
           ],
-          "definition": "d4f37fc4ad5cee8ad59e7bcd37cccf22"
+          "definition": "330a2200f2a5ab1c1460d28a3315193e"
         }
       ],
       "infrastructure": false,
@@ -7727,19 +7727,19 @@
           "branches": [
             "eu"
           ],
-          "definition": "8a778d576165733018a618094dde5f53"
+          "definition": "1c44039ce11ed185962afc3d21db7274"
         },
         {
           "branches": [
             "kr"
           ],
-          "definition": "4a7f24c452e197309f967fd95d1b01b0"
+          "definition": "5de0e4227aba8f22eff7b3f85575ec97"
         },
         {
           "branches": [
             "us"
           ],
-          "definition": "5de0e4227aba8f22eff7b3f85575ec97"
+          "definition": "6f81d375137a8b9385db3a4ca6749e8c"
         }
       ],
       "infrastructure": false,
@@ -7883,7 +7883,7 @@
           "branches": [
             "eu"
           ],
-          "definition": "432831bfd6b7a413205359e11db54652"
+          "definition": "8724606132c798331aa054414573e228"
         },
         {
           "branches": [
@@ -7895,7 +7895,7 @@
           "branches": [
             "us"
           ],
-          "definition": "f64749f859b7834ff49167b43f28d5c5"
+          "definition": "61979a92f1c52f18415c487254a253de"
         }
       ],
       "infrastructure": false,
@@ -7922,7 +7922,7 @@
           "branches": [
             "us"
           ],
-          "definition": "7aa5144a339c3ce8055b74697398f90b"
+          "definition": "b7aa3523875a11be28c1b0d1b4df6095"
         }
       ],
       "infrastructure": false,
@@ -7961,7 +7961,7 @@
           "branches": [
             "us"
           ],
-          "definition": "54d76c91b11debeb420c06c16c87113c"
+          "definition": "7c17a9f2147dd22043a7347954993854"
         }
       ],
       "infrastructure": false,
@@ -8339,7 +8339,7 @@
           "branches": [
             "eu"
           ],
-          "definition": "3271b821f7edba565f73ca6c8bd5fb6a"
+          "definition": "e7a7022fdefad17769d0ed2cc8e545a3"
         },
         {
           "branches": [
@@ -9016,19 +9016,19 @@
           "branches": [
             "eu"
           ],
-          "definition": "e36a4b69217ffc4a3cf067a926cf2a8b"
+          "definition": "447de01a2735f44adffd6af0df7887df"
         },
         {
           "branches": [
             "kr"
           ],
-          "definition": "4d5c1405bdd8705bd0b107dd1e88800b"
+          "definition": "d824faa0ed98fa9480a79e582411ba69"
         },
         {
           "branches": [
             "us"
           ],
-          "definition": "033aff981ac526efe31cf9143a0ea042"
+          "definition": "a8cf69d3efc86f1bf8852d9d5f90eda2"
         }
       ],
       "infrastructure": false,
@@ -9608,7 +9608,7 @@
             "kr",
             "us"
           ],
-          "definition": "65452adb8abe2d021de40288fa66b906"
+          "definition": "e97c8afd513a1ab2a066435736fa9ca3"
         }
       ],
       "infrastructure": false,
@@ -9949,7 +9949,7 @@
           "branches": [
             "PUB-30"
           ],
-          "definition": "6a5d74d9e4e0ecc872571b93c5d60d1b"
+          "definition": "00e54cc96a2b18f3fe948841c2d8fa5d"
         }
       ],
       "infrastructure": false,
@@ -10217,7 +10217,7 @@
             "eu",
             "us"
           ],
-          "definition": "fe72a8cd93b645d77f57ba08b4508f1c"
+          "definition": "912c0df93e3a06ad605ceeaa8b42801c"
         }
       ],
       "infrastructure": false,
@@ -12685,6 +12685,35 @@
             "kr",
             "us"
           ],
+          "definition": "c0f6c741935e131da877498513b5387c"
+        }
+      ],
+      "infrastructure": false,
+      "product": "lyra",
+      "regions": [
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "919646d723f2fff72418101b1223ddb0"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "287b8918c145665428c6f714cdc6e3bd"
+        }
+      ],
+      "variant": "lyra-retail-dev-1"
+    },
+    {
+      "builds": [
+        {
+          "branches": [
+            "eu",
+            "kr",
+            "us"
+          ],
           "definition": "411a5d703747b92cf58bf07eaa475284"
         }
       ],
@@ -13484,7 +13513,7 @@
           "branches": [
             "cn"
           ],
-          "definition": "ef8d80ae30a579e4c914b9999fe3d36c"
+          "definition": "e7029174f8c9e6fb262dcbce7a5d6219"
         },
         {
           "branches": [
@@ -13492,13 +13521,13 @@
             "kr",
             "us"
           ],
-          "definition": "a4ed080a9de53da4404deab6d3409b22"
+          "definition": "8a5d4f8aa08325439af123fe443721ac"
         },
         {
           "branches": [
             "nexon"
           ],
-          "definition": "45526c4b2d95c9419839862629fce183"
+          "definition": "4a050b961b3060ca0385d7bf6b43dd15"
         }
       ],
       "infrastructure": false,
@@ -13660,7 +13689,7 @@
           "branches": [
             "us"
           ],
-          "definition": "26b0767c4fcda8bbd51678ee3147c70a"
+          "definition": "666201b7b8ca08f0d67306075d695159"
         }
       ],
       "infrastructure": false,
@@ -13694,7 +13723,7 @@
           "branches": [
             "cn"
           ],
-          "definition": "9f6ecb42b7fddab8f761a98ed0a1bb14"
+          "definition": "d85c3be3fb473e7cf133a3567002fd6d"
         },
         {
           "branches": [
@@ -13702,7 +13731,7 @@
             "kr",
             "us"
           ],
-          "definition": "65714d1c959ebe7362889949ef169db3"
+          "definition": "3d6104e659a3d119e9787a5ff446db41"
         }
       ],
       "infrastructure": false,
@@ -13914,7 +13943,7 @@
           "branches": [
             "us"
           ],
-          "definition": "65d1e2b37c5504e4bd2a8acc0d2fab57"
+          "definition": "9d027a8b8e250f982f9eac8a19fc9739"
         }
       ],
       "infrastructure": false,
@@ -14224,7 +14253,7 @@
             "tw",
             "us"
           ],
-          "definition": "c7f380aade0ffaf760f54a8e246dcdb8"
+          "definition": "cc4c89972c298980ba87cdfb05de0978"
         }
       ],
       "infrastructure": false,
@@ -14283,7 +14312,7 @@
           "branches": [
             "tw"
           ],
-          "definition": "9bb182aa5eaa29fb0b5c00f53c4da310"
+          "definition": "623fba75250496c7fc72cd9dd308e586"
         }
       ],
       "infrastructure": false,
@@ -14323,7 +14352,7 @@
           "branches": [
             "us"
           ],
-          "definition": "c24c1617c7509854cb62197075e3a525"
+          "definition": "cbd6a595051946c12e23cc9b914bd84e"
         }
       ],
       "infrastructure": false,
@@ -14431,7 +14460,7 @@
           "branches": [
             "us"
           ],
-          "definition": "e390bbde62311bc812032214573d6fc3"
+          "definition": "5f8766eed33d795d2370691f14122fbb"
         }
       ],
       "infrastructure": false,
@@ -14458,7 +14487,7 @@
           "branches": [
             "nexon"
           ],
-          "definition": "cbf64ba0bae8cf96f7e179639d5dad59"
+          "definition": "41e6d6b1f696e97583e67899a7052caf"
         },
         {
           "branches": [
@@ -14524,7 +14553,7 @@
           "branches": [
             "us"
           ],
-          "definition": "cb00ab25e86073729486b354fe327207"
+          "definition": "77d328221b16fa4d802bc7080a8af70d"
         }
       ],
       "infrastructure": false,
@@ -14662,7 +14691,7 @@
           "branches": [
             "us"
           ],
-          "definition": "a798c19d3ee63d4cfceb35b357f87eb2"
+          "definition": "27d11908875f2c83777973982c2c17a4"
         }
       ],
       "infrastructure": false,
@@ -14738,7 +14767,7 @@
           "branches": [
             "us"
           ],
-          "definition": "033e655e2ff0e96c551a98adfa7d3ded"
+          "definition": "643f535686a34dc2e3e785321aa7bcd8"
         }
       ],
       "infrastructure": false,
@@ -14854,7 +14883,7 @@
           "branches": [
             "us"
           ],
-          "definition": "988a26f4caf819345a8bbdc4f23466c8"
+          "definition": "be67c258f1d82599828311b15f644ad7"
         }
       ],
       "infrastructure": false,
@@ -14891,7 +14920,7 @@
           "branches": [
             "us"
           ],
-          "definition": "2a644605db69b314dc722e044d7a63fc"
+          "definition": "bf41e5350f37837916872ae2aa4023f9"
         }
       ],
       "infrastructure": false,
@@ -15139,7 +15168,7 @@
           "branches": [
             "cn"
           ],
-          "definition": "c872e0e6e3d1762e7a001f60ae4ebb59"
+          "definition": "06f422794f56ad53247de254a7e10705"
         },
         {
           "branches": [
@@ -15179,7 +15208,7 @@
           "branches": [
             "cn"
           ],
-          "definition": "13a6cbc5c4e8079ecf0dcd3d85f9a6f9"
+          "definition": "ba3413a5b160370208e3f2fee9e28b00"
         },
         {
           "branches": [
@@ -16076,7 +16105,7 @@
           "branches": [
             "us"
           ],
-          "definition": "dd9153809a766d7100ba98d0aaac339d"
+          "definition": "ca837dac0fb00b7e5e4a6fe79f032e32"
         }
       ],
       "infrastructure": false,
@@ -16783,7 +16812,7 @@
             "us",
             "xx"
           ],
-          "definition": "ea8f408246f1d48f8f4fed3c5bab3caa"
+          "definition": "edb81c6445aeac1381e1020e97245407"
         }
       ],
       "infrastructure": false,
@@ -17051,7 +17080,7 @@
           "branches": [
             "cn"
           ],
-          "definition": "9b8f2d4bba1ed1696013085308edd35e"
+          "definition": "f8bf4f95e56bd3d8a415ef8514f8e90e"
         }
       ],
       "infrastructure": false,
@@ -17525,7 +17554,7 @@
             "tw",
             "us"
           ],
-          "definition": "b051897b6b38c13b8c04c4d9c1ccbdc9"
+          "definition": "bca6d57563d0d6917989032f975a9203"
         }
       ],
       "infrastructure": false,
@@ -17562,7 +17591,7 @@
             "tw",
             "us"
           ],
-          "definition": "56e3c7f0d7ac42223a98e1b036629887"
+          "definition": "148d071bf4fe5222fb98922523331278"
         }
       ],
       "infrastructure": false,
