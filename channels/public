@@ -12114,12 +12114,7 @@
         },
         {
           "branches": [
-            "eu"
-          ],
-          "definition": "b460b816b299d9e429cbc9e0f561eead"
-        },
-        {
-          "branches": [
+            "eu",
             "kr",
             "sg",
             "tw",
