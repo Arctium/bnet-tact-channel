@@ -10563,6 +10563,22 @@
         }
       ],
       "infrastructure": false,
+      "preloads": [
+        {
+          "branches": [
+            "cn"
+          ],
+          "definition": "280c5a8aa46a898b446eec58312d3752"
+        },
+        {
+          "branches": [
+            "eu",
+            "kr",
+            "us"
+          ],
+          "definition": "569e45edbecf2d00b26810cc36a23d10"
+        }
+      ],
       "product": "fenris",
       "regions": [
         {
@@ -16779,7 +16795,7 @@
             "us",
             "xx"
           ],
-          "definition": "edb81c6445aeac1381e1020e97245407"
+          "definition": "da1aa97cea065786d7ded9612956e829"
         }
       ],
       "infrastructure": false,
