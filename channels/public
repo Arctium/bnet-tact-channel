@@ -7727,19 +7727,19 @@
           "branches": [
             "eu"
           ],
-          "definition": "1c44039ce11ed185962afc3d21db7274"
+          "definition": "6f81d375137a8b9385db3a4ca6749e8c"
         },
         {
           "branches": [
             "kr"
           ],
-          "definition": "5de0e4227aba8f22eff7b3f85575ec97"
+          "definition": "1c44039ce11ed185962afc3d21db7274"
         },
         {
           "branches": [
             "us"
           ],
-          "definition": "6f81d375137a8b9385db3a4ca6749e8c"
+          "definition": "35aacda8ec904fe660e658261184e6f2"
         }
       ],
       "infrastructure": false,
@@ -7994,7 +7994,7 @@
           "branches": [
             "kr"
           ],
-          "definition": "7f387f50263c1edc6a02cb0512c20c6a"
+          "definition": "b6b6e2e140247fa638ebbbe8433b0da0"
         },
         {
           "branches": [
