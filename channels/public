@@ -7295,7 +7295,7 @@
           "branches": [
             "us"
           ],
-          "definition": "d1af58225bf958084d7ba632ed501ac1"
+          "definition": "e253e93669f3df43a74cbc4f1182c09e"
         }
       ],
       "infrastructure": false,
@@ -7998,7 +7998,7 @@
           "branches": [
             "eu"
           ],
-          "definition": "437efdc906636a9e304028dd81b75684"
+          "definition": "bc06927b3c99e3c4c93c4475e87cbc69"
         },
         {
           "branches": [
@@ -12250,14 +12250,19 @@
             "android_cn_huawei",
             "android_google",
             "android_onestore",
+            "ios",
+            "ios_cn"
+          ],
+          "definition": "c349f2f9111394598308420ccba5fc67"
+        },
+        {
+          "branches": [
             "cn",
             "eu",
-            "ios",
-            "ios_cn",
             "kr",
             "us"
           ],
-          "definition": "9ccb5792817625654a5bed360b516b1c"
+          "definition": "aad96787c52e8ce7caaa58be2e35c5a2"
         }
       ],
       "infrastructure": false,
