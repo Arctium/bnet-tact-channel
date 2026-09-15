@@ -7551,7 +7551,7 @@
           "branches": [
             "kr"
           ],
-          "definition": "47b2cf88df06ed67e95a36c1bd0d7cb3"
+          "definition": "32af6c5f4b2b1b13531f7894345bab18"
         },
         {
           "branches": [
@@ -16296,7 +16296,7 @@
             "us",
             "xx"
           ],
-          "definition": "25af1bb680bdf0bfeca83a4a075808ea"
+          "definition": "1502cafd6cca6c1e26302cb960530f48"
         }
       ],
       "infrastructure": false,
@@ -16463,6 +16463,46 @@
         }
       ],
       "variant": "wow_classic"
+    },
+    {
+      "builds": [
+        {
+          "branches": [
+            "us"
+          ],
+          "definition": "275d82d6c031f8ec1203d60f8d187d77"
+        }
+      ],
+      "infrastructure": false,
+      "product": "wow",
+      "regions": [
+        {
+          "branches": [
+            "tw",
+            "us"
+          ],
+          "cdns": "ad298166bc8896ec90ad1cff7b693bd5"
+        },
+        {
+          "branches": [
+            "kr"
+          ],
+          "cdns": "8967c799fa1e344e1b8dfe8d95e517fe"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "04458a4f0d38210a778428f7bc1c41c5"
+        },
+        {
+          "branches": [
+            "cn"
+          ],
+          "cdns": "3cc07b8abb8ad2f7349e2613d7fdad94"
+        }
+      ],
+      "variant": "wow_classic_beta"
     },
     {
       "builds": [
