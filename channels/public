@@ -10549,21 +10549,9 @@
       "builds": [
         {
           "branches": [
-            "cn",
-            "eu",
-            "kr",
-            "us"
-          ],
-          "definition": "16142687fef2b8613e89cb6511d13a60"
-        }
-      ],
-      "infrastructure": false,
-      "preloads": [
-        {
-          "branches": [
             "cn"
           ],
-          "definition": "280c5a8aa46a898b446eec58312d3752"
+          "definition": "ec0161d83ca0101af02c9741dbd93f89"
         },
         {
           "branches": [
@@ -10571,9 +10559,10 @@
             "kr",
             "us"
           ],
-          "definition": "569e45edbecf2d00b26810cc36a23d10"
+          "definition": "19bac582b5f25f5df944f884a91df58e"
         }
       ],
+      "infrastructure": false,
       "product": "fenris",
       "regions": [
         {
