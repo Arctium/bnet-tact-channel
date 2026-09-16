@@ -16511,9 +16511,12 @@
       "builds": [
         {
           "branches": [
+            "eu",
+            "kr",
+            "tw",
             "us"
           ],
-          "definition": "275d82d6c031f8ec1203d60f8d187d77"
+          "definition": "b74fab471f73305856b0cc2aea82e3ca"
         }
       ],
       "infrastructure": false,
