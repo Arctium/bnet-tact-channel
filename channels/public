@@ -1266,20 +1266,10 @@
             "kr",
             "us"
           ],
-          "definition": "d47d78496af2eb939bca01589864a5c8"
+          "definition": "d6b088c4313aca9734f3f1c09ab6b860"
         }
       ],
       "infrastructure": false,
-      "preloads": [
-        {
-          "branches": [
-            "eu",
-            "kr",
-            "us"
-          ],
-          "definition": "0ee24e8c86e8acc6eeff2f7d45966bec"
-        }
-      ],
       "product": "auks",
       "regions": [
         {
@@ -5406,7 +5396,7 @@
             "kr",
             "us"
           ],
-          "definition": "0601f6b6a53a8e61f014f4f75b0a67a8"
+          "definition": "1051a70ccf8c38131febe25ac890994b"
         }
       ],
       "infrastructure": false,
