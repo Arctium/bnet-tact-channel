@@ -14299,6 +14299,46 @@
           "branches": [
             "us"
           ],
+          "definition": "588f00b2305abe9ecd0295f2a5bb5f4d"
+        }
+      ],
+      "infrastructure": false,
+      "product": "ovw",
+      "regions": [
+        {
+          "branches": [
+            "tw",
+            "us"
+          ],
+          "cdns": "919646d723f2fff72418101b1223ddb0"
+        },
+        {
+          "branches": [
+            "cn"
+          ],
+          "cdns": "3c4839a08949ae9f4862f94635508d83"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "287b8918c145665428c6f714cdc6e3bd"
+        },
+        {
+          "branches": [
+            "kr"
+          ],
+          "cdns": "f2f702bf5f33ea42ec912e967665ef6b"
+        }
+      ],
+      "variant": "prodemo5"
+    },
+    {
+      "builds": [
+        {
+          "branches": [
+            "us"
+          ],
           "definition": "92f5ff4371f43badbdc51c4543059deb"
         }
       ],
