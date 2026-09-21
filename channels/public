@@ -7062,12 +7062,7 @@
         },
         {
           "branches": [
-            "kr"
-          ],
-          "definition": "38d2aa44fde217527961b84376c20215"
-        },
-        {
-          "branches": [
+            "kr",
             "us"
           ],
           "definition": "1e1c78f35b56d796368e31651960980d"
