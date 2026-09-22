@@ -88,6 +88,12 @@
       "regions": [
         {
           "branches": [
+            "eu"
+          ],
+          "cdns": "74238f23349cb93a0d7460c4f998a726"
+        },
+        {
+          "branches": [
             "us"
           ],
           "cdns": "919646d723f2fff72418101b1223ddb0"
@@ -97,12 +103,6 @@
             "kr"
           ],
           "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"
-        },
-        {
-          "branches": [
-            "eu"
-          ],
-          "cdns": "74238f23349cb93a0d7460c4f998a726"
         }
       ],
       "variant": "scor-beta-dev-1"
@@ -123,15 +123,15 @@
       "regions": [
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "919646d723f2fff72418101b1223ddb0"
-        },
-        {
-          "branches": [
             "eu"
           ],
           "cdns": "287b8918c145665428c6f714cdc6e3bd"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "919646d723f2fff72418101b1223ddb0"
         }
       ],
       "variant": "scor-beta-rc"
@@ -152,6 +152,12 @@
       "regions": [
         {
           "branches": [
+            "eu"
+          ],
+          "cdns": "74238f23349cb93a0d7460c4f998a726"
+        },
+        {
+          "branches": [
             "us"
           ],
           "cdns": "919646d723f2fff72418101b1223ddb0"
@@ -161,12 +167,6 @@
             "kr"
           ],
           "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"
-        },
-        {
-          "branches": [
-            "eu"
-          ],
-          "cdns": "74238f23349cb93a0d7460c4f998a726"
         }
       ],
       "variant": "scor-retail-dev-1"
@@ -187,15 +187,15 @@
       "regions": [
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "919646d723f2fff72418101b1223ddb0"
-        },
-        {
-          "branches": [
             "eu"
           ],
           "cdns": "287b8918c145665428c6f714cdc6e3bd"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "919646d723f2fff72418101b1223ddb0"
         }
       ],
       "variant": "scor-retail-rc"
@@ -218,6 +218,12 @@
       "regions": [
         {
           "branches": [
+            "cn"
+          ],
+          "cdns": "ffec4c7f724b685aff96c8e97d715c21"
+        },
+        {
+          "branches": [
             "tw",
             "us"
           ],
@@ -225,21 +231,15 @@
         },
         {
           "branches": [
-            "kr"
-          ],
-          "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"
-        },
-        {
-          "branches": [
-            "cn"
-          ],
-          "cdns": "ffec4c7f724b685aff96c8e97d715c21"
-        },
-        {
-          "branches": [
             "eu"
           ],
           "cdns": "287b8918c145665428c6f714cdc6e3bd"
+        },
+        {
+          "branches": [
+            "kr"
+          ],
+          "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"
         }
       ],
       "variant": "agent"
@@ -261,6 +261,12 @@
       "regions": [
         {
           "branches": [
+            "cn"
+          ],
+          "cdns": "ffec4c7f724b685aff96c8e97d715c21"
+        },
+        {
+          "branches": [
             "tw",
             "us"
           ],
@@ -268,21 +274,15 @@
         },
         {
           "branches": [
-            "kr"
-          ],
-          "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"
-        },
-        {
-          "branches": [
-            "cn"
-          ],
-          "cdns": "ffec4c7f724b685aff96c8e97d715c21"
-        },
-        {
-          "branches": [
             "eu"
           ],
           "cdns": "287b8918c145665428c6f714cdc6e3bd"
+        },
+        {
+          "branches": [
+            "kr"
+          ],
+          "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"
         }
       ],
       "variant": "agent_beta"
@@ -303,6 +303,12 @@
       "regions": [
         {
           "branches": [
+            "eu"
+          ],
+          "cdns": "287b8918c145665428c6f714cdc6e3bd"
+        },
+        {
+          "branches": [
             "us"
           ],
           "cdns": "919646d723f2fff72418101b1223ddb0"
@@ -312,12 +318,6 @@
             "kr"
           ],
           "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"
-        },
-        {
-          "branches": [
-            "eu"
-          ],
-          "cdns": "287b8918c145665428c6f714cdc6e3bd"
         }
       ],
       "variant": "agent_redist"
@@ -400,15 +400,15 @@
         },
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "919646d723f2fff72418101b1223ddb0"
-        },
-        {
-          "branches": [
             "eu"
           ],
           "cdns": "287b8918c145665428c6f714cdc6e3bd"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "919646d723f2fff72418101b1223ddb0"
         }
       ],
       "variant": "anbs-event"
@@ -458,15 +458,15 @@
       "regions": [
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"
-        },
-        {
-          "branches": [
             "eu"
           ],
           "cdns": "87a06f78212104fe1a98f84f0157ff50"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"
         }
       ],
       "variant": "anbs-extevent-dev-1"
@@ -516,12 +516,6 @@
       "regions": [
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"
-        },
-        {
-          "branches": [
             "kr"
           ],
           "cdns": "4165a2d10276a6dd6bd4942484280b02"
@@ -531,6 +525,12 @@
             "eu"
           ],
           "cdns": "87a06f78212104fe1a98f84f0157ff50"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"
         }
       ],
       "variant": "anbs-ptr"
@@ -551,15 +551,15 @@
       "regions": [
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"
-        },
-        {
-          "branches": [
             "eu"
           ],
           "cdns": "87a06f78212104fe1a98f84f0157ff50"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"
         }
       ],
       "variant": "anbs-ptr-dev-1"
@@ -609,15 +609,15 @@
       "regions": [
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"
-        },
-        {
-          "branches": [
             "eu"
           ],
           "cdns": "87a06f78212104fe1a98f84f0157ff50"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"
         }
       ],
       "variant": "anbs-retail-dev-1"
@@ -688,15 +688,15 @@
         },
         {
           "branches": [
-            "cn"
-          ],
-          "cdns": "90b87465af6e1ad37c5415ac60495151"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "919646d723f2fff72418101b1223ddb0"
+        },
+        {
+          "branches": [
+            "cn"
+          ],
+          "cdns": "90b87465af6e1ad37c5415ac60495151"
         }
       ],
       "variant": "anbscn"
@@ -816,15 +816,15 @@
       "regions": [
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "919646d723f2fff72418101b1223ddb0"
-        },
-        {
-          "branches": [
             "eu"
           ],
           "cdns": "287b8918c145665428c6f714cdc6e3bd"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "919646d723f2fff72418101b1223ddb0"
         }
       ],
       "variant": "aqua-artbook-rc"
@@ -874,15 +874,15 @@
       "regions": [
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "919646d723f2fff72418101b1223ddb0"
-        },
-        {
-          "branches": [
             "eu"
           ],
           "cdns": "287b8918c145665428c6f714cdc6e3bd"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "919646d723f2fff72418101b1223ddb0"
         }
       ],
       "variant": "aqua-retail-rc"
@@ -1089,15 +1089,15 @@
       "regions": [
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"
-        },
-        {
-          "branches": [
             "eu"
           ],
           "cdns": "87a06f78212104fe1a98f84f0157ff50"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"
         },
         {
           "branches": [
@@ -1124,15 +1124,15 @@
       "regions": [
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"
-        },
-        {
-          "branches": [
             "eu"
           ],
           "cdns": "87a06f78212104fe1a98f84f0157ff50"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"
         },
         {
           "branches": [
@@ -1159,15 +1159,15 @@
       "regions": [
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"
-        },
-        {
-          "branches": [
             "eu"
           ],
           "cdns": "87a06f78212104fe1a98f84f0157ff50"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"
         }
       ],
       "variant": "ark-artbook-dev-1"
@@ -1216,15 +1216,15 @@
       "regions": [
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"
-        },
-        {
-          "branches": [
             "eu"
           ],
           "cdns": "87a06f78212104fe1a98f84f0157ff50"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"
         }
       ],
       "variant": "ark-retail-dev-1"
@@ -1274,15 +1274,15 @@
       "regions": [
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "8ba8fd31ff5c56864770fe5fe5f42d01"
-        },
-        {
-          "branches": [
             "eu"
           ],
           "cdns": "287b8918c145665428c6f714cdc6e3bd"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "8ba8fd31ff5c56864770fe5fe5f42d01"
         },
         {
           "branches": [
@@ -1333,15 +1333,15 @@
       "regions": [
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "8ba8fd31ff5c56864770fe5fe5f42d01"
-        },
-        {
-          "branches": [
             "eu"
           ],
           "cdns": "287b8918c145665428c6f714cdc6e3bd"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "8ba8fd31ff5c56864770fe5fe5f42d01"
         },
         {
           "branches": [
@@ -1459,15 +1459,15 @@
       "regions": [
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "8ba8fd31ff5c56864770fe5fe5f42d01"
-        },
-        {
-          "branches": [
             "eu"
           ],
           "cdns": "287b8918c145665428c6f714cdc6e3bd"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "8ba8fd31ff5c56864770fe5fe5f42d01"
         },
         {
           "branches": [
@@ -1525,15 +1525,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "287b8918c145665428c6f714cdc6e3bd"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "919646d723f2fff72418101b1223ddb0"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "287b8918c145665428c6f714cdc6e3bd"
         }
       ],
       "variant": "auksrc"
@@ -1552,15 +1552,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "287b8918c145665428c6f714cdc6e3bd"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "919646d723f2fff72418101b1223ddb0"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "287b8918c145665428c6f714cdc6e3bd"
         }
       ],
       "variant": "auksrc2"
@@ -1591,15 +1591,15 @@
       "regions": [
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "7d77b999022b646a1daa9a56779f335e"
-        },
-        {
-          "branches": [
             "eu"
           ],
           "cdns": "aa0fa3968e10940e193d53bcd24b53ef"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "7d77b999022b646a1daa9a56779f335e"
         }
       ],
       "variant": "auksv1"
@@ -1630,15 +1630,15 @@
       "regions": [
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "7d77b999022b646a1daa9a56779f335e"
-        },
-        {
-          "branches": [
             "eu"
           ],
           "cdns": "aa0fa3968e10940e193d53bcd24b53ef"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "7d77b999022b646a1daa9a56779f335e"
         }
       ],
       "variant": "auksv10"
@@ -1663,15 +1663,15 @@
       "regions": [
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "7d77b999022b646a1daa9a56779f335e"
-        },
-        {
-          "branches": [
             "eu"
           ],
           "cdns": "aa0fa3968e10940e193d53bcd24b53ef"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "7d77b999022b646a1daa9a56779f335e"
         }
       ],
       "variant": "auksv11"
@@ -1702,15 +1702,15 @@
       "regions": [
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "7d77b999022b646a1daa9a56779f335e"
-        },
-        {
-          "branches": [
             "eu"
           ],
           "cdns": "aa0fa3968e10940e193d53bcd24b53ef"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "7d77b999022b646a1daa9a56779f335e"
         }
       ],
       "variant": "auksv12"
@@ -1735,15 +1735,15 @@
       "regions": [
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "7d77b999022b646a1daa9a56779f335e"
-        },
-        {
-          "branches": [
             "eu"
           ],
           "cdns": "aa0fa3968e10940e193d53bcd24b53ef"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "7d77b999022b646a1daa9a56779f335e"
         }
       ],
       "variant": "auksv13"
@@ -1768,15 +1768,15 @@
       "regions": [
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "7d77b999022b646a1daa9a56779f335e"
-        },
-        {
-          "branches": [
             "eu"
           ],
           "cdns": "aa0fa3968e10940e193d53bcd24b53ef"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "7d77b999022b646a1daa9a56779f335e"
         }
       ],
       "variant": "auksv14"
@@ -1797,15 +1797,15 @@
       "regions": [
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "7d77b999022b646a1daa9a56779f335e"
-        },
-        {
-          "branches": [
             "eu"
           ],
           "cdns": "aa0fa3968e10940e193d53bcd24b53ef"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "7d77b999022b646a1daa9a56779f335e"
         }
       ],
       "variant": "auksv15"
@@ -1836,15 +1836,15 @@
       "regions": [
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "7d77b999022b646a1daa9a56779f335e"
-        },
-        {
-          "branches": [
             "eu"
           ],
           "cdns": "aa0fa3968e10940e193d53bcd24b53ef"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "7d77b999022b646a1daa9a56779f335e"
         }
       ],
       "variant": "auksv16"
@@ -1875,15 +1875,15 @@
       "regions": [
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "7d77b999022b646a1daa9a56779f335e"
-        },
-        {
-          "branches": [
             "eu"
           ],
           "cdns": "aa0fa3968e10940e193d53bcd24b53ef"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "7d77b999022b646a1daa9a56779f335e"
         }
       ],
       "variant": "auksv17"
@@ -1914,15 +1914,15 @@
       "regions": [
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "7d77b999022b646a1daa9a56779f335e"
-        },
-        {
-          "branches": [
             "eu"
           ],
           "cdns": "aa0fa3968e10940e193d53bcd24b53ef"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "7d77b999022b646a1daa9a56779f335e"
         }
       ],
       "variant": "auksv18"
@@ -1953,15 +1953,15 @@
       "regions": [
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "7d77b999022b646a1daa9a56779f335e"
-        },
-        {
-          "branches": [
             "eu"
           ],
           "cdns": "aa0fa3968e10940e193d53bcd24b53ef"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "7d77b999022b646a1daa9a56779f335e"
         }
       ],
       "variant": "auksv19"
@@ -1992,15 +1992,15 @@
       "regions": [
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "7d77b999022b646a1daa9a56779f335e"
-        },
-        {
-          "branches": [
             "eu"
           ],
           "cdns": "aa0fa3968e10940e193d53bcd24b53ef"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "7d77b999022b646a1daa9a56779f335e"
         }
       ],
       "variant": "auksv2"
@@ -2031,15 +2031,15 @@
       "regions": [
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "7d77b999022b646a1daa9a56779f335e"
-        },
-        {
-          "branches": [
             "eu"
           ],
           "cdns": "aa0fa3968e10940e193d53bcd24b53ef"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "7d77b999022b646a1daa9a56779f335e"
         }
       ],
       "variant": "auksv20"
@@ -2070,15 +2070,15 @@
       "regions": [
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "7d77b999022b646a1daa9a56779f335e"
-        },
-        {
-          "branches": [
             "eu"
           ],
           "cdns": "aa0fa3968e10940e193d53bcd24b53ef"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "7d77b999022b646a1daa9a56779f335e"
         }
       ],
       "variant": "auksv21"
@@ -2097,15 +2097,15 @@
       "regions": [
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "7d77b999022b646a1daa9a56779f335e"
-        },
-        {
-          "branches": [
             "eu"
           ],
           "cdns": "aa0fa3968e10940e193d53bcd24b53ef"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "7d77b999022b646a1daa9a56779f335e"
         }
       ],
       "variant": "auksv22"
@@ -2126,15 +2126,15 @@
       "regions": [
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "7d77b999022b646a1daa9a56779f335e"
-        },
-        {
-          "branches": [
             "eu"
           ],
           "cdns": "aa0fa3968e10940e193d53bcd24b53ef"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "7d77b999022b646a1daa9a56779f335e"
         }
       ],
       "variant": "auksv23"
@@ -2165,15 +2165,15 @@
       "regions": [
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "7d77b999022b646a1daa9a56779f335e"
-        },
-        {
-          "branches": [
             "eu"
           ],
           "cdns": "aa0fa3968e10940e193d53bcd24b53ef"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "7d77b999022b646a1daa9a56779f335e"
         }
       ],
       "variant": "auksv3"
@@ -2194,15 +2194,15 @@
       "regions": [
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "7d77b999022b646a1daa9a56779f335e"
-        },
-        {
-          "branches": [
             "eu"
           ],
           "cdns": "aa0fa3968e10940e193d53bcd24b53ef"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "7d77b999022b646a1daa9a56779f335e"
         }
       ],
       "variant": "auksv4"
@@ -2233,15 +2233,15 @@
       "regions": [
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "7d77b999022b646a1daa9a56779f335e"
-        },
-        {
-          "branches": [
             "eu"
           ],
           "cdns": "aa0fa3968e10940e193d53bcd24b53ef"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "7d77b999022b646a1daa9a56779f335e"
         }
       ],
       "variant": "auksv5"
@@ -2272,15 +2272,15 @@
       "regions": [
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "7d77b999022b646a1daa9a56779f335e"
-        },
-        {
-          "branches": [
             "eu"
           ],
           "cdns": "aa0fa3968e10940e193d53bcd24b53ef"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "7d77b999022b646a1daa9a56779f335e"
         }
       ],
       "variant": "auksv6"
@@ -2311,15 +2311,15 @@
       "regions": [
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "7d77b999022b646a1daa9a56779f335e"
-        },
-        {
-          "branches": [
             "eu"
           ],
           "cdns": "aa0fa3968e10940e193d53bcd24b53ef"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "7d77b999022b646a1daa9a56779f335e"
         }
       ],
       "variant": "auksv7"
@@ -2350,15 +2350,15 @@
       "regions": [
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "7d77b999022b646a1daa9a56779f335e"
-        },
-        {
-          "branches": [
             "eu"
           ],
           "cdns": "aa0fa3968e10940e193d53bcd24b53ef"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "7d77b999022b646a1daa9a56779f335e"
         }
       ],
       "variant": "auksv8"
@@ -2389,15 +2389,15 @@
       "regions": [
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "7d77b999022b646a1daa9a56779f335e"
-        },
-        {
-          "branches": [
             "eu"
           ],
           "cdns": "aa0fa3968e10940e193d53bcd24b53ef"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "7d77b999022b646a1daa9a56779f335e"
         }
       ],
       "variant": "auksv9"
@@ -2418,6 +2418,12 @@
       "regions": [
         {
           "branches": [
+            "eu"
+          ],
+          "cdns": "0cc361e1da6f2a076547361ead9c4837"
+        },
+        {
+          "branches": [
             "us"
           ],
           "cdns": "919646d723f2fff72418101b1223ddb0"
@@ -2427,12 +2433,6 @@
             "kr"
           ],
           "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"
-        },
-        {
-          "branches": [
-            "eu"
-          ],
-          "cdns": "0cc361e1da6f2a076547361ead9c4837"
         }
       ],
       "variant": "btlr"
@@ -3760,6 +3760,12 @@
       "regions": [
         {
           "branches": [
+            "eu"
+          ],
+          "cdns": "0cc361e1da6f2a076547361ead9c4837"
+        },
+        {
+          "branches": [
             "us"
           ],
           "cdns": "919646d723f2fff72418101b1223ddb0"
@@ -3769,12 +3775,6 @@
             "kr"
           ],
           "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"
-        },
-        {
-          "branches": [
-            "eu"
-          ],
-          "cdns": "0cc361e1da6f2a076547361ead9c4837"
         }
       ],
       "variant": "herjabtlr"
@@ -3856,15 +3856,15 @@
         },
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "919646d723f2fff72418101b1223ddb0"
-        },
-        {
-          "branches": [
             "eu"
           ],
           "cdns": "287b8918c145665428c6f714cdc6e3bd"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "919646d723f2fff72418101b1223ddb0"
         }
       ],
       "variant": "hristnina"
@@ -5127,15 +5127,15 @@
         },
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "919646d723f2fff72418101b1223ddb0"
-        },
-        {
-          "branches": [
             "eu"
           ],
           "cdns": "287b8918c145665428c6f714cdc6e3bd"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "919646d723f2fff72418101b1223ddb0"
         }
       ],
       "variant": "nina"
@@ -5315,6 +5315,12 @@
       "regions": [
         {
           "branches": [
+            "us"
+          ],
+          "cdns": "919646d723f2fff72418101b1223ddb0"
+        },
+        {
+          "branches": [
             "eu"
           ],
           "cdns": "287b8918c145665428c6f714cdc6e3bd"
@@ -5324,12 +5330,6 @@
             "kr"
           ],
           "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"
-        },
-        {
-          "branches": [
-            "us"
-          ],
-          "cdns": "919646d723f2fff72418101b1223ddb0"
         }
       ],
       "variant": "pinta"
@@ -5404,15 +5404,15 @@
       "regions": [
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "8ba8fd31ff5c56864770fe5fe5f42d01"
-        },
-        {
-          "branches": [
             "eu"
           ],
           "cdns": "287b8918c145665428c6f714cdc6e3bd"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "8ba8fd31ff5c56864770fe5fe5f42d01"
         },
         {
           "branches": [
@@ -5439,15 +5439,15 @@
       "regions": [
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "8ba8fd31ff5c56864770fe5fe5f42d01"
-        },
-        {
-          "branches": [
             "eu"
           ],
           "cdns": "287b8918c145665428c6f714cdc6e3bd"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "8ba8fd31ff5c56864770fe5fe5f42d01"
         },
         {
           "branches": [
@@ -5472,15 +5472,15 @@
       "regions": [
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "7d77b999022b646a1daa9a56779f335e"
-        },
-        {
-          "branches": [
             "eu"
           ],
           "cdns": "aa0fa3968e10940e193d53bcd24b53ef"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "7d77b999022b646a1daa9a56779f335e"
         }
       ],
       "variant": "randgridaukscdlqa"
@@ -5522,15 +5522,15 @@
       "regions": [
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "7d77b999022b646a1daa9a56779f335e"
-        },
-        {
-          "branches": [
             "eu"
           ],
           "cdns": "aa0fa3968e10940e193d53bcd24b53ef"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "7d77b999022b646a1daa9a56779f335e"
         }
       ],
       "variant": "randgridaukscdlv"
@@ -5596,15 +5596,15 @@
       "regions": [
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "7d77b999022b646a1daa9a56779f335e"
-        },
-        {
-          "branches": [
             "eu"
           ],
           "cdns": "aa0fa3968e10940e193d53bcd24b53ef"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "7d77b999022b646a1daa9a56779f335e"
         }
       ],
       "variant": "randgridauksqa"
@@ -5623,15 +5623,15 @@
       "regions": [
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "7d77b999022b646a1daa9a56779f335e"
-        },
-        {
-          "branches": [
             "eu"
           ],
           "cdns": "aa0fa3968e10940e193d53bcd24b53ef"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "7d77b999022b646a1daa9a56779f335e"
         }
       ],
       "variant": "randgridauksqa2"
@@ -5650,15 +5650,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "287b8918c145665428c6f714cdc6e3bd"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "919646d723f2fff72418101b1223ddb0"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "287b8918c145665428c6f714cdc6e3bd"
         }
       ],
       "variant": "randgridauksrc"
@@ -5677,15 +5677,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "287b8918c145665428c6f714cdc6e3bd"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "919646d723f2fff72418101b1223ddb0"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "287b8918c145665428c6f714cdc6e3bd"
         }
       ],
       "variant": "randgridauksrc2"
@@ -5704,15 +5704,15 @@
       "regions": [
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "7d77b999022b646a1daa9a56779f335e"
-        },
-        {
-          "branches": [
             "eu"
           ],
           "cdns": "aa0fa3968e10940e193d53bcd24b53ef"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "7d77b999022b646a1daa9a56779f335e"
         }
       ],
       "variant": "randgridauksv"
@@ -5731,15 +5731,15 @@
       "regions": [
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "7d77b999022b646a1daa9a56779f335e"
-        },
-        {
-          "branches": [
             "eu"
           ],
           "cdns": "aa0fa3968e10940e193d53bcd24b53ef"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "7d77b999022b646a1daa9a56779f335e"
         }
       ],
       "variant": "randgridauksv2"
@@ -6649,15 +6649,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "084aea14e8342085ace15de6e8a53b72"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "ad298166bc8896ec90ad1cff7b693bd5"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "084aea14e8342085ace15de6e8a53b72"
         }
       ],
       "variant": "randgridrosebqa"
@@ -6676,15 +6676,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "084aea14e8342085ace15de6e8a53b72"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "ad298166bc8896ec90ad1cff7b693bd5"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "084aea14e8342085ace15de6e8a53b72"
         }
       ],
       "variant": "randgridrosebqa2"
@@ -6703,15 +6703,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "084aea14e8342085ace15de6e8a53b72"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "ad298166bc8896ec90ad1cff7b693bd5"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "084aea14e8342085ace15de6e8a53b72"
         }
       ],
       "variant": "randgridrosebv"
@@ -6730,15 +6730,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "084aea14e8342085ace15de6e8a53b72"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "ad298166bc8896ec90ad1cff7b693bd5"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "084aea14e8342085ace15de6e8a53b72"
         }
       ],
       "variant": "randgridrosebv2"
@@ -6865,15 +6865,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "084aea14e8342085ace15de6e8a53b72"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "ad298166bc8896ec90ad1cff7b693bd5"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "084aea14e8342085ace15de6e8a53b72"
         }
       ],
       "variant": "randgridsagebcdlqa"
@@ -6892,15 +6892,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "084aea14e8342085ace15de6e8a53b72"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "ad298166bc8896ec90ad1cff7b693bd5"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "084aea14e8342085ace15de6e8a53b72"
         }
       ],
       "variant": "randgridsagebcdlv"
@@ -6919,15 +6919,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "084aea14e8342085ace15de6e8a53b72"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "ad298166bc8896ec90ad1cff7b693bd5"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "084aea14e8342085ace15de6e8a53b72"
         }
       ],
       "variant": "randgridsagebqa"
@@ -6946,15 +6946,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "084aea14e8342085ace15de6e8a53b72"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "ad298166bc8896ec90ad1cff7b693bd5"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "084aea14e8342085ace15de6e8a53b72"
         }
       ],
       "variant": "randgridsagebqa2"
@@ -6973,15 +6973,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "084aea14e8342085ace15de6e8a53b72"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "ad298166bc8896ec90ad1cff7b693bd5"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "084aea14e8342085ace15de6e8a53b72"
         }
       ],
       "variant": "randgridsagebv"
@@ -7000,15 +7000,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "084aea14e8342085ace15de6e8a53b72"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "ad298166bc8896ec90ad1cff7b693bd5"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "084aea14e8342085ace15de6e8a53b72"
         }
       ],
       "variant": "randgridsagebv2"
@@ -7520,15 +7520,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "084aea14e8342085ace15de6e8a53b72"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "ad298166bc8896ec90ad1cff7b693bd5"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "084aea14e8342085ace15de6e8a53b72"
         }
       ],
       "variant": "rosev21"
@@ -7559,15 +7559,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "084aea14e8342085ace15de6e8a53b72"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "ad298166bc8896ec90ad1cff7b693bd5"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "084aea14e8342085ace15de6e8a53b72"
         }
       ],
       "variant": "rosev22"
@@ -7598,15 +7598,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "084aea14e8342085ace15de6e8a53b72"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "ad298166bc8896ec90ad1cff7b693bd5"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "084aea14e8342085ace15de6e8a53b72"
         }
       ],
       "variant": "rosev23"
@@ -7637,15 +7637,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "084aea14e8342085ace15de6e8a53b72"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "ad298166bc8896ec90ad1cff7b693bd5"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "084aea14e8342085ace15de6e8a53b72"
         }
       ],
       "variant": "rosev24"
@@ -7666,15 +7666,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "084aea14e8342085ace15de6e8a53b72"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "ad298166bc8896ec90ad1cff7b693bd5"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "084aea14e8342085ace15de6e8a53b72"
         }
       ],
       "variant": "rosev25"
@@ -7695,15 +7695,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "084aea14e8342085ace15de6e8a53b72"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "ad298166bc8896ec90ad1cff7b693bd5"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "084aea14e8342085ace15de6e8a53b72"
         }
       ],
       "variant": "rosev26"
@@ -7724,15 +7724,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "084aea14e8342085ace15de6e8a53b72"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "ad298166bc8896ec90ad1cff7b693bd5"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "084aea14e8342085ace15de6e8a53b72"
         }
       ],
       "variant": "rosev28"
@@ -7751,15 +7751,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "084aea14e8342085ace15de6e8a53b72"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "ad298166bc8896ec90ad1cff7b693bd5"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "084aea14e8342085ace15de6e8a53b72"
         }
       ],
       "variant": "rosev29"
@@ -7829,15 +7829,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "084aea14e8342085ace15de6e8a53b72"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "ad298166bc8896ec90ad1cff7b693bd5"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "084aea14e8342085ace15de6e8a53b72"
         }
       ],
       "variant": "rosev30"
@@ -8597,15 +8597,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "084aea14e8342085ace15de6e8a53b72"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "ad298166bc8896ec90ad1cff7b693bd5"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "084aea14e8342085ace15de6e8a53b72"
         }
       ],
       "variant": "sagev21"
@@ -8636,15 +8636,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "084aea14e8342085ace15de6e8a53b72"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "ad298166bc8896ec90ad1cff7b693bd5"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "084aea14e8342085ace15de6e8a53b72"
         }
       ],
       "variant": "sagev22"
@@ -8675,15 +8675,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "084aea14e8342085ace15de6e8a53b72"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "ad298166bc8896ec90ad1cff7b693bd5"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "084aea14e8342085ace15de6e8a53b72"
         }
       ],
       "variant": "sagev23"
@@ -8714,15 +8714,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "084aea14e8342085ace15de6e8a53b72"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "ad298166bc8896ec90ad1cff7b693bd5"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "084aea14e8342085ace15de6e8a53b72"
         }
       ],
       "variant": "sagev24"
@@ -8741,15 +8741,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "084aea14e8342085ace15de6e8a53b72"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "ad298166bc8896ec90ad1cff7b693bd5"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "084aea14e8342085ace15de6e8a53b72"
         }
       ],
       "variant": "sagev25"
@@ -8774,15 +8774,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "084aea14e8342085ace15de6e8a53b72"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "ad298166bc8896ec90ad1cff7b693bd5"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "084aea14e8342085ace15de6e8a53b72"
         }
       ],
       "variant": "sagev26"
@@ -8801,15 +8801,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "084aea14e8342085ace15de6e8a53b72"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "ad298166bc8896ec90ad1cff7b693bd5"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "084aea14e8342085ace15de6e8a53b72"
         }
       ],
       "variant": "sagev27"
@@ -8840,15 +8840,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "084aea14e8342085ace15de6e8a53b72"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "ad298166bc8896ec90ad1cff7b693bd5"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "084aea14e8342085ace15de6e8a53b72"
         }
       ],
       "variant": "sagev28"
@@ -8867,15 +8867,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "084aea14e8342085ace15de6e8a53b72"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "ad298166bc8896ec90ad1cff7b693bd5"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "084aea14e8342085ace15de6e8a53b72"
         }
       ],
       "variant": "sagev29"
@@ -8945,15 +8945,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "084aea14e8342085ace15de6e8a53b72"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "ad298166bc8896ec90ad1cff7b693bd5"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "084aea14e8342085ace15de6e8a53b72"
         }
       ],
       "variant": "sagev30"
@@ -9307,6 +9307,12 @@
       "regions": [
         {
           "branches": [
+            "us"
+          ],
+          "cdns": "919646d723f2fff72418101b1223ddb0"
+        },
+        {
+          "branches": [
             "eu"
           ],
           "cdns": "287b8918c145665428c6f714cdc6e3bd"
@@ -9316,12 +9322,6 @@
             "kr"
           ],
           "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"
-        },
-        {
-          "branches": [
-            "us"
-          ],
-          "cdns": "919646d723f2fff72418101b1223ddb0"
         }
       ],
       "variant": "sigrunpinta"
@@ -9342,15 +9342,15 @@
       "regions": [
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "8ba8fd31ff5c56864770fe5fe5f42d01"
-        },
-        {
-          "branches": [
             "eu"
           ],
           "cdns": "287b8918c145665428c6f714cdc6e3bd"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "8ba8fd31ff5c56864770fe5fe5f42d01"
         },
         {
           "branches": [
@@ -9483,15 +9483,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "084aea14e8342085ace15de6e8a53b72"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "ad298166bc8896ec90ad1cff7b693bd5"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "084aea14e8342085ace15de6e8a53b72"
         }
       ],
       "variant": "skuld_rose_b_dev"
@@ -9510,15 +9510,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "084aea14e8342085ace15de6e8a53b72"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "ad298166bc8896ec90ad1cff7b693bd5"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "084aea14e8342085ace15de6e8a53b72"
         }
       ],
       "variant": "skuld_rose_b_dev2"
@@ -9537,15 +9537,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "084aea14e8342085ace15de6e8a53b72"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "ad298166bc8896ec90ad1cff7b693bd5"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "084aea14e8342085ace15de6e8a53b72"
         }
       ],
       "variant": "skuld_rose_b_vendor"
@@ -9564,15 +9564,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "084aea14e8342085ace15de6e8a53b72"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "ad298166bc8896ec90ad1cff7b693bd5"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "084aea14e8342085ace15de6e8a53b72"
         }
       ],
       "variant": "skuld_rose_b_vendor2"
@@ -9618,15 +9618,15 @@
       "regions": [
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "919646d723f2fff72418101b1223ddb0"
-        },
-        {
-          "branches": [
             "cn"
           ],
           "cdns": "bed07fc70258d67071c2ca1148e4b8c6"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "919646d723f2fff72418101b1223ddb0"
         },
         {
           "branches": [
@@ -9659,15 +9659,15 @@
       "regions": [
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "919646d723f2fff72418101b1223ddb0"
-        },
-        {
-          "branches": [
             "eu"
           ],
           "cdns": "287b8918c145665428c6f714cdc6e3bd"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "919646d723f2fff72418101b1223ddb0"
         }
       ],
       "variant": "bdko-retail-dev-1"
@@ -9924,6 +9924,13 @@
         },
         {
           "branches": [
+            "tw",
+            "us"
+          ],
+          "cdns": "44fd23cc441744facd12d1bbfb399db2"
+        },
+        {
+          "branches": [
             "eu"
           ],
           "cdns": "a2177c8cd4db5f7d15544537ce0b994e"
@@ -9933,13 +9940,6 @@
             "kr"
           ],
           "cdns": "17c1848bf7f9ce3388e7d66097e2f9df"
-        },
-        {
-          "branches": [
-            "tw",
-            "us"
-          ],
-          "cdns": "44fd23cc441744facd12d1bbfb399db2"
         }
       ],
       "variant": "bts"
@@ -10000,15 +10000,15 @@
       "regions": [
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "919646d723f2fff72418101b1223ddb0"
-        },
-        {
-          "branches": [
             "cn"
           ],
           "cdns": "ffec4c7f724b685aff96c8e97d715c21"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "919646d723f2fff72418101b1223ddb0"
         },
         {
           "branches": [
@@ -10080,15 +10080,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "87a06f78212104fe1a98f84f0157ff50"
-        },
-        {
-          "branches": [
             "kr"
           ],
           "cdns": "1d6d6caf60482b4053b7231cbbb850fb"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "87a06f78212104fe1a98f84f0157ff50"
         },
         {
           "branches": [
@@ -10193,15 +10193,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "87a06f78212104fe1a98f84f0157ff50"
-        },
-        {
-          "branches": [
             "kr"
           ],
           "cdns": "1d6d6caf60482b4053b7231cbbb850fb"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "87a06f78212104fe1a98f84f0157ff50"
         },
         {
           "branches": [
@@ -10268,6 +10268,12 @@
       "regions": [
         {
           "branches": [
+            "us"
+          ],
+          "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"
+        },
+        {
+          "branches": [
             "eu"
           ],
           "cdns": "87a06f78212104fe1a98f84f0157ff50"
@@ -10277,12 +10283,6 @@
             "kr"
           ],
           "cdns": "1d6d6caf60482b4053b7231cbbb850fb"
-        },
-        {
-          "branches": [
-            "us"
-          ],
-          "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"
         }
       ],
       "variant": "osiv2"
@@ -10304,21 +10304,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "287b8918c145665428c6f714cdc6e3bd"
-        },
-        {
-          "branches": [
-            "cn"
-          ],
-          "cdns": "a513a2025c38cad3f83296583c1f5569"
-        },
-        {
-          "branches": [
             "kr"
           ],
           "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "287b8918c145665428c6f714cdc6e3bd"
         },
         {
           "branches": [
@@ -10326,6 +10320,12 @@
             "tw"
           ],
           "cdns": "919646d723f2fff72418101b1223ddb0"
+        },
+        {
+          "branches": [
+            "cn"
+          ],
+          "cdns": "a513a2025c38cad3f83296583c1f5569"
         }
       ],
       "variant": "d3"
@@ -10345,21 +10345,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "287b8918c145665428c6f714cdc6e3bd"
-        },
-        {
-          "branches": [
-            "cn"
-          ],
-          "cdns": "a513a2025c38cad3f83296583c1f5569"
-        },
-        {
-          "branches": [
             "kr"
           ],
           "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "287b8918c145665428c6f714cdc6e3bd"
         },
         {
           "branches": [
@@ -10367,6 +10361,12 @@
             "tw"
           ],
           "cdns": "919646d723f2fff72418101b1223ddb0"
+        },
+        {
+          "branches": [
+            "cn"
+          ],
+          "cdns": "a513a2025c38cad3f83296583c1f5569"
         }
       ],
       "variant": "d3cn"
@@ -10390,21 +10390,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "287b8918c145665428c6f714cdc6e3bd"
-        },
-        {
-          "branches": [
-            "cn"
-          ],
-          "cdns": "a513a2025c38cad3f83296583c1f5569"
-        },
-        {
-          "branches": [
             "kr"
           ],
           "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "287b8918c145665428c6f714cdc6e3bd"
         },
         {
           "branches": [
@@ -10412,6 +10406,12 @@
             "tw"
           ],
           "cdns": "919646d723f2fff72418101b1223ddb0"
+        },
+        {
+          "branches": [
+            "cn"
+          ],
+          "cdns": "a513a2025c38cad3f83296583c1f5569"
         }
       ],
       "variant": "d3t"
@@ -10646,15 +10646,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "87a06f78212104fe1a98f84f0157ff50"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "87a06f78212104fe1a98f84f0157ff50"
         }
       ],
       "variant": "fenrisdev"
@@ -10673,15 +10673,15 @@
       "regions": [
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"
-        },
-        {
-          "branches": [
             "eu"
           ],
           "cdns": "87a06f78212104fe1a98f84f0157ff50"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"
         }
       ],
       "variant": "fenrisdev2"
@@ -10700,15 +10700,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "e5b42b20b4783163029cfc2b77023420"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "76da754e497b62f050afcf67d9067082"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "e5b42b20b4783163029cfc2b77023420"
         }
       ],
       "variant": "fenrise2"
@@ -10859,15 +10859,15 @@
         },
         {
           "branches": [
-            "cn"
-          ],
-          "cdns": "a8c298f28e96d5d12cc94fb166476e70"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "919646d723f2fff72418101b1223ddb0"
+        },
+        {
+          "branches": [
+            "cn"
+          ],
+          "cdns": "a8c298f28e96d5d12cc94fb166476e70"
         }
       ],
       "variant": "fenrisvendor5"
@@ -10892,15 +10892,15 @@
         },
         {
           "branches": [
-            "cn"
-          ],
-          "cdns": "a8c298f28e96d5d12cc94fb166476e70"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "919646d723f2fff72418101b1223ddb0"
+        },
+        {
+          "branches": [
+            "cn"
+          ],
+          "cdns": "a8c298f28e96d5d12cc94fb166476e70"
         }
       ],
       "variant": "fenrisvendor6"
@@ -10928,15 +10928,15 @@
         },
         {
           "branches": [
-            "cn"
-          ],
-          "cdns": "a8c298f28e96d5d12cc94fb166476e70"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "919646d723f2fff72418101b1223ddb0"
+        },
+        {
+          "branches": [
+            "cn"
+          ],
+          "cdns": "a8c298f28e96d5d12cc94fb166476e70"
         }
       ],
       "variant": "fenrisvendor7"
@@ -10961,15 +10961,15 @@
         },
         {
           "branches": [
-            "cn"
-          ],
-          "cdns": "a8c298f28e96d5d12cc94fb166476e70"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "919646d723f2fff72418101b1223ddb0"
+        },
+        {
+          "branches": [
+            "cn"
+          ],
+          "cdns": "a8c298f28e96d5d12cc94fb166476e70"
         }
       ],
       "variant": "fenrisvendor8"
@@ -10994,15 +10994,15 @@
         },
         {
           "branches": [
-            "cn"
-          ],
-          "cdns": "a8c298f28e96d5d12cc94fb166476e70"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "919646d723f2fff72418101b1223ddb0"
+        },
+        {
+          "branches": [
+            "cn"
+          ],
+          "cdns": "a8c298f28e96d5d12cc94fb166476e70"
         }
       ],
       "variant": "fenrisvendor9"
@@ -11023,6 +11023,12 @@
       "regions": [
         {
           "branches": [
+            "us"
+          ],
+          "cdns": "8ba8fd31ff5c56864770fe5fe5f42d01"
+        },
+        {
+          "branches": [
             "eu"
           ],
           "cdns": "7c8b57c7a1d9c82ee9dc10381fca9acb"
@@ -11032,12 +11038,6 @@
             "kr"
           ],
           "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"
-        },
-        {
-          "branches": [
-            "us"
-          ],
-          "cdns": "8ba8fd31ff5c56864770fe5fe5f42d01"
         }
       ],
       "variant": "fore"
@@ -11058,6 +11058,12 @@
       "regions": [
         {
           "branches": [
+            "us"
+          ],
+          "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"
+        },
+        {
+          "branches": [
             "eu"
           ],
           "cdns": "87a06f78212104fe1a98f84f0157ff50"
@@ -11067,12 +11073,6 @@
             "kr"
           ],
           "cdns": "4165a2d10276a6dd6bd4942484280b02"
-        },
-        {
-          "branches": [
-            "us"
-          ],
-          "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"
         }
       ],
       "variant": "forea"
@@ -11093,6 +11093,12 @@
       "regions": [
         {
           "branches": [
+            "us"
+          ],
+          "cdns": "8ba8fd31ff5c56864770fe5fe5f42d01"
+        },
+        {
+          "branches": [
             "eu"
           ],
           "cdns": "7c8b57c7a1d9c82ee9dc10381fca9acb"
@@ -11102,12 +11108,6 @@
             "kr"
           ],
           "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"
-        },
-        {
-          "branches": [
-            "us"
-          ],
-          "cdns": "8ba8fd31ff5c56864770fe5fe5f42d01"
         }
       ],
       "variant": "foreb"
@@ -11128,6 +11128,12 @@
       "regions": [
         {
           "branches": [
+            "us"
+          ],
+          "cdns": "8ba8fd31ff5c56864770fe5fe5f42d01"
+        },
+        {
+          "branches": [
             "eu"
           ],
           "cdns": "7c8b57c7a1d9c82ee9dc10381fca9acb"
@@ -11137,12 +11143,6 @@
             "kr"
           ],
           "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"
-        },
-        {
-          "branches": [
-            "us"
-          ],
-          "cdns": "8ba8fd31ff5c56864770fe5fe5f42d01"
         }
       ],
       "variant": "forec"
@@ -11186,6 +11186,12 @@
       "regions": [
         {
           "branches": [
+            "us"
+          ],
+          "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"
+        },
+        {
+          "branches": [
             "eu"
           ],
           "cdns": "87a06f78212104fe1a98f84f0157ff50"
@@ -11195,12 +11201,6 @@
             "kr"
           ],
           "cdns": "4165a2d10276a6dd6bd4942484280b02"
-        },
-        {
-          "branches": [
-            "us"
-          ],
-          "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"
         }
       ],
       "variant": "foredev"
@@ -11231,15 +11231,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "87a06f78212104fe1a98f84f0157ff50"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "87a06f78212104fe1a98f84f0157ff50"
         }
       ],
       "variant": "forev1"
@@ -11270,15 +11270,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "87a06f78212104fe1a98f84f0157ff50"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "87a06f78212104fe1a98f84f0157ff50"
         }
       ],
       "variant": "forev14"
@@ -11309,15 +11309,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "87a06f78212104fe1a98f84f0157ff50"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "87a06f78212104fe1a98f84f0157ff50"
         }
       ],
       "variant": "forev15"
@@ -11338,15 +11338,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "87a06f78212104fe1a98f84f0157ff50"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "87a06f78212104fe1a98f84f0157ff50"
         }
       ],
       "variant": "forev18"
@@ -11377,15 +11377,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "87a06f78212104fe1a98f84f0157ff50"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "87a06f78212104fe1a98f84f0157ff50"
         }
       ],
       "variant": "forev2"
@@ -11416,15 +11416,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "87a06f78212104fe1a98f84f0157ff50"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "87a06f78212104fe1a98f84f0157ff50"
         }
       ],
       "variant": "forev20"
@@ -11455,15 +11455,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "87a06f78212104fe1a98f84f0157ff50"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "87a06f78212104fe1a98f84f0157ff50"
         }
       ],
       "variant": "forev3"
@@ -11494,15 +11494,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "87a06f78212104fe1a98f84f0157ff50"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "87a06f78212104fe1a98f84f0157ff50"
         }
       ],
       "variant": "forev4"
@@ -11533,15 +11533,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "87a06f78212104fe1a98f84f0157ff50"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "87a06f78212104fe1a98f84f0157ff50"
         }
       ],
       "variant": "forev5"
@@ -11572,15 +11572,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "87a06f78212104fe1a98f84f0157ff50"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "87a06f78212104fe1a98f84f0157ff50"
         }
       ],
       "variant": "forev6"
@@ -11611,15 +11611,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "87a06f78212104fe1a98f84f0157ff50"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "87a06f78212104fe1a98f84f0157ff50"
         }
       ],
       "variant": "forev7"
@@ -11650,15 +11650,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "87a06f78212104fe1a98f84f0157ff50"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "87a06f78212104fe1a98f84f0157ff50"
         }
       ],
       "variant": "forev8"
@@ -11679,6 +11679,12 @@
       "regions": [
         {
           "branches": [
+            "us"
+          ],
+          "cdns": "8ba8fd31ff5c56864770fe5fe5f42d01"
+        },
+        {
+          "branches": [
             "eu"
           ],
           "cdns": "7c8b57c7a1d9c82ee9dc10381fca9acb"
@@ -11688,12 +11694,6 @@
             "kr"
           ],
           "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"
-        },
-        {
-          "branches": [
-            "us"
-          ],
-          "cdns": "8ba8fd31ff5c56864770fe5fe5f42d01"
         }
       ],
       "variant": "geirdrifulfore"
@@ -11714,6 +11714,12 @@
       "regions": [
         {
           "branches": [
+            "us"
+          ],
+          "cdns": "8ba8fd31ff5c56864770fe5fe5f42d01"
+        },
+        {
+          "branches": [
             "eu"
           ],
           "cdns": "7c8b57c7a1d9c82ee9dc10381fca9acb"
@@ -11723,12 +11729,6 @@
             "kr"
           ],
           "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"
-        },
-        {
-          "branches": [
-            "us"
-          ],
-          "cdns": "8ba8fd31ff5c56864770fe5fe5f42d01"
         }
       ],
       "variant": "geirdrifulforecdl"
@@ -11747,15 +11747,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "87a06f78212104fe1a98f84f0157ff50"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "87a06f78212104fe1a98f84f0157ff50"
         }
       ],
       "variant": "geirdrifulforecdlqa"
@@ -11797,15 +11797,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "87a06f78212104fe1a98f84f0157ff50"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "87a06f78212104fe1a98f84f0157ff50"
         }
       ],
       "variant": "geirdrifulforecdlv"
@@ -11824,15 +11824,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "87a06f78212104fe1a98f84f0157ff50"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "87a06f78212104fe1a98f84f0157ff50"
         }
       ],
       "variant": "geirdrifulforeqa"
@@ -11851,15 +11851,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "87a06f78212104fe1a98f84f0157ff50"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "87a06f78212104fe1a98f84f0157ff50"
         }
       ],
       "variant": "geirdrifulforev"
@@ -12018,15 +12018,15 @@
         },
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "287b8918c145665428c6f714cdc6e3bd"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "919646d723f2fff72418101b1223ddb0"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "287b8918c145665428c6f714cdc6e3bd"
         }
       ],
       "variant": "gryphon"
@@ -12047,6 +12047,12 @@
       "regions": [
         {
           "branches": [
+            "us"
+          ],
+          "cdns": "919646d723f2fff72418101b1223ddb0"
+        },
+        {
+          "branches": [
             "eu"
           ],
           "cdns": "287b8918c145665428c6f714cdc6e3bd"
@@ -12056,12 +12062,6 @@
             "kr"
           ],
           "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"
-        },
-        {
-          "branches": [
-            "us"
-          ],
-          "cdns": "919646d723f2fff72418101b1223ddb0"
         }
       ],
       "variant": "gryphondev"
@@ -12082,6 +12082,12 @@
       "regions": [
         {
           "branches": [
+            "us"
+          ],
+          "cdns": "919646d723f2fff72418101b1223ddb0"
+        },
+        {
+          "branches": [
             "eu"
           ],
           "cdns": "287b8918c145665428c6f714cdc6e3bd"
@@ -12091,12 +12097,6 @@
             "kr"
           ],
           "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"
-        },
-        {
-          "branches": [
-            "us"
-          ],
-          "cdns": "919646d723f2fff72418101b1223ddb0"
         }
       ],
       "variant": "gryphondev3"
@@ -12160,6 +12160,13 @@
       "regions": [
         {
           "branches": [
+            "tw",
+            "us"
+          ],
+          "cdns": "919646d723f2fff72418101b1223ddb0"
+        },
+        {
+          "branches": [
             "kr"
           ],
           "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"
@@ -12169,13 +12176,6 @@
             "eu"
           ],
           "cdns": "287b8918c145665428c6f714cdc6e3bd"
-        },
-        {
-          "branches": [
-            "tw",
-            "us"
-          ],
-          "cdns": "919646d723f2fff72418101b1223ddb0"
         }
       ],
       "variant": "hero"
@@ -12199,6 +12199,13 @@
       "regions": [
         {
           "branches": [
+            "tw",
+            "us"
+          ],
+          "cdns": "919646d723f2fff72418101b1223ddb0"
+        },
+        {
+          "branches": [
             "kr"
           ],
           "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"
@@ -12208,13 +12215,6 @@
             "eu"
           ],
           "cdns": "287b8918c145665428c6f714cdc6e3bd"
-        },
-        {
-          "branches": [
-            "tw",
-            "us"
-          ],
-          "cdns": "919646d723f2fff72418101b1223ddb0"
         }
       ],
       "variant": "heroc"
@@ -12237,6 +12237,13 @@
       "regions": [
         {
           "branches": [
+            "tw",
+            "us"
+          ],
+          "cdns": "919646d723f2fff72418101b1223ddb0"
+        },
+        {
+          "branches": [
             "kr"
           ],
           "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"
@@ -12246,13 +12253,6 @@
             "eu"
           ],
           "cdns": "287b8918c145665428c6f714cdc6e3bd"
-        },
-        {
-          "branches": [
-            "tw",
-            "us"
-          ],
-          "cdns": "919646d723f2fff72418101b1223ddb0"
         }
       ],
       "variant": "herot"
@@ -12282,6 +12282,13 @@
       "regions": [
         {
           "branches": [
+            "tw",
+            "us"
+          ],
+          "cdns": "919646d723f2fff72418101b1223ddb0"
+        },
+        {
+          "branches": [
             "eu"
           ],
           "cdns": "287b8918c145665428c6f714cdc6e3bd"
@@ -12297,13 +12304,6 @@
             "cn"
           ],
           "cdns": "3b1ed235e69dc0bab6b9d3a760e77297"
-        },
-        {
-          "branches": [
-            "tw",
-            "us"
-          ],
-          "cdns": "919646d723f2fff72418101b1223ddb0"
         }
       ],
       "variant": "hsb"
@@ -12360,12 +12360,6 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "87a06f78212104fe1a98f84f0157ff50"
-        },
-        {
-          "branches": [
             "kr"
           ],
           "cdns": "4165a2d10276a6dd6bd4942484280b02"
@@ -12375,6 +12369,12 @@
             "us"
           ],
           "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "87a06f78212104fe1a98f84f0157ff50"
         }
       ],
       "variant": "hse1"
@@ -12415,15 +12415,15 @@
         },
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "f4185a9686f0cff21d2ad5e91731c4dd"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "ca8ba12fb31d9fc42be89234d1b43b88"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "f4185a9686f0cff21d2ad5e91731c4dd"
         }
       ],
       "variant": "hsrc"
@@ -12444,6 +12444,12 @@
       "regions": [
         {
           "branches": [
+            "us"
+          ],
+          "cdns": "8ba8fd31ff5c56864770fe5fe5f42d01"
+        },
+        {
+          "branches": [
             "eu"
           ],
           "cdns": "7c8b57c7a1d9c82ee9dc10381fca9acb"
@@ -12453,12 +12459,6 @@
             "kr"
           ],
           "cdns": "5585bbe68771ae9676ce14273095f08a"
-        },
-        {
-          "branches": [
-            "us"
-          ],
-          "cdns": "8ba8fd31ff5c56864770fe5fe5f42d01"
         }
       ],
       "variant": "lazr"
@@ -12534,6 +12534,12 @@
       "regions": [
         {
           "branches": [
+            "us"
+          ],
+          "cdns": "919646d723f2fff72418101b1223ddb0"
+        },
+        {
+          "branches": [
             "eu"
           ],
           "cdns": "287b8918c145665428c6f714cdc6e3bd"
@@ -12543,12 +12549,6 @@
             "kr"
           ],
           "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"
-        },
-        {
-          "branches": [
-            "us"
-          ],
-          "cdns": "919646d723f2fff72418101b1223ddb0"
         }
       ],
       "variant": "lbra"
@@ -12569,6 +12569,12 @@
       "regions": [
         {
           "branches": [
+            "us"
+          ],
+          "cdns": "919646d723f2fff72418101b1223ddb0"
+        },
+        {
+          "branches": [
             "eu"
           ],
           "cdns": "287b8918c145665428c6f714cdc6e3bd"
@@ -12578,12 +12584,6 @@
             "kr"
           ],
           "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"
-        },
-        {
-          "branches": [
-            "us"
-          ],
-          "cdns": "919646d723f2fff72418101b1223ddb0"
         }
       ],
       "variant": "lbra-demo"
@@ -12604,15 +12604,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "287b8918c145665428c6f714cdc6e3bd"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "919646d723f2fff72418101b1223ddb0"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "287b8918c145665428c6f714cdc6e3bd"
         }
       ],
       "variant": "lbra-demo-dev-1"
@@ -12633,15 +12633,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "287b8918c145665428c6f714cdc6e3bd"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "919646d723f2fff72418101b1223ddb0"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "287b8918c145665428c6f714cdc6e3bd"
         }
       ],
       "variant": "lbra-demo-rc"
@@ -12662,15 +12662,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "287b8918c145665428c6f714cdc6e3bd"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "919646d723f2fff72418101b1223ddb0"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "287b8918c145665428c6f714cdc6e3bd"
         }
       ],
       "variant": "lbra-retail-dev-1"
@@ -12691,15 +12691,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "287b8918c145665428c6f714cdc6e3bd"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "919646d723f2fff72418101b1223ddb0"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "287b8918c145665428c6f714cdc6e3bd"
         }
       ],
       "variant": "lbra-retail-rc"
@@ -12720,15 +12720,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "287b8918c145665428c6f714cdc6e3bd"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "919646d723f2fff72418101b1223ddb0"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "287b8918c145665428c6f714cdc6e3bd"
         }
       ],
       "variant": "lyra-retail-dev-1"
@@ -12755,15 +12755,15 @@
         },
         {
           "branches": [
-            "kr"
-          ],
-          "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "8ba8fd31ff5c56864770fe5fe5f42d01"
+        },
+        {
+          "branches": [
+            "kr"
+          ],
+          "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"
         }
       ],
       "variant": "brynhildr_odin"
@@ -12790,15 +12790,15 @@
         },
         {
           "branches": [
-            "kr"
-          ],
-          "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "8ba8fd31ff5c56864770fe5fe5f42d01"
+        },
+        {
+          "branches": [
+            "kr"
+          ],
+          "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"
         }
       ],
       "variant": "brynhildr_odin2"
@@ -12933,15 +12933,15 @@
         },
         {
           "branches": [
-            "kr"
-          ],
-          "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "8ba8fd31ff5c56864770fe5fe5f42d01"
+        },
+        {
+          "branches": [
+            "kr"
+          ],
+          "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"
         }
       ],
       "variant": "odin"
@@ -12961,8 +12961,8 @@
       "regions": [
         {
           "branches": [
-            "us",
-            "eu"
+            "eu",
+            "us"
           ],
           "cdns": "c782c27da917dfab34881294ce6f682e"
         }
@@ -12991,15 +12991,15 @@
         },
         {
           "branches": [
-            "kr"
-          ],
-          "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "8ba8fd31ff5c56864770fe5fe5f42d01"
+        },
+        {
+          "branches": [
+            "kr"
+          ],
+          "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"
         }
       ],
       "variant": "odinb"
@@ -13019,8 +13019,8 @@
       "regions": [
         {
           "branches": [
-            "us",
-            "eu"
+            "eu",
+            "us"
           ],
           "cdns": "c782c27da917dfab34881294ce6f682e"
         }
@@ -13043,16 +13043,16 @@
       "regions": [
         {
           "branches": [
-            "kr"
+            "us",
+            "eu"
           ],
-          "cdns": "602533be5140ed4240b30bf135ac0cfb"
+          "cdns": "a7b639ca760b00105fdc8ae1ca28ffec"
         },
         {
           "branches": [
-            "eu",
-            "us"
+            "kr"
           ],
-          "cdns": "a7b639ca760b00105fdc8ae1ca28ffec"
+          "cdns": "602533be5140ed4240b30bf135ac0cfb"
         }
       ],
       "variant": "odine"
@@ -13580,6 +13580,13 @@
         },
         {
           "branches": [
+            "us",
+            "tw"
+          ],
+          "cdns": "919646d723f2fff72418101b1223ddb0"
+        },
+        {
+          "branches": [
             "cn"
           ],
           "cdns": "3c4839a08949ae9f4862f94635508d83"
@@ -13589,13 +13596,6 @@
             "kr"
           ],
           "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"
-        },
-        {
-          "branches": [
-            "us",
-            "tw"
-          ],
-          "cdns": "919646d723f2fff72418101b1223ddb0"
         }
       ],
       "variant": "pro"
@@ -13622,6 +13622,13 @@
         },
         {
           "branches": [
+            "us",
+            "tw"
+          ],
+          "cdns": "919646d723f2fff72418101b1223ddb0"
+        },
+        {
+          "branches": [
             "cn"
           ],
           "cdns": "3c4839a08949ae9f4862f94635508d83"
@@ -13631,13 +13638,6 @@
             "kr"
           ],
           "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"
-        },
-        {
-          "branches": [
-            "us",
-            "tw"
-          ],
-          "cdns": "919646d723f2fff72418101b1223ddb0"
         }
       ],
       "variant": "prob"
@@ -13656,15 +13656,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "287b8918c145665428c6f714cdc6e3bd"
-        },
-        {
-          "branches": [
             "kr"
           ],
           "cdns": "f2f702bf5f33ea42ec912e967665ef6b"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "287b8918c145665428c6f714cdc6e3bd"
         },
         {
           "branches": [
@@ -13690,15 +13690,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "287b8918c145665428c6f714cdc6e3bd"
-        },
-        {
-          "branches": [
             "kr"
           ],
           "cdns": "f2f702bf5f33ea42ec912e967665ef6b"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "287b8918c145665428c6f714cdc6e3bd"
         },
         {
           "branches": [
@@ -13724,15 +13724,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "287b8918c145665428c6f714cdc6e3bd"
-        },
-        {
-          "branches": [
             "kr"
           ],
           "cdns": "f2f702bf5f33ea42ec912e967665ef6b"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "287b8918c145665428c6f714cdc6e3bd"
         },
         {
           "branches": [
@@ -13772,6 +13772,13 @@
         },
         {
           "branches": [
+            "us",
+            "tw"
+          ],
+          "cdns": "919646d723f2fff72418101b1223ddb0"
+        },
+        {
+          "branches": [
             "cn"
           ],
           "cdns": "3c4839a08949ae9f4862f94635508d83"
@@ -13781,13 +13788,6 @@
             "kr"
           ],
           "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"
-        },
-        {
-          "branches": [
-            "us",
-            "tw"
-          ],
-          "cdns": "919646d723f2fff72418101b1223ddb0"
         }
       ],
       "variant": "proc"
@@ -13815,6 +13815,13 @@
         },
         {
           "branches": [
+            "us",
+            "tw"
+          ],
+          "cdns": "919646d723f2fff72418101b1223ddb0"
+        },
+        {
+          "branches": [
             "cn"
           ],
           "cdns": "3c4839a08949ae9f4862f94635508d83"
@@ -13824,13 +13831,6 @@
             "kr"
           ],
           "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"
-        },
-        {
-          "branches": [
-            "us",
-            "tw"
-          ],
-          "cdns": "919646d723f2fff72418101b1223ddb0"
         }
       ],
       "variant": "proc2"
@@ -13858,6 +13858,13 @@
         },
         {
           "branches": [
+            "us",
+            "tw"
+          ],
+          "cdns": "919646d723f2fff72418101b1223ddb0"
+        },
+        {
+          "branches": [
             "cn"
           ],
           "cdns": "3c4839a08949ae9f4862f94635508d83"
@@ -13867,13 +13874,6 @@
             "kr"
           ],
           "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"
-        },
-        {
-          "branches": [
-            "us",
-            "tw"
-          ],
-          "cdns": "919646d723f2fff72418101b1223ddb0"
         }
       ],
       "variant": "proc2_cn"
@@ -13901,6 +13901,13 @@
         },
         {
           "branches": [
+            "us",
+            "tw"
+          ],
+          "cdns": "919646d723f2fff72418101b1223ddb0"
+        },
+        {
+          "branches": [
             "cn"
           ],
           "cdns": "3c4839a08949ae9f4862f94635508d83"
@@ -13910,13 +13917,6 @@
             "kr"
           ],
           "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"
-        },
-        {
-          "branches": [
-            "us",
-            "tw"
-          ],
-          "cdns": "919646d723f2fff72418101b1223ddb0"
         }
       ],
       "variant": "proc2_eu"
@@ -13944,6 +13944,13 @@
         },
         {
           "branches": [
+            "us",
+            "tw"
+          ],
+          "cdns": "919646d723f2fff72418101b1223ddb0"
+        },
+        {
+          "branches": [
             "cn"
           ],
           "cdns": "3c4839a08949ae9f4862f94635508d83"
@@ -13953,13 +13960,6 @@
             "kr"
           ],
           "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"
-        },
-        {
-          "branches": [
-            "us",
-            "tw"
-          ],
-          "cdns": "919646d723f2fff72418101b1223ddb0"
         }
       ],
       "variant": "proc2_kr"
@@ -13978,12 +13978,6 @@
       "regions": [
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "ac3285f7bed04bf859b9072a2c68b69b"
-        },
-        {
-          "branches": [
             "cn"
           ],
           "cdns": "3c4839a08949ae9f4862f94635508d83"
@@ -13993,6 +13987,12 @@
             "eu"
           ],
           "cdns": "287b8918c145665428c6f714cdc6e3bd"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "ac3285f7bed04bf859b9072a2c68b69b"
         }
       ],
       "variant": "proc3"
@@ -14020,6 +14020,13 @@
         },
         {
           "branches": [
+            "us",
+            "tw"
+          ],
+          "cdns": "919646d723f2fff72418101b1223ddb0"
+        },
+        {
+          "branches": [
             "cn"
           ],
           "cdns": "3c4839a08949ae9f4862f94635508d83"
@@ -14029,13 +14036,6 @@
             "kr"
           ],
           "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"
-        },
-        {
-          "branches": [
-            "us",
-            "tw"
-          ],
-          "cdns": "919646d723f2fff72418101b1223ddb0"
         }
       ],
       "variant": "proc_cn"
@@ -14063,6 +14063,13 @@
         },
         {
           "branches": [
+            "us",
+            "tw"
+          ],
+          "cdns": "919646d723f2fff72418101b1223ddb0"
+        },
+        {
+          "branches": [
             "cn"
           ],
           "cdns": "3c4839a08949ae9f4862f94635508d83"
@@ -14072,13 +14079,6 @@
             "kr"
           ],
           "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"
-        },
-        {
-          "branches": [
-            "us",
-            "tw"
-          ],
-          "cdns": "919646d723f2fff72418101b1223ddb0"
         }
       ],
       "variant": "proc_eu"
@@ -14106,6 +14106,13 @@
         },
         {
           "branches": [
+            "us",
+            "tw"
+          ],
+          "cdns": "919646d723f2fff72418101b1223ddb0"
+        },
+        {
+          "branches": [
             "cn"
           ],
           "cdns": "3c4839a08949ae9f4862f94635508d83"
@@ -14115,13 +14122,6 @@
             "kr"
           ],
           "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"
-        },
-        {
-          "branches": [
-            "us",
-            "tw"
-          ],
-          "cdns": "919646d723f2fff72418101b1223ddb0"
         }
       ],
       "variant": "proc_kr"
@@ -14149,6 +14149,13 @@
         },
         {
           "branches": [
+            "us",
+            "tw"
+          ],
+          "cdns": "919646d723f2fff72418101b1223ddb0"
+        },
+        {
+          "branches": [
             "cn"
           ],
           "cdns": "3c4839a08949ae9f4862f94635508d83"
@@ -14158,13 +14165,6 @@
             "kr"
           ],
           "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"
-        },
-        {
-          "branches": [
-            "us",
-            "tw"
-          ],
-          "cdns": "919646d723f2fff72418101b1223ddb0"
         }
       ],
       "variant": "procr"
@@ -14192,6 +14192,13 @@
         },
         {
           "branches": [
+            "us",
+            "tw"
+          ],
+          "cdns": "919646d723f2fff72418101b1223ddb0"
+        },
+        {
+          "branches": [
             "cn"
           ],
           "cdns": "3c4839a08949ae9f4862f94635508d83"
@@ -14201,13 +14208,6 @@
             "kr"
           ],
           "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"
-        },
-        {
-          "branches": [
-            "us",
-            "tw"
-          ],
-          "cdns": "919646d723f2fff72418101b1223ddb0"
         }
       ],
       "variant": "procr2"
@@ -14226,12 +14226,6 @@
       "regions": [
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "ac3285f7bed04bf859b9072a2c68b69b"
-        },
-        {
-          "branches": [
             "cn"
           ],
           "cdns": "3c4839a08949ae9f4862f94635508d83"
@@ -14241,6 +14235,12 @@
             "eu"
           ],
           "cdns": "287b8918c145665428c6f714cdc6e3bd"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "ac3285f7bed04bf859b9072a2c68b69b"
         }
       ],
       "variant": "prodemo"
@@ -14259,15 +14259,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "7c8b57c7a1d9c82ee9dc10381fca9acb"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "8ba8fd31ff5c56864770fe5fe5f42d01"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "7c8b57c7a1d9c82ee9dc10381fca9acb"
         }
       ],
       "variant": "prodemo2"
@@ -14286,6 +14286,18 @@
       "regions": [
         {
           "branches": [
+            "eu"
+          ],
+          "cdns": "287b8918c145665428c6f714cdc6e3bd"
+        },
+        {
+          "branches": [
+            "cn"
+          ],
+          "cdns": "3c4839a08949ae9f4862f94635508d83"
+        },
+        {
+          "branches": [
             "tw",
             "us"
           ],
@@ -14296,18 +14308,6 @@
             "kr"
           ],
           "cdns": "f2f702bf5f33ea42ec912e967665ef6b"
-        },
-        {
-          "branches": [
-            "eu"
-          ],
-          "cdns": "287b8918c145665428c6f714cdc6e3bd"
-        },
-        {
-          "branches": [
-            "cn"
-          ],
-          "cdns": "3c4839a08949ae9f4862f94635508d83"
         }
       ],
       "variant": "prodemo4"
@@ -14326,6 +14326,18 @@
       "regions": [
         {
           "branches": [
+            "eu"
+          ],
+          "cdns": "287b8918c145665428c6f714cdc6e3bd"
+        },
+        {
+          "branches": [
+            "cn"
+          ],
+          "cdns": "3c4839a08949ae9f4862f94635508d83"
+        },
+        {
+          "branches": [
             "tw",
             "us"
           ],
@@ -14336,18 +14348,6 @@
             "kr"
           ],
           "cdns": "f2f702bf5f33ea42ec912e967665ef6b"
-        },
-        {
-          "branches": [
-            "eu"
-          ],
-          "cdns": "287b8918c145665428c6f714cdc6e3bd"
-        },
-        {
-          "branches": [
-            "cn"
-          ],
-          "cdns": "3c4839a08949ae9f4862f94635508d83"
         }
       ],
       "variant": "prodemo5"
@@ -14366,15 +14366,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "7c8b57c7a1d9c82ee9dc10381fca9acb"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "8ba8fd31ff5c56864770fe5fe5f42d01"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "7c8b57c7a1d9c82ee9dc10381fca9acb"
         }
       ],
       "variant": "prodev"
@@ -14534,12 +14534,6 @@
       "regions": [
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "ac3285f7bed04bf859b9072a2c68b69b"
-        },
-        {
-          "branches": [
             "cn"
           ],
           "cdns": "3c4839a08949ae9f4862f94635508d83"
@@ -14549,6 +14543,12 @@
             "eu"
           ],
           "cdns": "287b8918c145665428c6f714cdc6e3bd"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "ac3285f7bed04bf859b9072a2c68b69b"
         }
       ],
       "variant": "prodev6"
@@ -14567,12 +14567,6 @@
       "regions": [
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "ac3285f7bed04bf859b9072a2c68b69b"
-        },
-        {
-          "branches": [
             "cn"
           ],
           "cdns": "3c4839a08949ae9f4862f94635508d83"
@@ -14582,6 +14576,12 @@
             "eu"
           ],
           "cdns": "287b8918c145665428c6f714cdc6e3bd"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "ac3285f7bed04bf859b9072a2c68b69b"
         }
       ],
       "variant": "prodev7"
@@ -14600,12 +14600,6 @@
       "regions": [
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "ac3285f7bed04bf859b9072a2c68b69b"
-        },
-        {
-          "branches": [
             "cn"
           ],
           "cdns": "3c4839a08949ae9f4862f94635508d83"
@@ -14615,6 +14609,12 @@
             "eu"
           ],
           "cdns": "287b8918c145665428c6f714cdc6e3bd"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "ac3285f7bed04bf859b9072a2c68b69b"
         }
       ],
       "variant": "prodev8"
@@ -14639,12 +14639,6 @@
       "regions": [
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "ac3285f7bed04bf859b9072a2c68b69b"
-        },
-        {
-          "branches": [
             "cn"
           ],
           "cdns": "3c4839a08949ae9f4862f94635508d83"
@@ -14654,6 +14648,12 @@
             "eu"
           ],
           "cdns": "287b8918c145665428c6f714cdc6e3bd"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "ac3285f7bed04bf859b9072a2c68b69b"
         }
       ],
       "variant": "prodev9"
@@ -14672,12 +14672,6 @@
       "regions": [
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "ac3285f7bed04bf859b9072a2c68b69b"
-        },
-        {
-          "branches": [
             "cn"
           ],
           "cdns": "3c4839a08949ae9f4862f94635508d83"
@@ -14687,6 +14681,12 @@
             "eu"
           ],
           "cdns": "287b8918c145665428c6f714cdc6e3bd"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "ac3285f7bed04bf859b9072a2c68b69b"
         }
       ],
       "variant": "prodevops"
@@ -14705,12 +14705,6 @@
       "regions": [
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "ac3285f7bed04bf859b9072a2c68b69b"
-        },
-        {
-          "branches": [
             "cn"
           ],
           "cdns": "3c4839a08949ae9f4862f94635508d83"
@@ -14720,6 +14714,12 @@
             "eu"
           ],
           "cdns": "287b8918c145665428c6f714cdc6e3bd"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "ac3285f7bed04bf859b9072a2c68b69b"
         }
       ],
       "variant": "prodevops2"
@@ -14747,6 +14747,13 @@
         },
         {
           "branches": [
+            "us",
+            "tw"
+          ],
+          "cdns": "919646d723f2fff72418101b1223ddb0"
+        },
+        {
+          "branches": [
             "cn"
           ],
           "cdns": "3c4839a08949ae9f4862f94635508d83"
@@ -14756,13 +14763,6 @@
             "kr"
           ],
           "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"
-        },
-        {
-          "branches": [
-            "us",
-            "tw"
-          ],
-          "cdns": "919646d723f2fff72418101b1223ddb0"
         }
       ],
       "variant": "proev"
@@ -14781,12 +14781,6 @@
       "regions": [
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "ac3285f7bed04bf859b9072a2c68b69b"
-        },
-        {
-          "branches": [
             "cn"
           ],
           "cdns": "3c4839a08949ae9f4862f94635508d83"
@@ -14796,6 +14790,12 @@
             "eu"
           ],
           "cdns": "287b8918c145665428c6f714cdc6e3bd"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "ac3285f7bed04bf859b9072a2c68b69b"
         }
       ],
       "variant": "proindev"
@@ -14970,6 +14970,13 @@
         },
         {
           "branches": [
+            "us",
+            "tw"
+          ],
+          "cdns": "919646d723f2fff72418101b1223ddb0"
+        },
+        {
+          "branches": [
             "cn"
           ],
           "cdns": "3c4839a08949ae9f4862f94635508d83"
@@ -14979,13 +14986,6 @@
             "kr"
           ],
           "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"
-        },
-        {
-          "branches": [
-            "us",
-            "tw"
-          ],
-          "cdns": "919646d723f2fff72418101b1223ddb0"
         }
       ],
       "variant": "proms"
@@ -15013,6 +15013,13 @@
         },
         {
           "branches": [
+            "us",
+            "tw"
+          ],
+          "cdns": "919646d723f2fff72418101b1223ddb0"
+        },
+        {
+          "branches": [
             "cn"
           ],
           "cdns": "3c4839a08949ae9f4862f94635508d83"
@@ -15022,13 +15029,6 @@
             "kr"
           ],
           "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"
-        },
-        {
-          "branches": [
-            "us",
-            "tw"
-          ],
-          "cdns": "919646d723f2fff72418101b1223ddb0"
         }
       ],
       "variant": "prot"
@@ -15047,12 +15047,6 @@
       "regions": [
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "ac3285f7bed04bf859b9072a2c68b69b"
-        },
-        {
-          "branches": [
             "cn"
           ],
           "cdns": "3c4839a08949ae9f4862f94635508d83"
@@ -15062,6 +15056,12 @@
             "eu"
           ],
           "cdns": "287b8918c145665428c6f714cdc6e3bd"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "ac3285f7bed04bf859b9072a2c68b69b"
         }
       ],
       "variant": "proutr"
@@ -15080,12 +15080,6 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "287b8918c145665428c6f714cdc6e3bd"
-        },
-        {
-          "branches": [
             "kr"
           ],
           "cdns": "e3e189f887f0d9913e39df671295e08f"
@@ -15096,6 +15090,12 @@
             "us"
           ],
           "cdns": "919646d723f2fff72418101b1223ddb0"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "287b8918c145665428c6f714cdc6e3bd"
         }
       ],
       "variant": "prov"
@@ -15114,12 +15114,6 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "287b8918c145665428c6f714cdc6e3bd"
-        },
-        {
-          "branches": [
             "kr"
           ],
           "cdns": "e3e189f887f0d9913e39df671295e08f"
@@ -15130,6 +15124,12 @@
             "us"
           ],
           "cdns": "919646d723f2fff72418101b1223ddb0"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "287b8918c145665428c6f714cdc6e3bd"
         }
       ],
       "variant": "provac"
@@ -15148,12 +15148,6 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "287b8918c145665428c6f714cdc6e3bd"
-        },
-        {
-          "branches": [
             "kr"
           ],
           "cdns": "e3e189f887f0d9913e39df671295e08f"
@@ -15164,6 +15158,12 @@
             "us"
           ],
           "cdns": "919646d723f2fff72418101b1223ddb0"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "287b8918c145665428c6f714cdc6e3bd"
         }
       ],
       "variant": "provcomp"
@@ -15188,15 +15188,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "287b8918c145665428c6f714cdc6e3bd"
-        },
-        {
-          "branches": [
             "kr"
           ],
           "cdns": "f2f702bf5f33ea42ec912e967665ef6b"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "287b8918c145665428c6f714cdc6e3bd"
         },
         {
           "branches": [
@@ -15228,15 +15228,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "287b8918c145665428c6f714cdc6e3bd"
-        },
-        {
-          "branches": [
             "kr"
           ],
           "cdns": "f2f702bf5f33ea42ec912e967665ef6b"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "287b8918c145665428c6f714cdc6e3bd"
         },
         {
           "branches": [
@@ -15268,15 +15268,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "287b8918c145665428c6f714cdc6e3bd"
-        },
-        {
-          "branches": [
             "kr"
           ],
           "cdns": "f2f702bf5f33ea42ec912e967665ef6b"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "287b8918c145665428c6f714cdc6e3bd"
         },
         {
           "branches": [
@@ -15319,18 +15319,6 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "287b8918c145665428c6f714cdc6e3bd"
-        },
-        {
-          "branches": [
-            "kr"
-          ],
-          "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"
-        },
-        {
-          "branches": [
             "cn"
           ],
           "cdns": "ffec4c7f724b685aff96c8e97d715c21"
@@ -15341,6 +15329,18 @@
             "us"
           ],
           "cdns": "919646d723f2fff72418101b1223ddb0"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "287b8918c145665428c6f714cdc6e3bd"
+        },
+        {
+          "branches": [
+            "kr"
+          ],
+          "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"
         }
       ],
       "variant": "bna"
@@ -15369,15 +15369,15 @@
         },
         {
           "branches": [
-            "kr"
-          ],
-          "cdns": "4165a2d10276a6dd6bd4942484280b02"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"
+        },
+        {
+          "branches": [
+            "kr"
+          ],
+          "cdns": "4165a2d10276a6dd6bd4942484280b02"
         }
       ],
       "variant": "rtro"
@@ -15396,15 +15396,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "87a06f78212104fe1a98f84f0157ff50"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "87a06f78212104fe1a98f84f0157ff50"
         }
       ],
       "variant": "rtrodev"
@@ -15533,6 +15533,12 @@
       "regions": [
         {
           "branches": [
+            "cn"
+          ],
+          "cdns": "3598b2604a265c20226f1e451053089d"
+        },
+        {
+          "branches": [
             "tw",
             "us"
           ],
@@ -15540,21 +15546,15 @@
         },
         {
           "branches": [
-            "kr"
-          ],
-          "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"
-        },
-        {
-          "branches": [
-            "cn"
-          ],
-          "cdns": "3598b2604a265c20226f1e451053089d"
-        },
-        {
-          "branches": [
             "eu"
           ],
           "cdns": "287b8918c145665428c6f714cdc6e3bd"
+        },
+        {
+          "branches": [
+            "kr"
+          ],
+          "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"
         }
       ],
       "variant": "s2"
@@ -15573,6 +15573,12 @@
       "regions": [
         {
           "branches": [
+            "cn"
+          ],
+          "cdns": "3598b2604a265c20226f1e451053089d"
+        },
+        {
+          "branches": [
             "tw",
             "us"
           ],
@@ -15580,21 +15586,15 @@
         },
         {
           "branches": [
-            "kr"
-          ],
-          "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"
-        },
-        {
-          "branches": [
-            "cn"
-          ],
-          "cdns": "3598b2604a265c20226f1e451053089d"
-        },
-        {
-          "branches": [
             "eu"
           ],
           "cdns": "287b8918c145665428c6f714cdc6e3bd"
+        },
+        {
+          "branches": [
+            "kr"
+          ],
+          "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"
         }
       ],
       "variant": "s2c"
@@ -15616,6 +15616,12 @@
       "regions": [
         {
           "branches": [
+            "cn"
+          ],
+          "cdns": "3598b2604a265c20226f1e451053089d"
+        },
+        {
+          "branches": [
             "tw",
             "us"
           ],
@@ -15623,21 +15629,15 @@
         },
         {
           "branches": [
-            "kr"
-          ],
-          "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"
-        },
-        {
-          "branches": [
-            "cn"
-          ],
-          "cdns": "3598b2604a265c20226f1e451053089d"
-        },
-        {
-          "branches": [
             "eu"
           ],
           "cdns": "287b8918c145665428c6f714cdc6e3bd"
+        },
+        {
+          "branches": [
+            "kr"
+          ],
+          "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"
         }
       ],
       "variant": "s2t"
@@ -15662,15 +15662,15 @@
         },
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "287b8918c145665428c6f714cdc6e3bd"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "919646d723f2fff72418101b1223ddb0"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "287b8918c145665428c6f714cdc6e3bd"
         }
       ],
       "variant": "s2v"
@@ -15691,15 +15691,15 @@
       "regions": [
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "a82da8e8cbff09cee2eb46d7bc99cacb"
-        },
-        {
-          "branches": [
             "eu"
           ],
           "cdns": "e2d688bd00eb8127b051f02b31244e76"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "a82da8e8cbff09cee2eb46d7bc99cacb"
         },
         {
           "branches": [
@@ -15743,15 +15743,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "7c8b57c7a1d9c82ee9dc10381fca9acb"
-        },
-        {
-          "branches": [
             "kr"
           ],
           "cdns": "0fbf4a51bbd73d1cd2d447a1e1c909b9"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "7c8b57c7a1d9c82ee9dc10381fca9acb"
         },
         {
           "branches": [
@@ -15778,16 +15778,16 @@
       "regions": [
         {
           "branches": [
-            "eu",
-            "us"
-          ],
-          "cdns": "919f74f3f8ec87636755cdb61ad68bab"
-        },
-        {
-          "branches": [
             "kr"
           ],
           "cdns": "f17a5124d59dbe250640562a6c96e7d3"
+        },
+        {
+          "branches": [
+            "us",
+            "eu"
+          ],
+          "cdns": "919f74f3f8ec87636755cdb61ad68bab"
         }
       ],
       "variant": "viperdev"
@@ -15879,15 +15879,15 @@
         },
         {
           "branches": [
-            "kr"
-          ],
-          "cdns": "2921560888e89745a9fde90b5c9ebacb"
-        },
-        {
-          "branches": [
             "eu"
           ],
           "cdns": "5df668e69943abffe1cb7348d03856a4"
+        },
+        {
+          "branches": [
+            "kr"
+          ],
+          "cdns": "2921560888e89745a9fde90b5c9ebacb"
         }
       ],
       "variant": "w2bn"
@@ -15908,6 +15908,12 @@
       "regions": [
         {
           "branches": [
+            "eu"
+          ],
+          "cdns": "287b8918c145665428c6f714cdc6e3bd"
+        },
+        {
+          "branches": [
             "us",
             "tw"
           ],
@@ -15918,12 +15924,6 @@
             "kr"
           ],
           "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"
-        },
-        {
-          "branches": [
-            "eu"
-          ],
-          "cdns": "287b8918c145665428c6f714cdc6e3bd"
         }
       ],
       "variant": "w2r"
@@ -15948,15 +15948,15 @@
         },
         {
           "branches": [
-            "kr"
-          ],
-          "cdns": "7d2738eb21c4f9988e16484abd3f6ea2"
-        },
-        {
-          "branches": [
             "eu"
           ],
           "cdns": "5df668e69943abffe1cb7348d03856a4"
+        },
+        {
+          "branches": [
+            "kr"
+          ],
+          "cdns": "7d2738eb21c4f9988e16484abd3f6ea2"
         }
       ],
       "variant": "w2rd"
@@ -15977,15 +15977,15 @@
       "regions": [
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "935e71ab8ad5742d217fa6bad6525e4f"
-        },
-        {
-          "branches": [
             "kr"
           ],
           "cdns": "5a76d7e11ce9b74f1ec2083a2a3fb668"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "935e71ab8ad5742d217fa6bad6525e4f"
         },
         {
           "branches": [
@@ -16125,15 +16125,15 @@
         },
         {
           "branches": [
-            "kr"
-          ],
-          "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "919646d723f2fff72418101b1223ddb0"
+        },
+        {
+          "branches": [
+            "kr"
+          ],
+          "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"
         }
       ],
       "variant": "w3d"
@@ -16222,15 +16222,15 @@
       "regions": [
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"
-        },
-        {
-          "branches": [
             "eu"
           ],
           "cdns": "87a06f78212104fe1a98f84f0157ff50"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"
         }
       ],
       "variant": "wlbydev"
@@ -16401,6 +16401,13 @@
       "regions": [
         {
           "branches": [
+            "tw",
+            "us"
+          ],
+          "cdns": "ad298166bc8896ec90ad1cff7b693bd5"
+        },
+        {
+          "branches": [
             "eu"
           ],
           "cdns": "04458a4f0d38210a778428f7bc1c41c5"
@@ -16416,13 +16423,6 @@
             "kr"
           ],
           "cdns": "8967c799fa1e344e1b8dfe8d95e517fe"
-        },
-        {
-          "branches": [
-            "tw",
-            "us"
-          ],
-          "cdns": "ad298166bc8896ec90ad1cff7b693bd5"
         }
       ],
       "variant": "wow"
@@ -16445,6 +16445,13 @@
       "regions": [
         {
           "branches": [
+            "tw",
+            "us"
+          ],
+          "cdns": "ad298166bc8896ec90ad1cff7b693bd5"
+        },
+        {
+          "branches": [
             "eu"
           ],
           "cdns": "04458a4f0d38210a778428f7bc1c41c5"
@@ -16460,13 +16467,6 @@
             "kr"
           ],
           "cdns": "8967c799fa1e344e1b8dfe8d95e517fe"
-        },
-        {
-          "branches": [
-            "tw",
-            "us"
-          ],
-          "cdns": "ad298166bc8896ec90ad1cff7b693bd5"
         }
       ],
       "variant": "wow_anniversary"
@@ -16491,6 +16491,13 @@
       "regions": [
         {
           "branches": [
+            "tw",
+            "us"
+          ],
+          "cdns": "ad298166bc8896ec90ad1cff7b693bd5"
+        },
+        {
+          "branches": [
             "eu"
           ],
           "cdns": "04458a4f0d38210a778428f7bc1c41c5"
@@ -16506,13 +16513,6 @@
             "kr"
           ],
           "cdns": "8967c799fa1e344e1b8dfe8d95e517fe"
-        },
-        {
-          "branches": [
-            "tw",
-            "us"
-          ],
-          "cdns": "ad298166bc8896ec90ad1cff7b693bd5"
         }
       ],
       "variant": "wow_beta"
@@ -16540,6 +16540,13 @@
       "regions": [
         {
           "branches": [
+            "tw",
+            "us"
+          ],
+          "cdns": "ad298166bc8896ec90ad1cff7b693bd5"
+        },
+        {
+          "branches": [
             "eu"
           ],
           "cdns": "04458a4f0d38210a778428f7bc1c41c5"
@@ -16555,13 +16562,6 @@
             "kr"
           ],
           "cdns": "8967c799fa1e344e1b8dfe8d95e517fe"
-        },
-        {
-          "branches": [
-            "tw",
-            "us"
-          ],
-          "cdns": "ad298166bc8896ec90ad1cff7b693bd5"
         }
       ],
       "variant": "wow_classic"
@@ -16583,6 +16583,13 @@
       "regions": [
         {
           "branches": [
+            "tw",
+            "us"
+          ],
+          "cdns": "ad298166bc8896ec90ad1cff7b693bd5"
+        },
+        {
+          "branches": [
             "eu"
           ],
           "cdns": "04458a4f0d38210a778428f7bc1c41c5"
@@ -16598,13 +16605,6 @@
             "kr"
           ],
           "cdns": "8967c799fa1e344e1b8dfe8d95e517fe"
-        },
-        {
-          "branches": [
-            "tw",
-            "us"
-          ],
-          "cdns": "ad298166bc8896ec90ad1cff7b693bd5"
         }
       ],
       "variant": "wow_classic_beta"
@@ -16627,6 +16627,13 @@
       "regions": [
         {
           "branches": [
+            "tw",
+            "us"
+          ],
+          "cdns": "ad298166bc8896ec90ad1cff7b693bd5"
+        },
+        {
+          "branches": [
             "eu"
           ],
           "cdns": "04458a4f0d38210a778428f7bc1c41c5"
@@ -16642,13 +16649,6 @@
             "kr"
           ],
           "cdns": "8967c799fa1e344e1b8dfe8d95e517fe"
-        },
-        {
-          "branches": [
-            "tw",
-            "us"
-          ],
-          "cdns": "ad298166bc8896ec90ad1cff7b693bd5"
         }
       ],
       "variant": "wow_classic_era"
@@ -16671,6 +16671,13 @@
       "regions": [
         {
           "branches": [
+            "tw",
+            "us"
+          ],
+          "cdns": "ad298166bc8896ec90ad1cff7b693bd5"
+        },
+        {
+          "branches": [
             "eu"
           ],
           "cdns": "04458a4f0d38210a778428f7bc1c41c5"
@@ -16686,13 +16693,6 @@
             "kr"
           ],
           "cdns": "8967c799fa1e344e1b8dfe8d95e517fe"
-        },
-        {
-          "branches": [
-            "tw",
-            "us"
-          ],
-          "cdns": "ad298166bc8896ec90ad1cff7b693bd5"
         }
       ],
       "variant": "wow_classic_era_ptr"
@@ -16715,6 +16715,13 @@
       "regions": [
         {
           "branches": [
+            "tw",
+            "us"
+          ],
+          "cdns": "ad298166bc8896ec90ad1cff7b693bd5"
+        },
+        {
+          "branches": [
             "eu"
           ],
           "cdns": "04458a4f0d38210a778428f7bc1c41c5"
@@ -16730,13 +16737,6 @@
             "kr"
           ],
           "cdns": "8967c799fa1e344e1b8dfe8d95e517fe"
-        },
-        {
-          "branches": [
-            "tw",
-            "us"
-          ],
-          "cdns": "ad298166bc8896ec90ad1cff7b693bd5"
         }
       ],
       "variant": "wow_classic_ptr"
@@ -16755,6 +16755,13 @@
       "regions": [
         {
           "branches": [
+            "tw",
+            "us"
+          ],
+          "cdns": "ad298166bc8896ec90ad1cff7b693bd5"
+        },
+        {
+          "branches": [
             "eu"
           ],
           "cdns": "04458a4f0d38210a778428f7bc1c41c5"
@@ -16770,13 +16777,6 @@
             "kr"
           ],
           "cdns": "8967c799fa1e344e1b8dfe8d95e517fe"
-        },
-        {
-          "branches": [
-            "tw",
-            "us"
-          ],
-          "cdns": "ad298166bc8896ec90ad1cff7b693bd5"
         }
       ],
       "variant": "wow_classic_titan"
@@ -16800,15 +16800,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "287b8918c145665428c6f714cdc6e3bd"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "919646d723f2fff72418101b1223ddb0"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "287b8918c145665428c6f714cdc6e3bd"
         },
         {
           "branches": [
@@ -16836,15 +16836,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "287b8918c145665428c6f714cdc6e3bd"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "919646d723f2fff72418101b1223ddb0"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "287b8918c145665428c6f714cdc6e3bd"
         },
         {
           "branches": [
@@ -16869,15 +16869,15 @@
       "regions": [
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "919646d723f2fff72418101b1223ddb0"
-        },
-        {
-          "branches": [
             "eu"
           ],
           "cdns": "287b8918c145665428c6f714cdc6e3bd"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "919646d723f2fff72418101b1223ddb0"
         },
         {
           "branches": [
@@ -16905,15 +16905,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "287b8918c145665428c6f714cdc6e3bd"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "919646d723f2fff72418101b1223ddb0"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "287b8918c145665428c6f714cdc6e3bd"
         },
         {
           "branches": [
@@ -16944,6 +16944,13 @@
       "regions": [
         {
           "branches": [
+            "tw",
+            "us"
+          ],
+          "cdns": "ad298166bc8896ec90ad1cff7b693bd5"
+        },
+        {
+          "branches": [
             "eu"
           ],
           "cdns": "04458a4f0d38210a778428f7bc1c41c5"
@@ -16959,13 +16966,6 @@
             "kr"
           ],
           "cdns": "8967c799fa1e344e1b8dfe8d95e517fe"
-        },
-        {
-          "branches": [
-            "tw",
-            "us"
-          ],
-          "cdns": "ad298166bc8896ec90ad1cff7b693bd5"
         }
       ],
       "variant": "wowe1"
@@ -16988,6 +16988,13 @@
       "regions": [
         {
           "branches": [
+            "tw",
+            "us"
+          ],
+          "cdns": "ad298166bc8896ec90ad1cff7b693bd5"
+        },
+        {
+          "branches": [
             "eu"
           ],
           "cdns": "04458a4f0d38210a778428f7bc1c41c5"
@@ -17003,13 +17010,6 @@
             "kr"
           ],
           "cdns": "8967c799fa1e344e1b8dfe8d95e517fe"
-        },
-        {
-          "branches": [
-            "tw",
-            "us"
-          ],
-          "cdns": "ad298166bc8896ec90ad1cff7b693bd5"
         }
       ],
       "variant": "wowlivetest"
@@ -17031,15 +17031,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "287b8918c145665428c6f714cdc6e3bd"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "919646d723f2fff72418101b1223ddb0"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "287b8918c145665428c6f714cdc6e3bd"
         },
         {
           "branches": [
@@ -17065,12 +17065,6 @@
       "regions": [
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "919646d723f2fff72418101b1223ddb0"
-        },
-        {
-          "branches": [
             "eu"
           ],
           "cdns": "287b8918c145665428c6f714cdc6e3bd"
@@ -17080,6 +17074,12 @@
             "kr"
           ],
           "cdns": "0e52e616adbad7a6a5fa0a41741bb101"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "919646d723f2fff72418101b1223ddb0"
         },
         {
           "branches": [
@@ -17104,12 +17104,6 @@
       "regions": [
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "919646d723f2fff72418101b1223ddb0"
-        },
-        {
-          "branches": [
             "eu"
           ],
           "cdns": "287b8918c145665428c6f714cdc6e3bd"
@@ -17119,6 +17113,12 @@
             "kr"
           ],
           "cdns": "0e52e616adbad7a6a5fa0a41741bb101"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "919646d723f2fff72418101b1223ddb0"
         },
         {
           "branches": [
@@ -17143,12 +17143,6 @@
       "regions": [
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "919646d723f2fff72418101b1223ddb0"
-        },
-        {
-          "branches": [
             "eu"
           ],
           "cdns": "287b8918c145665428c6f714cdc6e3bd"
@@ -17158,6 +17152,12 @@
             "kr"
           ],
           "cdns": "0e52e616adbad7a6a5fa0a41741bb101"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "919646d723f2fff72418101b1223ddb0"
         },
         {
           "branches": [
@@ -17182,12 +17182,6 @@
       "regions": [
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "919646d723f2fff72418101b1223ddb0"
-        },
-        {
-          "branches": [
             "eu"
           ],
           "cdns": "287b8918c145665428c6f714cdc6e3bd"
@@ -17197,6 +17191,12 @@
             "kr"
           ],
           "cdns": "0e52e616adbad7a6a5fa0a41741bb101"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "919646d723f2fff72418101b1223ddb0"
         },
         {
           "branches": [
@@ -17221,12 +17221,6 @@
       "regions": [
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "919646d723f2fff72418101b1223ddb0"
-        },
-        {
-          "branches": [
             "eu"
           ],
           "cdns": "287b8918c145665428c6f714cdc6e3bd"
@@ -17236,6 +17230,12 @@
             "kr"
           ],
           "cdns": "0e52e616adbad7a6a5fa0a41741bb101"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "919646d723f2fff72418101b1223ddb0"
         },
         {
           "branches": [
@@ -17260,12 +17260,6 @@
       "regions": [
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "919646d723f2fff72418101b1223ddb0"
-        },
-        {
-          "branches": [
             "eu"
           ],
           "cdns": "287b8918c145665428c6f714cdc6e3bd"
@@ -17275,6 +17269,12 @@
             "kr"
           ],
           "cdns": "0e52e616adbad7a6a5fa0a41741bb101"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "919646d723f2fff72418101b1223ddb0"
         },
         {
           "branches": [
@@ -17299,12 +17299,6 @@
       "regions": [
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "919646d723f2fff72418101b1223ddb0"
-        },
-        {
-          "branches": [
             "eu"
           ],
           "cdns": "287b8918c145665428c6f714cdc6e3bd"
@@ -17314,6 +17308,12 @@
             "kr"
           ],
           "cdns": "0e52e616adbad7a6a5fa0a41741bb101"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "919646d723f2fff72418101b1223ddb0"
         },
         {
           "branches": [
@@ -17338,12 +17338,6 @@
       "regions": [
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "919646d723f2fff72418101b1223ddb0"
-        },
-        {
-          "branches": [
             "eu"
           ],
           "cdns": "287b8918c145665428c6f714cdc6e3bd"
@@ -17353,6 +17347,12 @@
             "kr"
           ],
           "cdns": "0e52e616adbad7a6a5fa0a41741bb101"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "919646d723f2fff72418101b1223ddb0"
         },
         {
           "branches": [
@@ -17377,12 +17377,6 @@
       "regions": [
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "919646d723f2fff72418101b1223ddb0"
-        },
-        {
-          "branches": [
             "eu"
           ],
           "cdns": "287b8918c145665428c6f714cdc6e3bd"
@@ -17392,6 +17386,12 @@
             "kr"
           ],
           "cdns": "0e52e616adbad7a6a5fa0a41741bb101"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "919646d723f2fff72418101b1223ddb0"
         },
         {
           "branches": [
@@ -17416,12 +17416,6 @@
       "regions": [
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "919646d723f2fff72418101b1223ddb0"
-        },
-        {
-          "branches": [
             "eu"
           ],
           "cdns": "287b8918c145665428c6f714cdc6e3bd"
@@ -17431,6 +17425,12 @@
             "kr"
           ],
           "cdns": "0e52e616adbad7a6a5fa0a41741bb101"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "919646d723f2fff72418101b1223ddb0"
         },
         {
           "branches": [
@@ -17455,12 +17455,6 @@
       "regions": [
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "919646d723f2fff72418101b1223ddb0"
-        },
-        {
-          "branches": [
             "eu"
           ],
           "cdns": "287b8918c145665428c6f714cdc6e3bd"
@@ -17470,6 +17464,12 @@
             "kr"
           ],
           "cdns": "0e52e616adbad7a6a5fa0a41741bb101"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "919646d723f2fff72418101b1223ddb0"
         },
         {
           "branches": [
@@ -17500,6 +17500,13 @@
       "regions": [
         {
           "branches": [
+            "tw",
+            "us"
+          ],
+          "cdns": "ad298166bc8896ec90ad1cff7b693bd5"
+        },
+        {
+          "branches": [
             "eu"
           ],
           "cdns": "04458a4f0d38210a778428f7bc1c41c5"
@@ -17515,13 +17522,6 @@
             "kr"
           ],
           "cdns": "8967c799fa1e344e1b8dfe8d95e517fe"
-        },
-        {
-          "branches": [
-            "tw",
-            "us"
-          ],
-          "cdns": "ad298166bc8896ec90ad1cff7b693bd5"
         }
       ],
       "variant": "wowt"
@@ -17546,12 +17546,6 @@
       "regions": [
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "919646d723f2fff72418101b1223ddb0"
-        },
-        {
-          "branches": [
             "kr"
           ],
           "cdns": "0e52e616adbad7a6a5fa0a41741bb101"
@@ -17561,6 +17555,12 @@
             "eu"
           ],
           "cdns": "287b8918c145665428c6f714cdc6e3bd"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "919646d723f2fff72418101b1223ddb0"
         }
       ],
       "variant": "wowv"
@@ -17581,12 +17581,6 @@
       "regions": [
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "919646d723f2fff72418101b1223ddb0"
-        },
-        {
-          "branches": [
             "kr"
           ],
           "cdns": "0e52e616adbad7a6a5fa0a41741bb101"
@@ -17596,6 +17590,12 @@
             "eu"
           ],
           "cdns": "287b8918c145665428c6f714cdc6e3bd"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "919646d723f2fff72418101b1223ddb0"
         }
       ],
       "variant": "wowv10"
@@ -17617,12 +17617,6 @@
       "regions": [
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "919646d723f2fff72418101b1223ddb0"
-        },
-        {
-          "branches": [
             "kr"
           ],
           "cdns": "0e52e616adbad7a6a5fa0a41741bb101"
@@ -17632,6 +17626,12 @@
             "eu"
           ],
           "cdns": "287b8918c145665428c6f714cdc6e3bd"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "919646d723f2fff72418101b1223ddb0"
         }
       ],
       "variant": "wowv2"
@@ -17654,12 +17654,6 @@
       "regions": [
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "919646d723f2fff72418101b1223ddb0"
-        },
-        {
-          "branches": [
             "kr"
           ],
           "cdns": "0e52e616adbad7a6a5fa0a41741bb101"
@@ -17669,6 +17663,12 @@
             "eu"
           ],
           "cdns": "287b8918c145665428c6f714cdc6e3bd"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "919646d723f2fff72418101b1223ddb0"
         }
       ],
       "variant": "wowv3"
@@ -17691,12 +17691,6 @@
       "regions": [
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "919646d723f2fff72418101b1223ddb0"
-        },
-        {
-          "branches": [
             "kr"
           ],
           "cdns": "0e52e616adbad7a6a5fa0a41741bb101"
@@ -17706,6 +17700,12 @@
             "eu"
           ],
           "cdns": "287b8918c145665428c6f714cdc6e3bd"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "919646d723f2fff72418101b1223ddb0"
         }
       ],
       "variant": "wowv4"
@@ -17728,12 +17728,6 @@
       "regions": [
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "919646d723f2fff72418101b1223ddb0"
-        },
-        {
-          "branches": [
             "kr"
           ],
           "cdns": "0e52e616adbad7a6a5fa0a41741bb101"
@@ -17743,6 +17737,12 @@
             "eu"
           ],
           "cdns": "287b8918c145665428c6f714cdc6e3bd"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "919646d723f2fff72418101b1223ddb0"
         }
       ],
       "variant": "wowv5"
@@ -17764,12 +17764,6 @@
       "regions": [
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "919646d723f2fff72418101b1223ddb0"
-        },
-        {
-          "branches": [
             "kr"
           ],
           "cdns": "0e52e616adbad7a6a5fa0a41741bb101"
@@ -17779,6 +17773,12 @@
             "eu"
           ],
           "cdns": "287b8918c145665428c6f714cdc6e3bd"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "919646d723f2fff72418101b1223ddb0"
         }
       ],
       "variant": "wowv6"
@@ -17801,12 +17801,6 @@
       "regions": [
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "919646d723f2fff72418101b1223ddb0"
-        },
-        {
-          "branches": [
             "kr"
           ],
           "cdns": "0e52e616adbad7a6a5fa0a41741bb101"
@@ -17816,6 +17810,12 @@
             "eu"
           ],
           "cdns": "287b8918c145665428c6f714cdc6e3bd"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "919646d723f2fff72418101b1223ddb0"
         }
       ],
       "variant": "wowv7"
@@ -17836,12 +17836,6 @@
       "regions": [
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "919646d723f2fff72418101b1223ddb0"
-        },
-        {
-          "branches": [
             "kr"
           ],
           "cdns": "0e52e616adbad7a6a5fa0a41741bb101"
@@ -17851,6 +17845,12 @@
             "eu"
           ],
           "cdns": "287b8918c145665428c6f714cdc6e3bd"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "919646d723f2fff72418101b1223ddb0"
         }
       ],
       "variant": "wowv8"
@@ -17871,12 +17871,6 @@
       "regions": [
         {
           "branches": [
-            "us"
-          ],
-          "cdns": "919646d723f2fff72418101b1223ddb0"
-        },
-        {
-          "branches": [
             "kr"
           ],
           "cdns": "0e52e616adbad7a6a5fa0a41741bb101"
@@ -17886,6 +17880,12 @@
             "eu"
           ],
           "cdns": "287b8918c145665428c6f714cdc6e3bd"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "919646d723f2fff72418101b1223ddb0"
         }
       ],
       "variant": "wowv9"
@@ -17907,6 +17907,13 @@
       "regions": [
         {
           "branches": [
+            "tw",
+            "us"
+          ],
+          "cdns": "ad298166bc8896ec90ad1cff7b693bd5"
+        },
+        {
+          "branches": [
             "eu"
           ],
           "cdns": "04458a4f0d38210a778428f7bc1c41c5"
@@ -17922,13 +17929,6 @@
             "kr"
           ],
           "cdns": "8967c799fa1e344e1b8dfe8d95e517fe"
-        },
-        {
-          "branches": [
-            "tw",
-            "us"
-          ],
-          "cdns": "ad298166bc8896ec90ad1cff7b693bd5"
         }
       ],
       "variant": "wowxptr"
@@ -17953,6 +17953,13 @@
       "regions": [
         {
           "branches": [
+            "tw",
+            "us"
+          ],
+          "cdns": "ad298166bc8896ec90ad1cff7b693bd5"
+        },
+        {
+          "branches": [
             "eu"
           ],
           "cdns": "04458a4f0d38210a778428f7bc1c41c5"
@@ -17968,13 +17975,6 @@
             "kr"
           ],
           "cdns": "8967c799fa1e344e1b8dfe8d95e517fe"
-        },
-        {
-          "branches": [
-            "tw",
-            "us"
-          ],
-          "cdns": "ad298166bc8896ec90ad1cff7b693bd5"
         }
       ],
       "variant": "wowz"
@@ -18253,15 +18253,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "7c8b57c7a1d9c82ee9dc10381fca9acb"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "8ba8fd31ff5c56864770fe5fe5f42d01"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "7c8b57c7a1d9c82ee9dc10381fca9acb"
         }
       ],
       "variant": "zeusv1"
@@ -18280,15 +18280,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "7c8b57c7a1d9c82ee9dc10381fca9acb"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "8ba8fd31ff5c56864770fe5fe5f42d01"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "7c8b57c7a1d9c82ee9dc10381fca9acb"
         }
       ],
       "variant": "zeusv11"
@@ -18314,15 +18314,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "7c8b57c7a1d9c82ee9dc10381fca9acb"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "8ba8fd31ff5c56864770fe5fe5f42d01"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "7c8b57c7a1d9c82ee9dc10381fca9acb"
         }
       ],
       "variant": "zeusv12"
@@ -18343,15 +18343,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "7c8b57c7a1d9c82ee9dc10381fca9acb"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "8ba8fd31ff5c56864770fe5fe5f42d01"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "7c8b57c7a1d9c82ee9dc10381fca9acb"
         }
       ],
       "variant": "zeusv15"
@@ -18377,15 +18377,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "7c8b57c7a1d9c82ee9dc10381fca9acb"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "8ba8fd31ff5c56864770fe5fe5f42d01"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "7c8b57c7a1d9c82ee9dc10381fca9acb"
         }
       ],
       "variant": "zeusv16"
@@ -18416,15 +18416,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "7c8b57c7a1d9c82ee9dc10381fca9acb"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "8ba8fd31ff5c56864770fe5fe5f42d01"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "7c8b57c7a1d9c82ee9dc10381fca9acb"
         }
       ],
       "variant": "zeusv2"
@@ -18450,15 +18450,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "7c8b57c7a1d9c82ee9dc10381fca9acb"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "8ba8fd31ff5c56864770fe5fe5f42d01"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "7c8b57c7a1d9c82ee9dc10381fca9acb"
         }
       ],
       "variant": "zeusv3"
@@ -18484,15 +18484,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "7c8b57c7a1d9c82ee9dc10381fca9acb"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "8ba8fd31ff5c56864770fe5fe5f42d01"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "7c8b57c7a1d9c82ee9dc10381fca9acb"
         }
       ],
       "variant": "zeusv4"
@@ -18523,15 +18523,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "7c8b57c7a1d9c82ee9dc10381fca9acb"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "8ba8fd31ff5c56864770fe5fe5f42d01"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "7c8b57c7a1d9c82ee9dc10381fca9acb"
         }
       ],
       "variant": "zeusv5"
@@ -18550,15 +18550,15 @@
       "regions": [
         {
           "branches": [
-            "eu"
-          ],
-          "cdns": "7c8b57c7a1d9c82ee9dc10381fca9acb"
-        },
-        {
-          "branches": [
             "us"
           ],
           "cdns": "8ba8fd31ff5c56864770fe5fe5f42d01"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "7c8b57c7a1d9c82ee9dc10381fca9acb"
         }
       ],
       "variant": "zeusv7"
