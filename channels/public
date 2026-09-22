@@ -7062,10 +7062,15 @@
         },
         {
           "branches": [
-            "kr",
-            "us"
+            "kr"
           ],
           "definition": "1e1c78f35b56d796368e31651960980d"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "definition": "7f9789def7966f6b9042077c831e7d88"
         }
       ],
       "infrastructure": false,
