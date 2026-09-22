@@ -13540,7 +13540,7 @@
           "branches": [
             "cn"
           ],
-          "definition": "e7029174f8c9e6fb262dcbce7a5d6219"
+          "definition": "5bcfe42f964d5fa590c98263b30572d9"
         },
         {
           "branches": [
@@ -13548,13 +13548,13 @@
             "kr",
             "us"
           ],
-          "definition": "8a5d4f8aa08325439af123fe443721ac"
+          "definition": "9e30ecb4597b00effa440a12b4b5ec21"
         },
         {
           "branches": [
             "nexon"
           ],
-          "definition": "4a050b961b3060ca0385d7bf6b43dd15"
+          "definition": "de1e1aad7c57df3590831d0ec5a3a67c"
         }
       ],
       "infrastructure": false,
