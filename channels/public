@@ -9063,10 +9063,15 @@
         },
         {
           "branches": [
-            "kr",
-            "us"
+            "kr"
           ],
           "definition": "70c551f96b706cdbaf806ccb95f6e60e"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "definition": "67c9587bfacdfd8cd171bdf2180f2f9c"
         }
       ],
       "infrastructure": false,
