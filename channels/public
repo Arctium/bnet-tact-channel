@@ -12751,7 +12751,20 @@
       ],
       "infrastructure": false,
       "product": "lyra",
-      "regions": [],
+      "regions": [
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "287b8918c145665428c6f714cdc6e3bd"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "919646d723f2fff72418101b1223ddb0"
+        }
+      ],
       "variant": "lyra-retail-rc"
     },
     {
@@ -14500,7 +14513,7 @@
           "branches": [
             "us"
           ],
-          "definition": "e6f5624b2f41916727c46f8201682fcb"
+          "definition": "876f833801414df46e1d1f09962247e5"
         }
       ],
       "infrastructure": false,
