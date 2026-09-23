@@ -16475,15 +16475,15 @@
       "builds": [
         {
           "branches": [
-            "cn",
-            "kr",
-            "tw"
+            "cn"
           ],
           "definition": "20bff1562ccf6c893b2dc2e73bd40e71"
         },
         {
           "branches": [
             "eu",
+            "kr",
+            "tw",
             "us"
           ],
           "definition": "fb59f6bc006fb5ca0c6d1fee0618e777"
