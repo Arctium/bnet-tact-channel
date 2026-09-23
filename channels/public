@@ -12272,14 +12272,19 @@
             "android_cn_huawei",
             "android_google",
             "android_onestore",
+            "ios",
+            "ios_cn"
+          ],
+          "definition": "aad96787c52e8ce7caaa58be2e35c5a2"
+        },
+        {
+          "branches": [
             "cn",
             "eu",
-            "ios",
-            "ios_cn",
             "kr",
             "us"
           ],
-          "definition": "aad96787c52e8ce7caaa58be2e35c5a2"
+          "definition": "c35910966895fdc9d5cf1ccabdb7a4c7"
         }
       ],
       "infrastructure": false,
