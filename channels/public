@@ -16475,12 +16475,7 @@
       "builds": [
         {
           "branches": [
-            "cn"
-          ],
-          "definition": "20bff1562ccf6c893b2dc2e73bd40e71"
-        },
-        {
-          "branches": [
+            "cn",
             "eu",
             "kr",
             "tw",
