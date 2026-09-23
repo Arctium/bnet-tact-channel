@@ -12746,6 +12746,22 @@
             "kr",
             "us"
           ],
+          "definition": "6d087dd492567912a385f3999149699b"
+        }
+      ],
+      "infrastructure": false,
+      "product": "lyra",
+      "regions": [],
+      "variant": "lyra-retail-rc"
+    },
+    {
+      "builds": [
+        {
+          "branches": [
+            "eu",
+            "kr",
+            "us"
+          ],
           "definition": "411a5d703747b92cf58bf07eaa475284"
         }
       ],
