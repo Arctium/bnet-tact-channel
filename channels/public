@@ -12269,22 +12269,22 @@
             "android_amazon",
             "android_cn",
             "android_cn_dashen",
-            "android_cn_huawei",
             "android_google",
             "android_onestore",
-            "ios",
-            "ios_cn"
-          ],
-          "definition": "aad96787c52e8ce7caaa58be2e35c5a2"
-        },
-        {
-          "branches": [
             "cn",
             "eu",
             "kr",
             "us"
           ],
           "definition": "c35910966895fdc9d5cf1ccabdb7a4c7"
+        },
+        {
+          "branches": [
+            "android_cn_huawei",
+            "ios",
+            "ios_cn"
+          ],
+          "definition": "aad96787c52e8ce7caaa58be2e35c5a2"
         }
       ],
       "infrastructure": false,
