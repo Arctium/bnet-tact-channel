@@ -16734,6 +16734,47 @@
       "builds": [
         {
           "branches": [
+            "cn",
+            "us"
+          ],
+          "definition": "0b3a7ed45c4c59294ba4463344513223"
+        }
+      ],
+      "infrastructure": false,
+      "product": "wow",
+      "regions": [
+        {
+          "branches": [
+            "tw",
+            "us"
+          ],
+          "cdns": "ad298166bc8896ec90ad1cff7b693bd5"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "04458a4f0d38210a778428f7bc1c41c5"
+        },
+        {
+          "branches": [
+            "cn"
+          ],
+          "cdns": "3cc07b8abb8ad2f7349e2613d7fdad94"
+        },
+        {
+          "branches": [
+            "kr"
+          ],
+          "cdns": "8967c799fa1e344e1b8dfe8d95e517fe"
+        }
+      ],
+      "variant": "wow_cn_beta"
+    },
+    {
+      "builds": [
+        {
+          "branches": [
             "eu",
             "kr",
             "sg",
