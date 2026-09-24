@@ -14315,6 +14315,7 @@
       "builds": [
         {
           "branches": [
+            "cn",
             "eu",
             "kr",
             "us"
