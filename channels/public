@@ -12273,6 +12273,7 @@
             "android_onestore",
             "cn",
             "eu",
+            "ios",
             "kr",
             "us"
           ],
@@ -12281,7 +12282,6 @@
         {
           "branches": [
             "android_cn_huawei",
-            "ios",
             "ios_cn"
           ],
           "definition": "aad96787c52e8ce7caaa58be2e35c5a2"
