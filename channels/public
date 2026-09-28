@@ -12118,17 +12118,12 @@
         {
           "branches": [
             "eu",
+            "kr",
             "sg",
+            "tw",
             "us"
           ],
           "definition": "950499a15b456c5ca6796b6185a7c989"
-        },
-        {
-          "branches": [
-            "kr",
-            "tw"
-          ],
-          "definition": "27be7990221eaab15891d89a61c9e411"
         }
       ],
       "infrastructure": false,
