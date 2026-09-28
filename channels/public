@@ -12275,16 +12275,11 @@
             "cn",
             "eu",
             "ios",
+            "ios_cn",
             "kr",
             "us"
           ],
           "definition": "c35910966895fdc9d5cf1ccabdb7a4c7"
-        },
-        {
-          "branches": [
-            "ios_cn"
-          ],
-          "definition": "aad96787c52e8ce7caaa58be2e35c5a2"
         }
       ],
       "infrastructure": false,
