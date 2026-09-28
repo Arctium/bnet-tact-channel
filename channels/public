@@ -11853,20 +11853,10 @@
             "kr",
             "us"
           ],
-          "definition": "907eb3d7720daf43cfde4e45686b9c17"
+          "definition": "a741030f31f2f09c22aaa642426a6ad2"
         }
       ],
       "infrastructure": false,
-      "preloads": [
-        {
-          "branches": [
-            "eu",
-            "kr",
-            "us"
-          ],
-          "definition": "3aaebaf1a8391435762d1df83e52709a"
-        }
-      ],
       "product": "gdt",
       "regions": [
         {
