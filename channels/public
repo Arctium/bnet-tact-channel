@@ -12138,11 +12138,16 @@
           "branches": [
             "eu",
             "kr",
-            "sg",
-            "tw",
-            "us"
+            "tw"
           ],
           "definition": "950499a15b456c5ca6796b6185a7c989"
+        },
+        {
+          "branches": [
+            "sg",
+            "us"
+          ],
+          "definition": "5841f8b2333fbad53d9e49d3eddc3866"
         }
       ],
       "infrastructure": false,
