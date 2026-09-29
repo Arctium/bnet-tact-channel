@@ -12143,11 +12143,16 @@
           "branches": [
             "eu",
             "kr",
-            "sg",
-            "tw",
-            "us"
+            "tw"
           ],
           "definition": "950499a15b456c5ca6796b6185a7c989"
+        },
+        {
+          "branches": [
+            "sg",
+            "us"
+          ],
+          "definition": "eaa5daff413822f7991460aa1120517c"
         }
       ],
       "infrastructure": false,
