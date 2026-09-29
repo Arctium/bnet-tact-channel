@@ -7935,15 +7935,10 @@
         },
         {
           "branches": [
-            "kr"
-          ],
-          "definition": "08306f8da2ff18e605f85961f3930c4b"
-        },
-        {
-          "branches": [
+            "kr",
             "us"
           ],
-          "definition": "ea09c502c557a96cfb3aa690e46947fb"
+          "definition": "5d30c2eef326acd0f88518b4121f0bd8"
         }
       ],
       "infrastructure": false,
@@ -12142,17 +12137,12 @@
         {
           "branches": [
             "eu",
+            "kr",
             "sg",
+            "tw",
             "us"
           ],
           "definition": "eaa5daff413822f7991460aa1120517c"
-        },
-        {
-          "branches": [
-            "kr",
-            "tw"
-          ],
-          "definition": "950499a15b456c5ca6796b6185a7c989"
         }
       ],
       "infrastructure": false,
