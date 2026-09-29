@@ -12702,6 +12702,22 @@
             "kr",
             "us"
           ],
+          "definition": "f35c80129f09c71da283dec1a007c87c"
+        }
+      ],
+      "infrastructure": false,
+      "product": "lyra",
+      "regions": [],
+      "variant": "lyra"
+    },
+    {
+      "builds": [
+        {
+          "branches": [
+            "eu",
+            "kr",
+            "us"
+          ],
           "definition": "0f22a61bd876d195d2cccb97a7dab650"
         }
       ],
