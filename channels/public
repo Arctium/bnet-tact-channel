@@ -12137,13 +12137,8 @@
         {
           "branches": [
             "eu",
-            "sg"
-          ],
-          "definition": "5841f8b2333fbad53d9e49d3eddc3866"
-        },
-        {
-          "branches": [
             "kr",
+            "sg",
             "tw",
             "us"
           ],
