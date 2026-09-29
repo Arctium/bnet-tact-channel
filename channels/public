@@ -7058,14 +7058,19 @@
           "branches": [
             "eu"
           ],
-          "definition": "743f2fb707f4b753d3900bb87ba2c0d0"
+          "definition": "85256fed7575037ffe609c2cd136c538"
         },
         {
           "branches": [
-            "kr",
-            "us"
+            "kr"
           ],
           "definition": "d640f77247212d2296f4980f5338816a"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "definition": "d5a0d62723b8df477e3451065c50f031"
         }
       ],
       "infrastructure": false,
