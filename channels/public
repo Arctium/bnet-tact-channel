@@ -16656,15 +16656,15 @@
       "builds": [
         {
           "branches": [
-            "cn",
-            "kr",
-            "tw"
+            "cn"
           ],
           "definition": "8231791616d3540574e2301ce247c47e"
         },
         {
           "branches": [
             "eu",
+            "kr",
+            "tw",
             "us"
           ],
           "definition": "72401b0ce68f4633d334a9391b8ba19a"
