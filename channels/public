@@ -10594,7 +10594,7 @@
           "branches": [
             "cn"
           ],
-          "definition": "ec0161d83ca0101af02c9741dbd93f89"
+          "definition": "7bcaf2ce0d321f35d5c737abaf025a00"
         },
         {
           "branches": [
@@ -10602,7 +10602,7 @@
             "kr",
             "us"
           ],
-          "definition": "19bac582b5f25f5df944f884a91df58e"
+          "definition": "004d94169e158df6571c0368100d7a49"
         }
       ],
       "infrastructure": false,
