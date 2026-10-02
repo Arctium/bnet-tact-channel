@@ -12257,19 +12257,24 @@
         {
           "branches": [
             "android_amazon",
-            "android_cn",
-            "android_cn_dashen",
-            "android_cn_huawei",
             "android_google",
             "android_onestore",
             "cn",
             "eu",
             "ios",
-            "ios_cn",
             "kr",
             "us"
           ],
           "definition": "6f694f1ea572e081c52d7aabd41f78d4"
+        },
+        {
+          "branches": [
+            "android_cn",
+            "android_cn_dashen",
+            "android_cn_huawei",
+            "ios_cn"
+          ],
+          "definition": "07b8739fcb818d5d71c3cd257c67daa3"
         }
       ],
       "infrastructure": false,
