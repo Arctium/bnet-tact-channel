@@ -12142,17 +12142,17 @@
         {
           "branches": [
             "eu",
-            "kr",
-            "tw"
-          ],
-          "definition": "eaa5daff413822f7991460aa1120517c"
-        },
-        {
-          "branches": [
             "sg",
             "us"
           ],
           "definition": "1b8f5597e87b25386d97a0484aff92e9"
+        },
+        {
+          "branches": [
+            "kr",
+            "tw"
+          ],
+          "definition": "eaa5daff413822f7991460aa1120517c"
         }
       ],
       "infrastructure": false,
