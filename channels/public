@@ -15556,12 +15556,7 @@
         },
         {
           "branches": [
-            "eu"
-          ],
-          "definition": "e2377df160e7582acd019a8b23bd1c77"
-        },
-        {
-          "branches": [
+            "eu",
             "kr",
             "tw",
             "us"
