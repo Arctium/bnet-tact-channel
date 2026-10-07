@@ -2048,21 +2048,11 @@
       "builds": [
         {
           "branches": [
-            "eu"
-          ],
-          "definition": "ed80e3b51e9601f0ed3126782d348f9f"
-        },
-        {
-          "branches": [
-            "kr"
-          ],
-          "definition": "63499b3d429c21a4227fc554f741489d"
-        },
-        {
-          "branches": [
+            "eu",
+            "kr",
             "us"
           ],
-          "definition": "0e5254715762d3a4161b1c5f1f085d06"
+          "definition": "f79fdb0369dbed67045d34927ce52c4a"
         }
       ],
       "infrastructure": false,
