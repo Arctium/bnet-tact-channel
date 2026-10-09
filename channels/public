@@ -7309,15 +7309,10 @@
       "builds": [
         {
           "branches": [
-            "eu"
-          ],
-          "definition": "510cf29cf2370393bb93994e508483a7"
-        },
-        {
-          "branches": [
+            "eu",
             "kr"
           ],
-          "definition": "8d77885b19e5df139c6fa877d2a6b8ec"
+          "definition": "510cf29cf2370393bb93994e508483a7"
         },
         {
           "branches": [
