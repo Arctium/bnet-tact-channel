@@ -8112,13 +8112,13 @@
           "branches": [
             "kr"
           ],
-          "definition": "253bd7f973c37785db2595eed3c6510e"
+          "definition": "e6765b5826abe10a15d8b4a16ff7a72f"
         },
         {
           "branches": [
             "us"
           ],
-          "definition": "e6765b5826abe10a15d8b4a16ff7a72f"
+          "definition": "f72e476887b6eb3cf72225477c9c5a8b"
         }
       ],
       "infrastructure": false,
