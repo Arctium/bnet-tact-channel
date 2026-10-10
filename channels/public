@@ -1301,30 +1301,6 @@
             "kr",
             "us"
           ],
-          "definition": "99d781b5a5cd04663329a995c25083bc"
-        }
-      ],
-      "infrastructure": false,
-      "product": "auks",
-      "regions": [
-        {
-          "branches": [
-            "us",
-            "eu"
-          ],
-          "cdns": "9111a3ba49fa32ba6f8af8c1642d49ca"
-        }
-      ],
-      "variant": "auksa"
-    },
-    {
-      "builds": [
-        {
-          "branches": [
-            "eu",
-            "kr",
-            "us"
-          ],
           "definition": "a9936f76dbe37e7654b796e240e2e673"
         }
       ],
