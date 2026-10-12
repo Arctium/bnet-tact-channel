@@ -7261,7 +7261,12 @@
       "builds": [
         {
           "branches": [
-            "eu",
+            "eu"
+          ],
+          "definition": "84a9b0fae68bfa1e267206c44d684d53"
+        },
+        {
+          "branches": [
             "kr"
           ],
           "definition": "510cf29cf2370393bb93994e508483a7"
@@ -7270,7 +7275,7 @@
           "branches": [
             "us"
           ],
-          "definition": "8f56d5f0aa3a30079a96600301e458ec"
+          "definition": "338835fa771d40baa5ab7c48a4eb6013"
         }
       ],
       "infrastructure": false,
