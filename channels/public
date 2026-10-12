@@ -8052,15 +8052,10 @@
         },
         {
           "branches": [
-            "kr"
-          ],
-          "definition": "55d7fa6a320e71178cdaf93b79469516"
-        },
-        {
-          "branches": [
+            "kr",
             "us"
           ],
-          "definition": "f72e476887b6eb3cf72225477c9c5a8b"
+          "definition": "9171e13370dd60c7c775f884becbd187"
         }
       ],
       "infrastructure": false,
