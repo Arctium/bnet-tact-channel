@@ -7756,21 +7756,11 @@
       "builds": [
         {
           "branches": [
-            "eu"
-          ],
-          "definition": "4b847abaada985d6c5d44e23035d80bb"
-        },
-        {
-          "branches": [
-            "kr"
-          ],
-          "definition": "078d7dd62c16f0c3206d1a26286ebd79"
-        },
-        {
-          "branches": [
+            "eu",
+            "kr",
             "us"
           ],
-          "definition": "0fd6f1baa9ca39923b224fc7ec888398"
+          "definition": "73c1d816fc8bbb5ebd3788851aa56e5d"
         }
       ],
       "infrastructure": false,
