@@ -1270,6 +1270,16 @@
         }
       ],
       "infrastructure": false,
+      "preloads": [
+        {
+          "branches": [
+            "eu",
+            "kr",
+            "us"
+          ],
+          "definition": "4ae1a609ff8a54ff7ab9bd57ea924cef"
+        }
+      ],
       "product": "auks",
       "regions": [
         {
