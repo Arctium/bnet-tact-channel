@@ -16387,15 +16387,10 @@
             "cn",
             "eu",
             "kr",
-            "tw"
-          ],
-          "definition": "138633f4ecf29a0afd6576a303deeef4"
-        },
-        {
-          "branches": [
+            "tw",
             "us"
           ],
-          "definition": "d1c4aa5b08aaa730f1742aed2550573c"
+          "definition": "138633f4ecf29a0afd6576a303deeef4"
         }
       ],
       "product": "wow",
@@ -16571,7 +16566,7 @@
             "tw",
             "us"
           ],
-          "definition": "86f63121ca688e9e9410bf07d56d8884"
+          "definition": "5de85f7ca73978082791b8647376baf2"
         }
       ],
       "infrastructure": false,
