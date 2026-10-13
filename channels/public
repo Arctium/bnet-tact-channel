@@ -16332,10 +16332,15 @@
             "kr",
             "sg",
             "tw",
-            "us",
             "xx"
           ],
           "definition": "f10a7e495bde509410aefe682ed4e711"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "definition": "d1c4aa5b08aaa730f1742aed2550573c"
         }
       ],
       "infrastructure": false,
@@ -16345,10 +16350,15 @@
             "cn",
             "eu",
             "kr",
-            "tw",
-            "us"
+            "tw"
           ],
           "definition": "138633f4ecf29a0afd6576a303deeef4"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "definition": "d1c4aa5b08aaa730f1742aed2550573c"
         }
       ],
       "product": "wow",
