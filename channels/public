@@ -12230,32 +12230,22 @@
             "android_amazon",
             "android_google",
             "android_onestore",
-            "ios"
+            "eu",
+            "ios",
+            "kr",
+            "us"
           ],
-          "definition": "0d28b512d5c7649ed3c5299e9f94d8e0"
+          "definition": "dfe0b8a02b1c4a79db8600b005c6d5fc"
         },
         {
           "branches": [
             "android_cn",
             "android_cn_dashen",
             "android_cn_huawei",
+            "cn",
             "ios_cn"
           ],
-          "definition": "030507f408f03aa82954d8a7e8f5bf5d"
-        },
-        {
-          "branches": [
-            "cn"
-          ],
           "definition": "c11caac1cbb252fa2245435c6afa363f"
-        },
-        {
-          "branches": [
-            "eu",
-            "kr",
-            "us"
-          ],
-          "definition": "dfe0b8a02b1c4a79db8600b005c6d5fc"
         }
       ],
       "infrastructure": false,
