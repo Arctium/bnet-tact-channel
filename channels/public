@@ -12203,11 +12203,7 @@
             "android_amazon",
             "android_google",
             "android_onestore",
-            "cn",
-            "eu",
-            "ios",
-            "kr",
-            "us"
+            "ios"
           ],
           "definition": "0d28b512d5c7649ed3c5299e9f94d8e0"
         },
@@ -12219,6 +12215,15 @@
             "ios_cn"
           ],
           "definition": "030507f408f03aa82954d8a7e8f5bf5d"
+        },
+        {
+          "branches": [
+            "cn",
+            "eu",
+            "kr",
+            "us"
+          ],
+          "definition": "fd8d548291cb27594bd1dd14b2d4e7dd"
         }
       ],
       "infrastructure": false,
