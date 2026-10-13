@@ -7669,6 +7669,33 @@
       "builds": [
         {
           "branches": [
+            "us"
+          ],
+          "definition": "d87c9a2079991d0228c904d0244e3cf9"
+        }
+      ],
+      "infrastructure": false,
+      "product": "auks",
+      "regions": [
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "ad298166bc8896ec90ad1cff7b693bd5"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "084aea14e8342085ace15de6e8a53b72"
+        }
+      ],
+      "variant": "rosev27"
+    },
+    {
+      "builds": [
+        {
+          "branches": [
             "eu",
             "kr",
             "us"
