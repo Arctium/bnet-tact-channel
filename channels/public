@@ -12235,7 +12235,7 @@
             "kr",
             "us"
           ],
-          "definition": "dfe0b8a02b1c4a79db8600b005c6d5fc"
+          "definition": "eba40989e0fe30fb398bc1cd53d9be43"
         },
         {
           "branches": [
@@ -12245,7 +12245,7 @@
             "cn",
             "ios_cn"
           ],
-          "definition": "c11caac1cbb252fa2245435c6afa363f"
+          "definition": "d4791520e315c188b4f838dabfc7f1b5"
         }
       ],
       "infrastructure": false,
