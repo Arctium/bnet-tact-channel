@@ -1266,20 +1266,10 @@
             "kr",
             "us"
           ],
-          "definition": "a00af7cba77c4f2846a5db8bf13c06a7"
+          "definition": "f5aefeb9c5eb88ed655e1d117a247646"
         }
       ],
       "infrastructure": false,
-      "preloads": [
-        {
-          "branches": [
-            "eu",
-            "kr",
-            "us"
-          ],
-          "definition": "d1271123aad067dbdf7c9daa9e6820a3"
-        }
-      ],
       "product": "auks",
       "regions": [
         {
