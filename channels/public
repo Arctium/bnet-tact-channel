@@ -7261,15 +7261,10 @@
       "builds": [
         {
           "branches": [
-            "eu"
-          ],
-          "definition": "ce827cae217df557ea0bd6c7375c16a4"
-        },
-        {
-          "branches": [
+            "eu",
             "kr"
           ],
-          "definition": "05eff234550a7e9f92e538492dd27e3e"
+          "definition": "ce827cae217df557ea0bd6c7375c16a4"
         },
         {
           "branches": [
