@@ -16401,18 +16401,6 @@
         }
       ],
       "infrastructure": false,
-      "preloads": [
-        {
-          "branches": [
-            "cn",
-            "eu",
-            "kr",
-            "tw",
-            "us"
-          ],
-          "definition": "865cebc17d0cf7c25da5cfb224b4504b"
-        }
-      ],
       "product": "wow",
       "regions": [
         {
