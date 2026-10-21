@@ -10229,6 +10229,39 @@
       "builds": [
         {
           "branches": [
+            "us"
+          ],
+          "definition": "9544b5ebf9fb9e047f0d20e093c6cf69"
+        }
+      ],
+      "infrastructure": false,
+      "product": "diablo2",
+      "regions": [
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "5d399315430283867e0bfe8f8d148b04"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "0d29432d9fe5c1bd748572c3e74ccdd0"
+        },
+        {
+          "branches": [
+            "kr"
+          ],
+          "cdns": "aedb8917d3ba11613f6a8337778a1d47"
+        }
+      ],
+      "variant": "osiv1"
+    },
+    {
+      "builds": [
+        {
+          "branches": [
             "eu",
             "kr",
             "tw",
