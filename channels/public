@@ -10664,6 +10664,39 @@
           "branches": [
             "us"
           ],
+          "definition": "40777b437506d06ca5d26819a8e37ecf"
+        }
+      ],
+      "infrastructure": false,
+      "product": "fenris",
+      "regions": [
+        {
+          "branches": [
+            "kr"
+          ],
+          "cdns": "c0e7d0a17586b7a6b77304f88db69983"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "8d77fec37bdc531f7ab7a2c3d7a11045"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "bc1754f11f573e568506faa05cbe52e3"
+        }
+      ],
+      "variant": "fenrise"
+    },
+    {
+      "builds": [
+        {
+          "branches": [
+            "us"
+          ],
           "definition": "12585930e06cb6122c41863e5c7334d1"
         }
       ],
