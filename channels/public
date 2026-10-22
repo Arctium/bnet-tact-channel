@@ -12263,7 +12263,7 @@
             "kr",
             "us"
           ],
-          "definition": "c2c40fb2efd0396b89490fc0606ceb54"
+          "definition": "f6c1bc5a135592f28d7f6cc88870fc87"
         },
         {
           "branches": [
@@ -12273,7 +12273,7 @@
             "cn",
             "ios_cn"
           ],
-          "definition": "8da63e98839dad093151d6119be1a217"
+          "definition": "8921c25c6196e1ed33b6720d0b61bdc9"
         }
       ],
       "infrastructure": false,
