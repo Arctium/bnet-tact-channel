@@ -10849,7 +10849,7 @@
             "cn",
             "us"
           ],
-          "definition": "ea93751b38e989edb1a5aae4bf241a79"
+          "definition": "6e00f95c566665c505b6060bc011dd4e"
         }
       ],
       "infrastructure": false,
@@ -10882,7 +10882,7 @@
           "branches": [
             "cn"
           ],
-          "definition": "84a9db4363f1b86d1efe4726a4e459b3"
+          "definition": "083e637d828a6a1f8e58b2161fe0dd2f"
         }
       ],
       "infrastructure": false,
@@ -10918,7 +10918,7 @@
             "kr",
             "us"
           ],
-          "definition": "181c27f1fc4ca346e06a55190e449e3e"
+          "definition": "48293b4c29fe2801f2e8b19fbdbd321e"
         }
       ],
       "infrastructure": false,
@@ -10951,7 +10951,7 @@
           "branches": [
             "cn"
           ],
-          "definition": "b76badedc171098db87c138e5786c890"
+          "definition": "4f4ac5a06eb91bed6fda0ee9c638f0b9"
         }
       ],
       "infrastructure": false,
@@ -10984,7 +10984,7 @@
           "branches": [
             "cn"
           ],
-          "definition": "36d8dd296ffeac420d040f40d60b65c9"
+          "definition": "2b7f21dff9681c87fa850b3654537a14"
         }
       ],
       "infrastructure": false,
