@@ -8079,12 +8079,7 @@
         },
         {
           "branches": [
-            "kr"
-          ],
-          "definition": "2aa2d5d121eda0cc82ba53755365e680"
-        },
-        {
-          "branches": [
+            "kr",
             "us"
           ],
           "definition": "b69b2826d82f46a23a418b2cda0033de"
