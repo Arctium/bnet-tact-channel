@@ -15333,6 +15333,29 @@
       "builds": [
         {
           "branches": [
+            "eu",
+            "kr",
+            "us"
+          ],
+          "definition": "dc4abdb9c01a692e7f8421a5ba1a6d14"
+        }
+      ],
+      "infrastructure": false,
+      "product": "pho",
+      "regions": [
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"
+        }
+      ],
+      "variant": "phobos_event"
+    },
+    {
+      "builds": [
+        {
+          "branches": [
             "beta"
           ],
           "definition": "b0a176e942f1c63e6972e0dcd628a2f0"
