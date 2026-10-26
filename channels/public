@@ -12252,6 +12252,7 @@
           "branches": [
             "android_amazon",
             "android_google",
+            "android_onestore",
             "eu",
             "ios",
             "kr",
@@ -12267,12 +12268,6 @@
             "cn"
           ],
           "definition": "683f06f9cd0839b93dcb77e99f297689"
-        },
-        {
-          "branches": [
-            "android_onestore"
-          ],
-          "definition": "32c3d96d449f4ac6be1a741be23c2e54"
         },
         {
           "branches": [
