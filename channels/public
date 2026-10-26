@@ -12252,25 +12252,30 @@
           "branches": [
             "android_amazon",
             "android_google",
-            "android_onestore",
             "eu",
             "ios",
             "kr",
             "us"
           ],
-          "definition": "32c3d96d449f4ac6be1a741be23c2e54"
+          "definition": "88e10f23c390c8fa7cf85210ad3af3c4"
         },
         {
           "branches": [
             "android_cn",
             "android_cn_dashen",
-            "android_cn_huawei"
+            "android_cn_huawei",
+            "cn"
           ],
           "definition": "683f06f9cd0839b93dcb77e99f297689"
         },
         {
           "branches": [
-            "cn",
+            "android_onestore"
+          ],
+          "definition": "32c3d96d449f4ac6be1a741be23c2e54"
+        },
+        {
+          "branches": [
             "ios_cn"
           ],
           "definition": "e53bef32b27abacc2efc4b0461e2cfa6"
