@@ -12263,13 +12263,13 @@
         {
           "branches": [
             "android_cn",
-            "android_cn_dashen"
+            "android_cn_dashen",
+            "android_cn_huawei"
           ],
           "definition": "683f06f9cd0839b93dcb77e99f297689"
         },
         {
           "branches": [
-            "android_cn_huawei",
             "cn",
             "ios_cn"
           ],
