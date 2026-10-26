@@ -10555,7 +10555,7 @@
           "branches": [
             "cn"
           ],
-          "definition": "a416e7e728e6d552382f94debcd9f108"
+          "definition": "41a337a0fc8acc46a21d04ddda0debf8"
         },
         {
           "branches": [
@@ -10563,7 +10563,7 @@
             "kr",
             "us"
           ],
-          "definition": "db0f29a2114597d5beac7088351e5f78"
+          "definition": "e18c07db65731956217e94a77ebe83b3"
         }
       ],
       "infrastructure": false,
@@ -10720,7 +10720,7 @@
             "kr",
             "us"
           ],
-          "definition": "7b51030a3decead29f5ad7d5c9d1a086"
+          "definition": "ef0f10b370ebb5090dab60e37d33fe9a"
         }
       ],
       "infrastructure": false,
