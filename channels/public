@@ -12387,6 +12387,39 @@
       "builds": [
         {
           "branches": [
+            "us"
+          ],
+          "definition": "364641cc884a95f4e8243f14191b0904"
+        }
+      ],
+      "infrastructure": false,
+      "product": "hs",
+      "regions": [
+        {
+          "branches": [
+            "kr"
+          ],
+          "cdns": "cbc1b0f369ce9718d415068097832be6"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "a744a1699a13347916dd9d7aa0ea70ed"
+        },
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "0d29432d9fe5c1bd748572c3e74ccdd0"
+        }
+      ],
+      "variant": "hse1"
+    },
+    {
+      "builds": [
+        {
+          "branches": [
             "android_amazon",
             "android_google",
             "android_onestore",
