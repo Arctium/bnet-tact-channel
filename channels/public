@@ -12318,7 +12318,7 @@
             "kr",
             "us"
           ],
-          "definition": "88e10f23c390c8fa7cf85210ad3af3c4"
+          "definition": "45f95b1691318d3c914f89dbf8532299"
         },
         {
           "branches": [
@@ -12327,13 +12327,13 @@
             "android_cn_huawei",
             "cn"
           ],
-          "definition": "683f06f9cd0839b93dcb77e99f297689"
+          "definition": "6651fcd8986562c75aa6e2d995c5eb70"
         },
         {
           "branches": [
             "ios_cn"
           ],
-          "definition": "e53bef32b27abacc2efc4b0461e2cfa6"
+          "definition": "d18f2b95264ea6540654f26a1cf904e4"
         }
       ],
       "infrastructure": false,
