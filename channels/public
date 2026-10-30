@@ -17175,17 +17175,12 @@
         {
           "branches": [
             "cn",
+            "eu",
             "kr",
             "tw",
             "us"
           ],
           "definition": "5c504aa244d1418b35c4cea5f7f3c492"
-        },
-        {
-          "branches": [
-            "eu"
-          ],
-          "definition": "991c2b4a0644d02893356327b311d1b8"
         }
       ],
       "infrastructure": false,
