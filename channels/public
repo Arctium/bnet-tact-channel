@@ -12898,6 +12898,35 @@
             "kr",
             "us"
           ],
+          "definition": "2c3fa4e383121be928f9db1a0313f538"
+        }
+      ],
+      "infrastructure": false,
+      "product": "malb",
+      "regions": [
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "287b8918c145665428c6f714cdc6e3bd"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "919646d723f2fff72418101b1223ddb0"
+        }
+      ],
+      "variant": "malb-retail-rc"
+    },
+    {
+      "builds": [
+        {
+          "branches": [
+            "eu",
+            "kr",
+            "us"
+          ],
           "definition": "4814ea2196cdb51555d9c8c34d3e1adc"
         }
       ],
