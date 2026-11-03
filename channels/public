@@ -16601,7 +16601,7 @@
             "us",
             "xx"
           ],
-          "definition": "6c9570fbd5a1439a295b515b9e53931d"
+          "definition": "90bf5e333d59d39ee9fee7f3bb62af73"
         }
       ],
       "infrastructure": false,
@@ -16645,7 +16645,7 @@
             "tw",
             "us"
           ],
-          "definition": "179fd03c96eff18757ade560cb293d28"
+          "definition": "b657c90ff18324a239173ad828b8d62d"
         }
       ],
       "infrastructure": false,
@@ -16691,7 +16691,7 @@
             "us",
             "xx"
           ],
-          "definition": "09fb9dc3f985dcd87fc1110d96dbb874"
+          "definition": "95caa4210486c594a20f30481e791104"
         }
       ],
       "infrastructure": false,
@@ -16735,7 +16735,7 @@
             "tw",
             "us"
           ],
-          "definition": "d0d2a12ec39da3ab5cb9f94091eaba97"
+          "definition": "b473f27b719d841c055503ee3a3f1e35"
         }
       ],
       "infrastructure": false,
@@ -16778,7 +16778,7 @@
             "tw",
             "us"
           ],
-          "definition": "95b21d9e91ec4a9e215a21907a827e87"
+          "definition": "1a40758a0c21416b89e6ffaa3ea1eed1"
         }
       ],
       "infrastructure": false,
@@ -16822,7 +16822,7 @@
             "tw",
             "us"
           ],
-          "definition": "393c26e159fa61141252fa9304cedbb9"
+          "definition": "fcdde1e54eb8b21aa3d1746435ff1208"
         }
       ],
       "infrastructure": false,
@@ -16866,7 +16866,7 @@
             "tw",
             "us"
           ],
-          "definition": "a14dae7462f4238561b3ee91f9879f67"
+          "definition": "58bad5cabd31fb0b4c9f305e6cd0f5ee"
         }
       ],
       "infrastructure": false,
@@ -16910,7 +16910,7 @@
             "tw",
             "us"
           ],
-          "definition": "e8910681d0194963a3a22d72cddc8574"
+          "definition": "d1838cae7a7188f6fef1373236ade813"
         }
       ],
       "infrastructure": false,
@@ -16950,7 +16950,7 @@
           "branches": [
             "cn"
           ],
-          "definition": "90ba529cabd13e6a0d3be7808df18a4e"
+          "definition": "bf8f8bc0c0002e1593488b4c946c8876"
         }
       ],
       "infrastructure": false,
@@ -16991,7 +16991,7 @@
             "cn",
             "us"
           ],
-          "definition": "333bcab2f641276235ae9e7a1b5e306b"
+          "definition": "4a040ff46aa75f1b1a15a606e1985688"
         }
       ],
       "infrastructure": false,
@@ -17180,7 +17180,7 @@
             "us",
             "xx"
           ],
-          "definition": "06ee7d50ca4676e5eb307274a4737c76"
+          "definition": "12273d5600f24c3e504f4accf2957e51"
         }
       ],
       "infrastructure": false,
@@ -17218,18 +17218,13 @@
       "builds": [
         {
           "branches": [
-            "cn"
-          ],
-          "definition": "78b0afdf0ecb5eecb2447d7ec38ae74a"
-        },
-        {
-          "branches": [
+            "cn",
             "eu",
             "kr",
             "tw",
             "us"
           ],
-          "definition": "8375d2a5fc729a5434217afbe231ede6"
+          "definition": "009c24d3e6b5f7c480ad1a3fddd7002d"
         }
       ],
       "infrastructure": false,
@@ -17273,7 +17268,7 @@
             "us",
             "xx"
           ],
-          "definition": "e2145b1a2511f57a970b8e9b328300dd"
+          "definition": "966a494353fb449aad9e5c6c7649c48e"
         }
       ],
       "infrastructure": false,
@@ -17785,7 +17780,7 @@
             "us",
             "xx"
           ],
-          "definition": "0ecca1d1cbb3e10a0830eceaefddde2f"
+          "definition": "65a7c4edf27e535c4ba86337d4439913"
         }
       ],
       "infrastructure": false,
@@ -18192,7 +18187,7 @@
             "tw",
             "us"
           ],
-          "definition": "cc25fdb4a550900571f9fe879f920202"
+          "definition": "0b0cd4f6804cb600457aa0ba5606eb69"
         }
       ],
       "infrastructure": false,
@@ -18238,7 +18233,7 @@
             "us",
             "xx"
           ],
-          "definition": "06e9e713bd267fafef541bde0c331ab5"
+          "definition": "a237496c04898299fe9a489e77c87e7e"
         }
       ],
       "infrastructure": false,
