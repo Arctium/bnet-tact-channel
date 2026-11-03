@@ -14961,13 +14961,13 @@
             "sg",
             "tw"
           ],
-          "definition": "09a3f7fb50cb0d9b6eadd4db7bb6b6d5"
+          "definition": "81d25ff24a38150cd7739914f1200716"
         },
         {
           "branches": [
             "us"
           ],
-          "definition": "03121f37cdbc6abe421d100d8b4b99a7"
+          "definition": "73651702bcfd08951745381d164289f4"
         }
       ],
       "infrastructure": false,
@@ -14997,13 +14997,13 @@
             "sg",
             "tw"
           ],
-          "definition": "b5a8234ba0c094f0f5d61aa42d380893"
+          "definition": "75ebcac154cec6bcc7675551251c0a0f"
         },
         {
           "branches": [
             "us"
           ],
-          "definition": "964f882d26d70b0b1b58024e31e4c10a"
+          "definition": "f2c66bae790167246fdaa75f1716db31"
         }
       ],
       "infrastructure": false,
@@ -15034,13 +15034,13 @@
             "sg",
             "tw"
           ],
-          "definition": "97ebdf55a8a6aaf8e3f0479dc47178cf"
+          "definition": "31b70b8702eae7e74053bad6817ff803"
         },
         {
           "branches": [
             "us"
           ],
-          "definition": "bc45902f06754f4625a5551aff65fb64"
+          "definition": "aaedc939aaeb290b5596c1d3cf70caad"
         }
       ],
       "infrastructure": false,
@@ -15071,13 +15071,13 @@
             "sg",
             "tw"
           ],
-          "definition": "c3377c8a5d205416ca839d0879528ac6"
+          "definition": "976800160ea6b9374977c9a4887e3365"
         },
         {
           "branches": [
             "us"
           ],
-          "definition": "da13ed8314be67ffb6cffc1f2bc3443b"
+          "definition": "4a0c6bc5b8b7562aca5083b6446e4461"
         }
       ],
       "infrastructure": false,
