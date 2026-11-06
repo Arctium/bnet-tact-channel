@@ -1266,20 +1266,10 @@
             "kr",
             "us"
           ],
-          "definition": "da1d1c4f58266ead78a4ef5310013dbb"
+          "definition": "9865bd8e6c4ed28e135e837168c93e97"
         }
       ],
       "infrastructure": false,
-      "preloads": [
-        {
-          "branches": [
-            "eu",
-            "kr",
-            "us"
-          ],
-          "definition": "6b67c214ecee79b3be1b46053cdfa4f5"
-        }
-      ],
       "product": "auks",
       "regions": [
         {
@@ -1311,7 +1301,7 @@
             "kr",
             "us"
           ],
-          "definition": "b66299f58a708b616eb6b5b51adf6d59"
+          "definition": "ec04f99c105eba02012da61f1217b633"
         }
       ],
       "infrastructure": false,
@@ -1437,7 +1427,7 @@
             "kr",
             "us"
           ],
-          "definition": "02366995a38b2bd32da2597beca804f8"
+          "definition": "28afc060478cc9ff70aec1df36503520"
         }
       ],
       "infrastructure": false,
@@ -5411,7 +5401,7 @@
             "kr",
             "us"
           ],
-          "definition": "fa72d268a01d61e16ae3455c74da4bc8"
+          "definition": "604cbfb4187f66016855a40575eca32c"
         }
       ],
       "infrastructure": false,
@@ -5446,7 +5436,7 @@
             "kr",
             "us"
           ],
-          "definition": "360de506ee9c0e0e90494feeb835eeb1"
+          "definition": "3206af0b6a689cd8adcdf0951cddd63e"
         }
       ],
       "infrastructure": false,
@@ -9349,7 +9339,7 @@
             "kr",
             "us"
           ],
-          "definition": "2e3cb992b3a8e5e7b45b36803cb0d966"
+          "definition": "91d59908e8d8ec4b38bda70aca8f523c"
         }
       ],
       "infrastructure": false,
