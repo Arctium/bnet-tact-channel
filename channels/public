@@ -1,5 +1,5 @@
 {
-  "json_version": 2,
+  "json_version": 3,
   "name": "public",
   "products": [
     {
@@ -965,7 +965,7 @@
             "kr",
             "us"
           ],
-          "definition": "1905b3cf4fc40fcd60c5a72312847497"
+          "definition": "34705c98014769c59d033a75d3f88e15"
         }
       ],
       "infrastructure": false,
@@ -1023,7 +1023,7 @@
             "kr",
             "us"
           ],
-          "definition": "201c34926ff70f06139f45cb201c7fb4"
+          "definition": "7b1752ef6a31f643d864be03183020d8"
         }
       ],
       "infrastructure": false,
