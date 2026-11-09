@@ -12881,6 +12881,41 @@
             "kr",
             "us"
           ],
+          "definition": "afbe0a02b82733f86fb056093f653e01"
+        }
+      ],
+      "infrastructure": false,
+      "product": "malb",
+      "regions": [
+        {
+          "branches": [
+            "eu"
+          ],
+          "cdns": "287b8918c145665428c6f714cdc6e3bd"
+        },
+        {
+          "branches": [
+            "kr"
+          ],
+          "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"
+        },
+        {
+          "branches": [
+            "us"
+          ],
+          "cdns": "919646d723f2fff72418101b1223ddb0"
+        }
+      ],
+      "variant": "malb"
+    },
+    {
+      "builds": [
+        {
+          "branches": [
+            "eu",
+            "kr",
+            "us"
+          ],
           "definition": "f65feefa69ca0cc8f36849f55dfb6f54"
         }
       ],
