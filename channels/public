@@ -12881,7 +12881,7 @@
             "kr",
             "us"
           ],
-          "definition": "92be5bed1e0ff99a63ef816a63fd64a7"
+          "definition": "630576a3ab4f32f609336bc59c79c871"
         }
       ],
       "infrastructure": false,
@@ -12891,13 +12891,13 @@
           "branches": [
             "eu"
           ],
-          "cdns": "287b8918c145665428c6f714cdc6e3bd"
+          "cdns": "ef36466b135e3931ea85bdcfaa44f3b5"
         },
         {
           "branches": [
             "us"
           ],
-          "cdns": "919646d723f2fff72418101b1223ddb0"
+          "cdns": "5262b99fc7196b32fadac2b99a0825f2"
         }
       ],
       "variant": "malb-retail-dev-1"
