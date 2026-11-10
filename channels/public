@@ -12881,7 +12881,7 @@
             "kr",
             "us"
           ],
-          "definition": "583c63afe351dff90e122ac7d63b2635"
+          "definition": "bf6bc2dc044d14b4e554dc47fd42c6a7"
         }
       ],
       "infrastructure": false,
@@ -12897,7 +12897,7 @@
           "branches": [
             "kr"
           ],
-          "cdns": "1dfc84d84fa8e98c51ec0aa27af99d3c"
+          "cdns": "aed753a28d429bafb761f363bd6a92e3"
         },
         {
           "branches": [
