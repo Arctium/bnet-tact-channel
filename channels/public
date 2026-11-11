@@ -1,5 +1,5 @@
 {
-  "json_version": 2,
+  "json_version": 3,
   "name": "public",
   "products": [
     {
@@ -9158,12 +9158,7 @@
       "builds": [
         {
           "branches": [
-            "cn"
-          ],
-          "definition": "24717b021d86114a09d6b581cad2503e"
-        },
-        {
-          "branches": [
+            "cn",
             "eu",
             "kr",
             "tw",
