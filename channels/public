@@ -7765,7 +7765,7 @@
           "branches": [
             "cn"
           ],
-          "definition": "f8b8d01ec66e7ab294f4aa6402d570af"
+          "definition": "de927193b5b01d37696ce87013dd0f61"
         },
         {
           "branches": [
@@ -7773,7 +7773,7 @@
             "kr",
             "us"
           ],
-          "definition": "209bef2c1a96827bc8149bf6c694b511"
+          "definition": "a9f2661ee72c91553d31f1dbf0c14ef4"
         }
       ],
       "infrastructure": false,
