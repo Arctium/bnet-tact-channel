@@ -582,7 +582,7 @@
             "kr",
             "us"
           ],
-          "definition": "bd0103125c7ef724c38c875d0f489890"
+          "definition": "bc8f9b16494b1b4e477f758d30e18fa1"
         }
       ],
       "infrastructure": false,
@@ -8411,7 +8411,7 @@
           "branches": [
             "cn"
           ],
-          "definition": "cc405c1c6c65ba9d2bb195ead454e8d8"
+          "definition": "b82ff5382a3dd0610426dfd2ca31e4d8"
         },
         {
           "branches": [
