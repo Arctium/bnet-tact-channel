@@ -9006,12 +9006,7 @@
       "builds": [
         {
           "branches": [
-            "cn"
-          ],
-          "definition": "ecd95570f0645fd9cbedde46bb456ef3"
-        },
-        {
-          "branches": [
+            "cn",
             "eu",
             "kr",
             "tw",
