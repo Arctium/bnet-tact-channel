@@ -9007,7 +9007,6 @@
         {
           "branches": [
             "cn",
-            "eu",
             "kr",
             "tw"
           ],
@@ -9015,6 +9014,7 @@
         },
         {
           "branches": [
+            "eu",
             "us"
           ],
           "definition": "017a1ea5469d87df4784dad6cb1c3f7a"
