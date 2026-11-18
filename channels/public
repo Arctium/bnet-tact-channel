@@ -9006,15 +9006,15 @@
       "builds": [
         {
           "branches": [
-            "cn",
-            "kr",
-            "tw"
+            "cn"
           ],
           "definition": "ecd95570f0645fd9cbedde46bb456ef3"
         },
         {
           "branches": [
             "eu",
+            "kr",
+            "tw",
             "us"
           ],
           "definition": "8e59a59879372355ca0a53149b52886d"
