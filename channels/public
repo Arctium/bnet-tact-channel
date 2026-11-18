@@ -4073,7 +4073,7 @@
           "branches": [
             "eu"
           ],
-          "definition": "9330f53950bbccaa73c0b8843c614643"
+          "definition": "3cbc07b13c93725496cdc46471cf325e"
         },
         {
           "branches": [
@@ -4461,7 +4461,7 @@
           "branches": [
             "eu"
           ],
-          "definition": "9f197b39be000bf49b9216ade753c88e"
+          "definition": "c3925d8911e6b59eefe9ffb55b6a0ea7"
         },
         {
           "branches": [
@@ -4473,7 +4473,7 @@
           "branches": [
             "us"
           ],
-          "definition": "ee07f6bac1e74fc20a763dcaaecc8323"
+          "definition": "5a04a1b01bc0c5dbcfea18e9dcb7d144"
         }
       ],
       "infrastructure": false,
@@ -9204,15 +9204,15 @@
       "builds": [
         {
           "branches": [
-            "cn",
-            "kr",
-            "tw"
+            "cn"
           ],
           "definition": "e849f93ee530053b1fc353c32ca96c14"
         },
         {
           "branches": [
             "eu",
+            "kr",
+            "tw",
             "us"
           ],
           "definition": "a4194026a70c7479264988407077fcb2"
