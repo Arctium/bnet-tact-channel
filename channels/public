@@ -2171,6 +2171,19 @@
           "branches": [
             "us"
           ],
+          "definition": "d98274141e3486610c93bac853971e12"
+        }
+      ],
+      "infrastructure": false,
+      "product": "auks",
+      "variant": "hildr_sage_qa"
+    },
+    {
+      "builds": [
+        {
+          "branches": [
+            "us"
+          ],
           "definition": "d7ffb5e61a19eed80f35cf2802d5555a"
         }
       ],
