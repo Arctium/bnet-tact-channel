@@ -8593,12 +8593,7 @@
         },
         {
           "branches": [
-            "eu"
-          ],
-          "definition": "743ffc8131b710760549cd41f2a3db32"
-        },
-        {
-          "branches": [
+            "eu",
             "kr",
             "tw",
             "us"
