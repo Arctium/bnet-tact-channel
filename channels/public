@@ -2332,6 +2332,19 @@
       "builds": [
         {
           "branches": [
+            "us"
+          ],
+          "definition": "207c0e213f1ce9ebe7d9a2b5f0efc737"
+        }
+      ],
+      "infrastructure": false,
+      "product": "auks",
+      "variant": "kelpv7"
+    },
+    {
+      "builds": [
+        {
+          "branches": [
             "eu"
           ],
           "definition": "60e2c209d510633e72d509e7786100f0"
