@@ -3922,19 +3922,19 @@
           "branches": [
             "eu"
           ],
-          "definition": "b6bb7a8a191dff957fc63e4c1f04309b"
+          "definition": "566e3867492f574cb6ecefdea174776b"
         },
         {
           "branches": [
             "kr"
           ],
-          "definition": "2eb9f30a617d5bf9bdaed257f8b81290"
+          "definition": "b6bb7a8a191dff957fc63e4c1f04309b"
         },
         {
           "branches": [
             "us"
           ],
-          "definition": "1766b2917d2582f5dbe3fdb38ed4a156"
+          "definition": "67042d871e14d1aeb5e2ba9b38a8e3ed"
         }
       ],
       "infrastructure": false,
