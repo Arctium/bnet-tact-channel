@@ -9238,12 +9238,7 @@
       "builds": [
         {
           "branches": [
-            "cn"
-          ],
-          "definition": "62767e50edd628ea386f56c7eb4d2de3"
-        },
-        {
-          "branches": [
+            "cn",
             "eu",
             "kr",
             "tw",
