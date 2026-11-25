@@ -9317,6 +9317,19 @@
           "branches": [
             "cn"
           ],
+          "definition": "2daf7e26b85c95a340c5b8298cf759ea"
+        }
+      ],
+      "infrastructure": false,
+      "product": "wow",
+      "variant": "wownev11"
+    },
+    {
+      "builds": [
+        {
+          "branches": [
+            "cn"
+          ],
           "definition": "ed24a3845d3b3236af39789abe149342"
         }
       ],
