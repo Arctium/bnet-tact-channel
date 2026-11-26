@@ -6903,17 +6903,17 @@
         {
           "branches": [
             "eu",
-            "kr",
-            "tw"
-          ],
-          "definition": "7a50389b6871e62a88aa90ad19a8faae"
-        },
-        {
-          "branches": [
             "sg",
             "us"
           ],
           "definition": "9e7f738da3699b22d4731c2afb59ff31"
+        },
+        {
+          "branches": [
+            "kr",
+            "tw"
+          ],
+          "definition": "7a50389b6871e62a88aa90ad19a8faae"
         }
       ],
       "infrastructure": false,
